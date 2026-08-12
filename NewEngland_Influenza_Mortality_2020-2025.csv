@@ -1,0 +1,1561 @@
+area,sub_area,age_group,season,week,percent_i,num_influenza_deaths,total_deaths,percent_complete,state
+State,Connecticut,All,2020-21,40,0.0,0,625,> 100%,Connecticut
+State,Connecticut,All,2020-21,41,0.0,0,639,> 100%,Connecticut
+State,Connecticut,All,2020-21,42,0.0,0,617,> 100%,Connecticut
+State,Connecticut,All,2020-21,43,0.0,0,678,> 100%,Connecticut
+State,Connecticut,All,2020-21,44,0.0,0,634,> 100%,Connecticut
+State,Connecticut,All,2020-21,45,0.0,0,714,> 100%,Connecticut
+State,Connecticut,All,2020-21,46,0.0,0,668,> 100%,Connecticut
+State,Connecticut,All,2020-21,47,0.0,0,747,> 100%,Connecticut
+State,Connecticut,All,2020-21,48,0.0,0,757,> 100%,Connecticut
+State,Connecticut,All,2020-21,49,0.0,0,846,> 100%,Connecticut
+State,Connecticut,All,2020-21,50,0.0,0,839,> 100%,Connecticut
+State,Connecticut,All,2020-21,51,0.0,0,860,> 100%,Connecticut
+State,Connecticut,All,2020-21,52,0.0,0,916,> 100%,Connecticut
+State,Connecticut,All,2020-21,53,0.0,0,906,> 100%,Connecticut
+State,Connecticut,All,2020-21,1,0.0,0,860,> 100%,Connecticut
+State,Connecticut,All,2020-21,2,0.0,0,857,> 100%,Connecticut
+State,Connecticut,All,2020-21,3,0.0,0,863,> 100%,Connecticut
+State,Connecticut,All,2020-21,4,0.0,0,818,> 100%,Connecticut
+State,Connecticut,All,2020-21,5,0.0,0,768,> 100%,Connecticut
+State,Connecticut,All,2020-21,6,0.0,0,731,> 100%,Connecticut
+State,Connecticut,All,2020-21,7,0.0,0,677,> 100%,Connecticut
+State,Connecticut,All,2020-21,8,0.0,0,657,> 100%,Connecticut
+State,Connecticut,All,2020-21,9,0.0,0,641,> 100%,Connecticut
+State,Connecticut,All,2020-21,10,0.0,0,640,> 100%,Connecticut
+State,Connecticut,All,2020-21,11,0.0,0,636,> 100%,Connecticut
+State,Connecticut,All,2020-21,12,0.0,0,652,> 100%,Connecticut
+State,Connecticut,All,2020-21,13,0.0,0,620,> 100%,Connecticut
+State,Connecticut,All,2020-21,14,0.0,0,576,> 100%,Connecticut
+State,Connecticut,All,2020-21,15,0.0,0,600,> 100%,Connecticut
+State,Connecticut,All,2020-21,16,0.0,0,612,> 100%,Connecticut
+State,Connecticut,All,2020-21,17,0.0,0,628,> 100%,Connecticut
+State,Connecticut,All,2020-21,18,0.0,0,629,> 100%,Connecticut
+State,Connecticut,All,2020-21,19,0.0,0,577,> 100%,Connecticut
+State,Connecticut,All,2020-21,20,0.0,0,603,> 100%,Connecticut
+State,Connecticut,All,2020-21,21,0.0,0,614,> 100%,Connecticut
+State,Connecticut,All,2020-21,22,0.0,0,550,> 100%,Connecticut
+State,Connecticut,All,2020-21,23,0.0,0,585,> 100%,Connecticut
+State,Connecticut,All,2020-21,24,0.0,0,577,> 100%,Connecticut
+State,Connecticut,All,2020-21,25,0.0,0,585,> 100%,Connecticut
+State,Connecticut,All,2020-21,26,0.0,0,606,> 100%,Connecticut
+State,Connecticut,All,2020-21,27,0.0,0,601,> 100%,Connecticut
+State,Connecticut,All,2020-21,28,0.0,0,576,> 100%,Connecticut
+State,Connecticut,All,2020-21,29,0.0,0,601,> 100%,Connecticut
+State,Connecticut,All,2020-21,30,0.0,0,563,> 100%,Connecticut
+State,Connecticut,All,2020-21,31,0.0,0,599,> 100%,Connecticut
+State,Connecticut,All,2020-21,32,0.0,0,641,> 100%,Connecticut
+State,Connecticut,All,2020-21,33,0.0,0,634,> 100%,Connecticut
+State,Connecticut,All,2020-21,34,0.0,0,612,> 100%,Connecticut
+State,Connecticut,All,2020-21,35,0.0,0,620,> 100%,Connecticut
+State,Connecticut,All,2020-21,36,0.0,0,630,> 100%,Connecticut
+State,Connecticut,All,2020-21,37,0.0,0,669,> 100%,Connecticut
+State,Connecticut,All,2020-21,38,0.0,0,657,> 100%,Connecticut
+State,Connecticut,All,2020-21,39,0.0,0,623,> 100%,Connecticut
+State,Connecticut,All,2021-22,40,0.0,0,621,> 100%,Connecticut
+State,Connecticut,All,2021-22,41,0.0,0,615,> 100%,Connecticut
+State,Connecticut,All,2021-22,42,0.0,0,669,> 100%,Connecticut
+State,Connecticut,All,2021-22,43,0.0,0,651,> 100%,Connecticut
+State,Connecticut,All,2021-22,44,0.0,0,667,> 100%,Connecticut
+State,Connecticut,All,2021-22,45,0.149701,1,668,> 100%,Connecticut
+State,Connecticut,All,2021-22,46,0.0,0,669,> 100%,Connecticut
+State,Connecticut,All,2021-22,47,0.0,0,690,> 100%,Connecticut
+State,Connecticut,All,2021-22,48,0.130719,1,765,> 100%,Connecticut
+State,Connecticut,All,2021-22,49,0.265957,2,752,> 100%,Connecticut
+State,Connecticut,All,2021-22,50,0.0,0,708,> 100%,Connecticut
+State,Connecticut,All,2021-22,51,0.132979,1,752,> 100%,Connecticut
+State,Connecticut,All,2021-22,52,0.125628,1,796,> 100%,Connecticut
+State,Connecticut,All,2021-22,1,0.331126,3,906,> 100%,Connecticut
+State,Connecticut,All,2021-22,2,0.0,0,911,> 100%,Connecticut
+State,Connecticut,All,2021-22,3,0.0,0,992,> 100%,Connecticut
+State,Connecticut,All,2021-22,4,0.0,0,811,> 100%,Connecticut
+State,Connecticut,All,2021-22,5,0.0,0,844,> 100%,Connecticut
+State,Connecticut,All,2021-22,6,0.0,0,799,> 100%,Connecticut
+State,Connecticut,All,2021-22,7,0.0,0,708,> 100%,Connecticut
+State,Connecticut,All,2021-22,8,0.0,0,649,> 100%,Connecticut
+State,Connecticut,All,2021-22,9,0.0,0,681,> 100%,Connecticut
+State,Connecticut,All,2021-22,10,0.0,0,615,> 100%,Connecticut
+State,Connecticut,All,2021-22,11,0.158983,1,629,> 100%,Connecticut
+State,Connecticut,All,2021-22,12,0.17094,1,585,> 100%,Connecticut
+State,Connecticut,All,2021-22,13,0.0,0,619,> 100%,Connecticut
+State,Connecticut,All,2021-22,14,0.15873,1,630,> 100%,Connecticut
+State,Connecticut,All,2021-22,15,0.483092,3,621,> 100%,Connecticut
+State,Connecticut,All,2021-22,16,0.158983,1,629,> 100%,Connecticut
+State,Connecticut,All,2021-22,17,0.325203,2,615,> 100%,Connecticut
+State,Connecticut,All,2021-22,18,0.326797,2,612,> 100%,Connecticut
+State,Connecticut,All,2021-22,19,0.153374,1,652,> 100%,Connecticut
+State,Connecticut,All,2021-22,20,0.465839,3,644,> 100%,Connecticut
+State,Connecticut,All,2021-22,21,0.15748,1,635,> 100%,Connecticut
+State,Connecticut,All,2021-22,22,0.162866,1,614,> 100%,Connecticut
+State,Connecticut,All,2021-22,23,0.176678,1,566,> 100%,Connecticut
+State,Connecticut,All,2021-22,24,0.165563,1,604,> 100%,Connecticut
+State,Connecticut,All,2021-22,25,0.0,0,595,> 100%,Connecticut
+State,Connecticut,All,2021-22,26,0.0,0,642,> 100%,Connecticut
+State,Connecticut,All,2021-22,27,0.0,0,626,> 100%,Connecticut
+State,Connecticut,All,2021-22,28,0.0,0,604,> 100%,Connecticut
+State,Connecticut,All,2021-22,29,0.0,0,617,> 100%,Connecticut
+State,Connecticut,All,2021-22,30,0.169779,1,589,> 100%,Connecticut
+State,Connecticut,All,2021-22,31,0.0,0,582,> 100%,Connecticut
+State,Connecticut,All,2021-22,32,0.0,0,571,> 100%,Connecticut
+State,Connecticut,All,2021-22,33,0.0,0,610,> 100%,Connecticut
+State,Connecticut,All,2021-22,34,0.0,0,599,> 100%,Connecticut
+State,Connecticut,All,2021-22,35,0.0,0,548,> 100%,Connecticut
+State,Connecticut,All,2021-22,36,0.0,0,570,> 100%,Connecticut
+State,Connecticut,All,2021-22,37,0.0,0,566,> 100%,Connecticut
+State,Connecticut,All,2021-22,38,0.0,0,618,> 100%,Connecticut
+State,Connecticut,All,2021-22,39,0.0,0,651,> 100%,Connecticut
+State,Connecticut,All,2022-23,40,0.0,0,640,> 100%,Connecticut
+State,Connecticut,All,2022-23,41,0.0,0,656,> 100%,Connecticut
+State,Connecticut,All,2022-23,42,0.0,0,624,> 100%,Connecticut
+State,Connecticut,All,2022-23,43,0.0,0,615,> 100%,Connecticut
+State,Connecticut,All,2022-23,44,0.0,0,672,> 100%,Connecticut
+State,Connecticut,All,2022-23,45,0.294985,2,678,> 100%,Connecticut
+State,Connecticut,All,2022-23,46,0.0,0,637,> 100%,Connecticut
+State,Connecticut,All,2022-23,47,0.285307,2,701,> 100%,Connecticut
+State,Connecticut,All,2022-23,48,0.842697,6,712,> 100%,Connecticut
+State,Connecticut,All,2022-23,49,2.25989,16,708,> 100%,Connecticut
+State,Connecticut,All,2022-23,50,2.36111,17,720,> 100%,Connecticut
+State,Connecticut,All,2022-23,51,1.04575,8,765,> 100%,Connecticut
+State,Connecticut,All,2022-23,52,0.895141,7,782,> 100%,Connecticut
+State,Connecticut,All,2022-23,1,1.45138,10,689,> 100%,Connecticut
+State,Connecticut,All,2022-23,2,0.708215,5,706,> 100%,Connecticut
+State,Connecticut,All,2022-23,3,0.848656,6,707,> 100%,Connecticut
+State,Connecticut,All,2022-23,4,0.765697,5,653,> 100%,Connecticut
+State,Connecticut,All,2022-23,5,0.0,0,729,> 100%,Connecticut
+State,Connecticut,All,2022-23,6,0.0,0,676,> 100%,Connecticut
+State,Connecticut,All,2022-23,7,0.151057,1,662,> 100%,Connecticut
+State,Connecticut,All,2022-23,8,0.0,0,663,> 100%,Connecticut
+State,Connecticut,All,2022-23,9,0.0,0,669,> 100%,Connecticut
+State,Connecticut,All,2022-23,10,0.0,0,646,> 100%,Connecticut
+State,Connecticut,All,2022-23,11,0.0,0,648,> 100%,Connecticut
+State,Connecticut,All,2022-23,12,0.177936,1,562,> 100%,Connecticut
+State,Connecticut,All,2022-23,13,0.174216,1,574,> 100%,Connecticut
+State,Connecticut,All,2022-23,14,0.0,0,616,> 100%,Connecticut
+State,Connecticut,All,2022-23,15,0.157233,1,636,> 100%,Connecticut
+State,Connecticut,All,2022-23,16,0.0,0,580,> 100%,Connecticut
+State,Connecticut,All,2022-23,17,0.0,0,587,> 100%,Connecticut
+State,Connecticut,All,2022-23,18,0.0,0,641,> 100%,Connecticut
+State,Connecticut,All,2022-23,19,0.0,0,591,> 100%,Connecticut
+State,Connecticut,All,2022-23,20,0.0,0,583,> 100%,Connecticut
+State,Connecticut,All,2022-23,21,0.171821,1,582,> 100%,Connecticut
+State,Connecticut,All,2022-23,22,0.0,0,574,> 100%,Connecticut
+State,Connecticut,All,2022-23,23,0.0,0,573,> 100%,Connecticut
+State,Connecticut,All,2022-23,24,0.0,0,552,> 100%,Connecticut
+State,Connecticut,All,2022-23,25,0.178571,1,560,> 100%,Connecticut
+State,Connecticut,All,2022-23,26,0.0,0,607,> 100%,Connecticut
+State,Connecticut,All,2022-23,27,0.0,0,576,> 100%,Connecticut
+State,Connecticut,All,2022-23,28,0.0,0,563,> 100%,Connecticut
+State,Connecticut,All,2022-23,29,0.0,0,607,> 100%,Connecticut
+State,Connecticut,All,2022-23,30,0.0,0,577,> 100%,Connecticut
+State,Connecticut,All,2022-23,31,0.173611,1,576,> 100%,Connecticut
+State,Connecticut,All,2022-23,32,0.0,0,587,> 100%,Connecticut
+State,Connecticut,All,2022-23,33,0.0,0,573,> 100%,Connecticut
+State,Connecticut,All,2022-23,34,0.0,0,623,> 100%,Connecticut
+State,Connecticut,All,2022-23,35,0.0,0,573,> 100%,Connecticut
+State,Connecticut,All,2022-23,36,0.0,0,646,> 100%,Connecticut
+State,Connecticut,All,2022-23,37,0.0,0,597,> 100%,Connecticut
+State,Connecticut,All,2022-23,38,0.0,0,583,> 100%,Connecticut
+State,Connecticut,All,2022-23,39,0.161551,1,619,> 100%,Connecticut
+State,Connecticut,All,2023-24,40,0.0,0,635,> 100%,Connecticut
+State,Connecticut,All,2023-24,41,0.0,0,612,> 100%,Connecticut
+State,Connecticut,All,2023-24,42,0.0,0,654,> 100%,Connecticut
+State,Connecticut,All,2023-24,43,0.473934,3,633,> 100%,Connecticut
+State,Connecticut,All,2023-24,44,0.0,0,675,> 100%,Connecticut
+State,Connecticut,All,2023-24,45,0.0,0,679,> 100%,Connecticut
+State,Connecticut,All,2023-24,46,0.0,0,586,> 100%,Connecticut
+State,Connecticut,All,2023-24,47,0.0,0,678,> 100%,Connecticut
+State,Connecticut,All,2023-24,48,0.64,4,625,> 100%,Connecticut
+State,Connecticut,All,2023-24,49,0.449102,3,668,> 100%,Connecticut
+State,Connecticut,All,2023-24,50,0.764526,5,654,> 100%,Connecticut
+State,Connecticut,All,2023-24,51,0.900901,6,666,> 100%,Connecticut
+State,Connecticut,All,2023-24,52,0.987306,7,709,> 100%,Connecticut
+State,Connecticut,All,2023-24,1,0.970874,7,721,> 100%,Connecticut
+State,Connecticut,All,2023-24,2,1.35501,10,738,> 100%,Connecticut
+State,Connecticut,All,2023-24,3,0.766871,5,652,> 100%,Connecticut
+State,Connecticut,All,2023-24,4,0.573066,4,698,> 100%,Connecticut
+State,Connecticut,All,2023-24,5,0.766871,5,652,> 100%,Connecticut
+State,Connecticut,All,2023-24,6,0.301205,2,664,> 100%,Connecticut
+State,Connecticut,All,2023-24,7,0.64,4,625,> 100%,Connecticut
+State,Connecticut,All,2023-24,8,0.770416,5,649,> 100%,Connecticut
+State,Connecticut,All,2023-24,9,0.739645,5,676,> 100%,Connecticut
+State,Connecticut,All,2023-24,10,0.453172,3,662,> 100%,Connecticut
+State,Connecticut,All,2023-24,11,1.48588,10,673,> 100%,Connecticut
+State,Connecticut,All,2023-24,12,0.918836,6,653,> 100%,Connecticut
+State,Connecticut,All,2023-24,13,0.31348,2,638,> 100%,Connecticut
+State,Connecticut,All,2023-24,14,0.596125,4,671,> 100%,Connecticut
+State,Connecticut,All,2023-24,15,0.8,5,625,> 100%,Connecticut
+State,Connecticut,All,2023-24,16,0.330579,2,605,> 100%,Connecticut
+State,Connecticut,All,2023-24,17,0.161031,1,621,> 100%,Connecticut
+State,Connecticut,All,2023-24,18,0.160256,1,624,> 100%,Connecticut
+State,Connecticut,All,2023-24,19,0.513699,3,584,> 100%,Connecticut
+State,Connecticut,All,2023-24,20,0.347222,2,576,> 100%,Connecticut
+State,Connecticut,All,2023-24,21,0.325203,2,615,> 100%,Connecticut
+State,Connecticut,All,2023-24,22,0.174216,1,574,> 100%,Connecticut
+State,Connecticut,All,2023-24,23,0.0,0,600,> 100%,Connecticut
+State,Connecticut,All,2023-24,24,0.17094,1,585,> 100%,Connecticut
+State,Connecticut,All,2023-24,25,0.17301,1,578,> 100%,Connecticut
+State,Connecticut,All,2023-24,26,0.169205,1,591,> 100%,Connecticut
+State,Connecticut,All,2023-24,27,0.0,0,571,> 100%,Connecticut
+State,Connecticut,All,2023-24,28,0.170358,1,587,> 100%,Connecticut
+State,Connecticut,All,2023-24,29,0.0,0,566,> 100%,Connecticut
+State,Connecticut,All,2023-24,30,0.0,0,555,> 100%,Connecticut
+State,Connecticut,All,2023-24,31,0.0,0,617,> 100%,Connecticut
+State,Connecticut,All,2023-24,32,0.0,0,614,> 100%,Connecticut
+State,Connecticut,All,2023-24,33,0.0,0,599,> 100%,Connecticut
+State,Connecticut,All,2023-24,34,0.0,0,592,> 100%,Connecticut
+State,Connecticut,All,2023-24,35,0.0,0,619,> 100%,Connecticut
+State,Connecticut,All,2023-24,36,0.0,0,557,> 100%,Connecticut
+State,Connecticut,All,2023-24,37,0.154321,1,648,> 100%,Connecticut
+State,Connecticut,All,2023-24,38,0.0,0,560,> 100%,Connecticut
+State,Connecticut,All,2023-24,39,0.0,0,570,> 100%,Connecticut
+State,Connecticut,All,2024-25,40,0.0,0,604,> 100%,Connecticut
+State,Connecticut,All,2024-25,41,0.166945,1,599,> 100%,Connecticut
+State,Connecticut,All,2024-25,42,0.0,0,609,> 100%,Connecticut
+State,Connecticut,All,2024-25,43,0.0,0,609,> 100%,Connecticut
+State,Connecticut,All,2024-25,44,0.0,0,605,> 100%,Connecticut
+State,Connecticut,All,2024-25,45,0.15456,1,647,> 100%,Connecticut
+State,Connecticut,All,2024-25,46,0.171233,1,584,> 100%,Connecticut
+State,Connecticut,All,2024-25,47,0.0,0,636,> 100%,Connecticut
+State,Connecticut,All,2024-25,48,0.0,0,611,> 100%,Connecticut
+State,Connecticut,All,2024-25,49,0.0,0,638,> 100%,Connecticut
+State,Connecticut,All,2024-25,50,0.0,0,672,> 100%,Connecticut
+State,Connecticut,All,2024-25,51,0.0,0,618,> 100%,Connecticut
+State,Connecticut,All,2024-25,52,0.0,0,628,> 100%,Connecticut
+State,Connecticut,All,2024-25,1,0.868307,6,691,> 100%,Connecticut
+State,Connecticut,All,2024-25,2,1.36986,10,730,> 100%,Connecticut
+State,Connecticut,All,2024-25,3,2.5266,19,752,> 100%,Connecticut
+State,Connecticut,All,2024-25,4,2.35602,18,764,> 100%,Connecticut
+State,Connecticut,All,2024-25,5,2.3968,18,751,> 100%,Connecticut
+State,Connecticut,All,2024-25,6,2.89655,21,725,> 100%,Connecticut
+State,Connecticut,All,2024-25,7,3.18119,23,723,> 100%,Connecticut
+State,Connecticut,All,2024-25,8,3.77113,29,769,> 100%,Connecticut
+State,Connecticut,All,2024-25,9,3.39943,24,706,> 100%,Connecticut
+State,Connecticut,All,2024-25,10,1.84049,12,652,> 100%,Connecticut
+State,Connecticut,All,2024-25,11,1.16788,8,685,> 100%,Connecticut
+State,Connecticut,All,2024-25,12,1.11288,7,629,> 100%,Connecticut
+State,Connecticut,All,2024-25,13,0.315956,2,633,> 100%,Connecticut
+State,Connecticut,All,2024-25,14,0.497512,3,603,> 100%,Connecticut
+State,Connecticut,All,2024-25,15,0.334448,2,598,> 100%,Connecticut
+State,Connecticut,All,2024-25,16,0.343643,2,582,> 100%,Connecticut
+State,Connecticut,All,2024-25,17,0.0,0,588,> 100%,Connecticut
+State,Connecticut,All,2024-25,18,0.338409,2,591,> 100%,Connecticut
+State,Connecticut,All,2024-25,19,0.357143,2,560,> 100%,Connecticut
+State,Connecticut,All,2024-25,20,0.161031,1,621,> 100%,Connecticut
+State,Connecticut,All,2024-25,21,0.192308,1,520,> 100%,Connecticut
+State,Connecticut,All,2024-25,22,0.174825,1,572,> 100%,Connecticut
+State,Connecticut,All,2024-25,23,0.169492,1,590,> 100%,Connecticut
+State,Connecticut,All,2024-25,24,0.0,0,532,> 100%,Connecticut
+State,Connecticut,All,2024-25,25,0.0,0,567,> 100%,Connecticut
+State,Connecticut,All,2024-25,26,0.0,0,577,> 100%,Connecticut
+State,Connecticut,All,2024-25,27,0.0,0,587,> 100%,Connecticut
+State,Connecticut,All,2024-25,28,0.0,0,561,> 100%,Connecticut
+State,Connecticut,All,2024-25,29,0.0,0,506,> 100%,Connecticut
+State,Connecticut,All,2024-25,30,0.0,0,559,> 100%,Connecticut
+State,Connecticut,All,2024-25,31,0.0,0,563,> 100%,Connecticut
+State,Connecticut,All,2024-25,32,0.0,0,544,> 100%,Connecticut
+State,Connecticut,All,2024-25,33,0.0,0,591,> 100%,Connecticut
+State,Connecticut,All,2024-25,34,0.0,0,583,> 100%,Connecticut
+State,Connecticut,All,2024-25,35,0.0,0,575,> 100%,Connecticut
+State,Connecticut,All,2024-25,36,0.0,0,550,> 100%,Connecticut
+State,Connecticut,All,2024-25,37,0.0,0,460,> 100%,Connecticut
+State,Connecticut,All,2024-25,38,0.0,0,401,> 100%,Connecticut
+State,Maine,All,2020-21,40,0.0,0,287,> 100%,Maine
+State,Maine,All,2020-21,41,0.0,0,299,> 100%,Maine
+State,Maine,All,2020-21,42,0.0,0,273,> 100%,Maine
+State,Maine,All,2020-21,43,0.0,0,277,> 100%,Maine
+State,Maine,All,2020-21,44,0.0,0,279,> 100%,Maine
+State,Maine,All,2020-21,45,0.0,0,336,> 100%,Maine
+State,Maine,All,2020-21,46,0.0,0,323,> 100%,Maine
+State,Maine,All,2020-21,47,0.322581,1,310,> 100%,Maine
+State,Maine,All,2020-21,48,0.0,0,343,> 100%,Maine
+State,Maine,All,2020-21,49,0.284091,1,352,> 100%,Maine
+State,Maine,All,2020-21,50,0.0,0,352,> 100%,Maine
+State,Maine,All,2020-21,51,0.0,0,328,> 100%,Maine
+State,Maine,All,2020-21,52,0.0,0,350,> 100%,Maine
+State,Maine,All,2020-21,53,0.0,0,367,> 100%,Maine
+State,Maine,All,2020-21,1,0.0,0,346,> 100%,Maine
+State,Maine,All,2020-21,2,0.0,0,377,> 100%,Maine
+State,Maine,All,2020-21,3,0.0,0,343,> 100%,Maine
+State,Maine,All,2020-21,4,0.0,0,360,> 100%,Maine
+State,Maine,All,2020-21,5,0.0,0,303,> 100%,Maine
+State,Maine,All,2020-21,6,0.0,0,331,> 100%,Maine
+State,Maine,All,2020-21,7,0.0,0,296,> 100%,Maine
+State,Maine,All,2020-21,8,0.0,0,292,> 100%,Maine
+State,Maine,All,2020-21,9,0.0,0,335,> 100%,Maine
+State,Maine,All,2020-21,10,0.0,0,290,> 100%,Maine
+State,Maine,All,2020-21,11,0.0,0,248,> 100%,Maine
+State,Maine,All,2020-21,12,0.0,0,269,> 100%,Maine
+State,Maine,All,2020-21,13,0.0,0,315,> 100%,Maine
+State,Maine,All,2020-21,14,0.0,0,298,> 100%,Maine
+State,Maine,All,2020-21,15,0.0,0,314,> 100%,Maine
+State,Maine,All,2020-21,16,0.0,0,291,> 100%,Maine
+State,Maine,All,2020-21,17,0.0,0,307,> 100%,Maine
+State,Maine,All,2020-21,18,0.0,0,305,> 100%,Maine
+State,Maine,All,2020-21,19,0.0,0,299,> 100%,Maine
+State,Maine,All,2020-21,20,0.0,0,342,> 100%,Maine
+State,Maine,All,2020-21,21,0.0,0,318,> 100%,Maine
+State,Maine,All,2020-21,22,0.0,0,300,> 100%,Maine
+State,Maine,All,2020-21,23,0.0,0,323,> 100%,Maine
+State,Maine,All,2020-21,24,0.0,0,294,> 100%,Maine
+State,Maine,All,2020-21,25,0.0,0,318,> 100%,Maine
+State,Maine,All,2020-21,26,0.322581,1,310,> 100%,Maine
+State,Maine,All,2020-21,27,0.0,0,320,> 100%,Maine
+State,Maine,All,2020-21,28,0.0,0,305,> 100%,Maine
+State,Maine,All,2020-21,29,0.0,0,286,> 100%,Maine
+State,Maine,All,2020-21,30,0.0,0,286,> 100%,Maine
+State,Maine,All,2020-21,31,0.0,0,276,> 100%,Maine
+State,Maine,All,2020-21,32,0.0,0,314,> 100%,Maine
+State,Maine,All,2020-21,33,0.0,0,302,> 100%,Maine
+State,Maine,All,2020-21,34,0.0,0,298,> 100%,Maine
+State,Maine,All,2020-21,35,0.0,0,318,> 100%,Maine
+State,Maine,All,2020-21,36,0.0,0,332,> 100%,Maine
+State,Maine,All,2020-21,37,0.297619,1,336,> 100%,Maine
+State,Maine,All,2020-21,38,0.0,0,340,> 100%,Maine
+State,Maine,All,2020-21,39,0.0,0,344,> 100%,Maine
+State,Maine,All,2021-22,40,0.0,0,364,> 100%,Maine
+State,Maine,All,2021-22,41,0.0,0,375,> 100%,Maine
+State,Maine,All,2021-22,42,0.0,0,337,> 100%,Maine
+State,Maine,All,2021-22,43,0.0,0,356,> 100%,Maine
+State,Maine,All,2021-22,44,0.0,0,395,> 100%,Maine
+State,Maine,All,2021-22,45,0.0,0,396,> 100%,Maine
+State,Maine,All,2021-22,46,0.0,0,376,> 100%,Maine
+State,Maine,All,2021-22,47,0.0,0,403,> 100%,Maine
+State,Maine,All,2021-22,48,0.0,0,379,> 100%,Maine
+State,Maine,All,2021-22,49,0.0,0,441,> 100%,Maine
+State,Maine,All,2021-22,50,0.0,0,419,> 100%,Maine
+State,Maine,All,2021-22,51,0.0,0,404,> 100%,Maine
+State,Maine,All,2021-22,52,0.246305,1,406,> 100%,Maine
+State,Maine,All,2021-22,1,0.251256,1,398,> 100%,Maine
+State,Maine,All,2021-22,2,0.0,0,355,> 100%,Maine
+State,Maine,All,2021-22,3,0.0,0,438,> 100%,Maine
+State,Maine,All,2021-22,4,0.0,0,403,> 100%,Maine
+State,Maine,All,2021-22,5,0.0,0,390,> 100%,Maine
+State,Maine,All,2021-22,6,0.0,0,354,> 100%,Maine
+State,Maine,All,2021-22,7,0.0,0,390,> 100%,Maine
+State,Maine,All,2021-22,8,0.0,0,303,> 100%,Maine
+State,Maine,All,2021-22,9,0.0,0,299,> 100%,Maine
+State,Maine,All,2021-22,10,0.0,0,381,> 100%,Maine
+State,Maine,All,2021-22,11,0.0,0,296,> 100%,Maine
+State,Maine,All,2021-22,12,0.0,0,323,> 100%,Maine
+State,Maine,All,2021-22,13,0.0,0,326,> 100%,Maine
+State,Maine,All,2021-22,14,0.0,0,332,> 100%,Maine
+State,Maine,All,2021-22,15,0.0,0,292,> 100%,Maine
+State,Maine,All,2021-22,16,0.0,0,286,> 100%,Maine
+State,Maine,All,2021-22,17,0.298507,1,335,> 100%,Maine
+State,Maine,All,2021-22,18,0.0,0,290,> 100%,Maine
+State,Maine,All,2021-22,19,0.0,0,316,> 100%,Maine
+State,Maine,All,2021-22,20,0.874636,3,343,> 100%,Maine
+State,Maine,All,2021-22,21,1.03093,3,291,> 100%,Maine
+State,Maine,All,2021-22,22,0.911854,3,329,> 100%,Maine
+State,Maine,All,2021-22,23,0.311526,1,321,> 100%,Maine
+State,Maine,All,2021-22,24,0.307692,1,325,> 100%,Maine
+State,Maine,All,2021-22,25,0.0,0,340,> 100%,Maine
+State,Maine,All,2021-22,26,0.0,0,302,> 100%,Maine
+State,Maine,All,2021-22,27,0.0,0,321,> 100%,Maine
+State,Maine,All,2021-22,28,0.0,0,305,> 100%,Maine
+State,Maine,All,2021-22,29,0.0,0,287,> 100%,Maine
+State,Maine,All,2021-22,30,0.0,0,295,> 100%,Maine
+State,Maine,All,2021-22,31,0.0,0,313,> 100%,Maine
+State,Maine,All,2021-22,32,0.0,0,287,> 100%,Maine
+State,Maine,All,2021-22,33,0.0,0,277,> 100%,Maine
+State,Maine,All,2021-22,34,0.0,0,295,> 100%,Maine
+State,Maine,All,2021-22,35,0.0,0,321,> 100%,Maine
+State,Maine,All,2021-22,36,0.0,0,330,> 100%,Maine
+State,Maine,All,2021-22,37,0.31348,1,319,> 100%,Maine
+State,Maine,All,2021-22,38,0.0,0,315,> 100%,Maine
+State,Maine,All,2021-22,39,0.0,0,374,> 100%,Maine
+State,Maine,All,2022-23,40,0.0,0,326,> 100%,Maine
+State,Maine,All,2022-23,41,0.0,0,363,> 100%,Maine
+State,Maine,All,2022-23,42,0.30303,1,330,> 100%,Maine
+State,Maine,All,2022-23,43,0.0,0,334,> 100%,Maine
+State,Maine,All,2022-23,44,0.0,0,325,> 100%,Maine
+State,Maine,All,2022-23,45,0.298507,1,335,> 100%,Maine
+State,Maine,All,2022-23,46,0.0,0,347,> 100%,Maine
+State,Maine,All,2022-23,47,0.0,0,332,> 100%,Maine
+State,Maine,All,2022-23,48,1.19403,4,335,> 100%,Maine
+State,Maine,All,2022-23,49,2.93333,11,375,> 100%,Maine
+State,Maine,All,2022-23,50,2.52809,9,356,> 100%,Maine
+State,Maine,All,2022-23,51,2.87206,11,383,> 100%,Maine
+State,Maine,All,2022-23,52,2.54958,9,353,> 100%,Maine
+State,Maine,All,2022-23,1,3.7234,14,376,> 100%,Maine
+State,Maine,All,2022-23,2,1.96078,7,357,> 100%,Maine
+State,Maine,All,2022-23,3,2.29226,8,349,> 100%,Maine
+State,Maine,All,2022-23,4,1.37741,5,363,> 100%,Maine
+State,Maine,All,2022-23,5,0.287356,1,348,> 100%,Maine
+State,Maine,All,2022-23,6,0.0,0,357,> 100%,Maine
+State,Maine,All,2022-23,7,0.306748,1,326,> 100%,Maine
+State,Maine,All,2022-23,8,0.0,0,317,> 100%,Maine
+State,Maine,All,2022-23,9,0.0,0,323,> 100%,Maine
+State,Maine,All,2022-23,10,0.0,0,332,> 100%,Maine
+State,Maine,All,2022-23,11,0.3125,1,320,> 100%,Maine
+State,Maine,All,2022-23,12,0.0,0,337,> 100%,Maine
+State,Maine,All,2022-23,13,0.0,0,316,> 100%,Maine
+State,Maine,All,2022-23,14,0.0,0,333,> 100%,Maine
+State,Maine,All,2022-23,15,0.0,0,308,> 100%,Maine
+State,Maine,All,2022-23,16,0.0,0,327,> 100%,Maine
+State,Maine,All,2022-23,17,0.0,0,308,> 100%,Maine
+State,Maine,All,2022-23,18,0.0,0,328,> 100%,Maine
+State,Maine,All,2022-23,19,0.320513,1,312,> 100%,Maine
+State,Maine,All,2022-23,20,0.0,0,313,> 100%,Maine
+State,Maine,All,2022-23,21,0.0,0,292,> 100%,Maine
+State,Maine,All,2022-23,22,0.0,0,287,> 100%,Maine
+State,Maine,All,2022-23,23,0.0,0,313,> 100%,Maine
+State,Maine,All,2022-23,24,0.0,0,275,> 100%,Maine
+State,Maine,All,2022-23,25,0.0,0,315,> 100%,Maine
+State,Maine,All,2022-23,26,0.0,0,290,> 100%,Maine
+State,Maine,All,2022-23,27,0.0,0,322,> 100%,Maine
+State,Maine,All,2022-23,28,0.0,0,316,> 100%,Maine
+State,Maine,All,2022-23,29,0.0,0,277,> 100%,Maine
+State,Maine,All,2022-23,30,0.0,0,282,> 100%,Maine
+State,Maine,All,2022-23,31,0.0,0,281,> 100%,Maine
+State,Maine,All,2022-23,32,0.0,0,339,> 100%,Maine
+State,Maine,All,2022-23,33,0.0,0,319,> 100%,Maine
+State,Maine,All,2022-23,34,0.0,0,281,> 100%,Maine
+State,Maine,All,2022-23,35,0.0,0,280,> 100%,Maine
+State,Maine,All,2022-23,36,0.0,0,314,> 100%,Maine
+State,Maine,All,2022-23,37,0.0,0,288,> 100%,Maine
+State,Maine,All,2022-23,38,0.0,0,303,> 100%,Maine
+State,Maine,All,2022-23,39,0.0,0,313,> 100%,Maine
+State,Maine,All,2023-24,40,0.0,0,309,> 100%,Maine
+State,Maine,All,2023-24,41,0.0,0,313,> 100%,Maine
+State,Maine,All,2023-24,42,0.0,0,327,> 100%,Maine
+State,Maine,All,2023-24,43,0.0,0,348,> 100%,Maine
+State,Maine,All,2023-24,44,0.0,0,351,> 100%,Maine
+State,Maine,All,2023-24,45,0.0,0,333,> 100%,Maine
+State,Maine,All,2023-24,46,0.311526,1,321,> 100%,Maine
+State,Maine,All,2023-24,47,0.0,0,330,> 100%,Maine
+State,Maine,All,2023-24,48,0.0,0,313,> 100%,Maine
+State,Maine,All,2023-24,49,0.0,0,352,> 100%,Maine
+State,Maine,All,2023-24,50,0.318471,1,314,> 100%,Maine
+State,Maine,All,2023-24,51,0.263158,1,380,> 100%,Maine
+State,Maine,All,2023-24,52,0.275482,1,363,> 100%,Maine
+State,Maine,All,2023-24,1,0.835655,3,359,> 100%,Maine
+State,Maine,All,2023-24,2,1.14613,4,349,> 100%,Maine
+State,Maine,All,2023-24,3,0.584795,2,342,> 100%,Maine
+State,Maine,All,2023-24,4,1.58228,5,316,> 100%,Maine
+State,Maine,All,2023-24,5,0.560224,2,357,> 100%,Maine
+State,Maine,All,2023-24,6,0.56338,2,355,> 100%,Maine
+State,Maine,All,2023-24,7,0.338983,1,295,> 100%,Maine
+State,Maine,All,2023-24,8,2.23464,8,358,> 100%,Maine
+State,Maine,All,2023-24,9,2.66272,9,338,> 100%,Maine
+State,Maine,All,2023-24,10,0.864553,3,347,> 100%,Maine
+State,Maine,All,2023-24,11,0.0,0,318,> 100%,Maine
+State,Maine,All,2023-24,12,0.958466,3,313,> 100%,Maine
+State,Maine,All,2023-24,13,0.569801,2,351,> 100%,Maine
+State,Maine,All,2023-24,14,0.307692,1,325,> 100%,Maine
+State,Maine,All,2023-24,15,0.0,0,320,> 100%,Maine
+State,Maine,All,2023-24,16,0.687285,2,291,> 100%,Maine
+State,Maine,All,2023-24,17,0.0,0,327,> 100%,Maine
+State,Maine,All,2023-24,18,0.3125,1,320,> 100%,Maine
+State,Maine,All,2023-24,19,0.0,0,317,> 100%,Maine
+State,Maine,All,2023-24,20,0.363636,1,275,> 100%,Maine
+State,Maine,All,2023-24,21,0.0,0,351,> 100%,Maine
+State,Maine,All,2023-24,22,0.332226,1,301,> 100%,Maine
+State,Maine,All,2023-24,23,0.0,0,285,> 100%,Maine
+State,Maine,All,2023-24,24,0.0,0,277,> 100%,Maine
+State,Maine,All,2023-24,25,0.0,0,326,> 100%,Maine
+State,Maine,All,2023-24,26,0.0,0,283,> 100%,Maine
+State,Maine,All,2023-24,27,0.0,0,293,> 100%,Maine
+State,Maine,All,2023-24,28,0.641026,2,312,> 100%,Maine
+State,Maine,All,2023-24,29,0.0,0,321,> 100%,Maine
+State,Maine,All,2023-24,30,0.0,0,276,> 100%,Maine
+State,Maine,All,2023-24,31,0.0,0,308,> 100%,Maine
+State,Maine,All,2023-24,32,0.0,0,311,> 100%,Maine
+State,Maine,All,2023-24,33,0.0,0,305,> 100%,Maine
+State,Maine,All,2023-24,34,0.0,0,304,> 100%,Maine
+State,Maine,All,2023-24,35,0.0,0,245,> 100%,Maine
+State,Maine,All,2023-24,36,0.0,0,284,> 100%,Maine
+State,Maine,All,2023-24,37,0.0,0,269,> 100%,Maine
+State,Maine,All,2023-24,38,0.0,0,341,> 100%,Maine
+State,Maine,All,2023-24,39,0.0,0,295,> 100%,Maine
+State,Maine,All,2024-25,40,0.0,0,323,> 100%,Maine
+State,Maine,All,2024-25,41,0.0,0,303,> 100%,Maine
+State,Maine,All,2024-25,42,0.0,0,327,> 100%,Maine
+State,Maine,All,2024-25,43,0.0,0,322,> 100%,Maine
+State,Maine,All,2024-25,44,0.0,0,340,> 100%,Maine
+State,Maine,All,2024-25,45,0.0,0,323,> 100%,Maine
+State,Maine,All,2024-25,46,0.0,0,314,> 100%,Maine
+State,Maine,All,2024-25,47,0.0,0,323,> 100%,Maine
+State,Maine,All,2024-25,48,0.0,0,332,> 100%,Maine
+State,Maine,All,2024-25,49,0.0,0,315,> 100%,Maine
+State,Maine,All,2024-25,50,0.299401,1,334,> 100%,Maine
+State,Maine,All,2024-25,51,0.0,0,349,> 100%,Maine
+State,Maine,All,2024-25,52,0.0,0,345,> 100%,Maine
+State,Maine,All,2024-25,1,0.872093,3,344,> 100%,Maine
+State,Maine,All,2024-25,2,1.08108,4,370,> 100%,Maine
+State,Maine,All,2024-25,3,0.887574,3,338,> 100%,Maine
+State,Maine,All,2024-25,4,0.793651,3,378,> 100%,Maine
+State,Maine,All,2024-25,5,1.37363,5,364,> 100%,Maine
+State,Maine,All,2024-25,6,1.61725,6,371,> 100%,Maine
+State,Maine,All,2024-25,7,4.35967,16,367,> 100%,Maine
+State,Maine,All,2024-25,8,2.8169,10,355,> 100%,Maine
+State,Maine,All,2024-25,9,2.79188,11,394,> 100%,Maine
+State,Maine,All,2024-25,10,4.10959,15,365,> 100%,Maine
+State,Maine,All,2024-25,11,2.05279,7,341,> 100%,Maine
+State,Maine,All,2024-25,12,3.80952,12,315,> 100%,Maine
+State,Maine,All,2024-25,13,0.917431,3,327,> 100%,Maine
+State,Maine,All,2024-25,14,0.884956,3,339,> 100%,Maine
+State,Maine,All,2024-25,15,1.75439,6,342,> 100%,Maine
+State,Maine,All,2024-25,16,0.626959,2,319,> 100%,Maine
+State,Maine,All,2024-25,17,0.0,0,292,> 100%,Maine
+State,Maine,All,2024-25,18,0.0,0,348,> 100%,Maine
+State,Maine,All,2024-25,19,0.0,0,312,> 100%,Maine
+State,Maine,All,2024-25,20,0.0,0,282,> 100%,Maine
+State,Maine,All,2024-25,21,0.0,0,300,> 100%,Maine
+State,Maine,All,2024-25,22,0.0,0,316,> 100%,Maine
+State,Maine,All,2024-25,23,0.0,0,309,> 100%,Maine
+State,Maine,All,2024-25,24,0.0,0,288,> 100%,Maine
+State,Maine,All,2024-25,25,0.0,0,275,> 100%,Maine
+State,Maine,All,2024-25,26,0.0,0,293,> 100%,Maine
+State,Maine,All,2024-25,27,0.0,0,290,> 100%,Maine
+State,Maine,All,2024-25,28,0.0,0,282,> 100%,Maine
+State,Maine,All,2024-25,29,0.0,0,313,> 100%,Maine
+State,Maine,All,2024-25,30,0.0,0,298,> 100%,Maine
+State,Maine,All,2024-25,31,0.0,0,319,> 100%,Maine
+State,Maine,All,2024-25,32,0.0,0,307,> 100%,Maine
+State,Maine,All,2024-25,33,0.0,0,278,> 100%,Maine
+State,Maine,All,2024-25,34,0.0,0,271,> 100%,Maine
+State,Maine,All,2024-25,35,0.0,0,311,> 100%,Maine
+State,Maine,All,2024-25,36,0.0,0,259,> 100%,Maine
+State,Maine,All,2024-25,37,0.0,0,254,> 100%,Maine
+State,Maine,All,2024-25,38,0.0,0,218,> 100%,Maine
+State,Massachusetts,All,2020-21,40,0.0,0,"1,077",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,41,0.0919118,1,"1,088",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,42,0.0,0,"1,128",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,43,0.0,0,"1,187",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,44,0.0,0,"1,070",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,45,0.167084,2,"1,197",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,46,0.0829187,1,"1,206",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,47,0.166945,2,"1,198",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,48,0.0810373,1,"1,234",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,49,0.0759878,1,"1,316",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,50,0.0740741,1,"1,350",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,51,0.0713776,1,"1,401",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,52,0.0,0,"1,542",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,53,0.0,0,"1,508",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,1,0.0,0,"1,543",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,2,0.0646831,1,"1,546",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,3,0.0659631,1,"1,516",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,4,0.0638978,1,"1,565",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,5,0.0,0,"1,496",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,6,0.0,0,"1,345",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,7,0.0,0,"1,343",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,8,0.0,0,"1,262",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,9,0.164069,2,"1,219",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,10,0.0,0,"1,192",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,11,0.0840336,1,"1,190",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,12,0.0,0,"1,174",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,13,0.0,0,"1,110",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,14,0.0,0,"1,112",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,15,0.0887311,1,"1,127",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,16,0.0,0,"1,100",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,17,0.0,0,"1,112",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,18,0.0,0,"1,118",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,19,0.0,0,"1,077",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,20,0.0,0,"1,136",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,21,0.0,0,"1,046",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,22,0.0,0,"1,063",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,23,0.0,0,"1,067",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,24,0.0,0,"1,006",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,25,0.0,0,"1,029",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,26,0.0,0,"1,024",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,27,0.0,0,"1,111",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,28,0.0,0,"1,011",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,29,0.0,0,"1,093",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,30,0.0,0,"1,096",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,31,0.0,0,"1,118",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,32,0.0921659,1,"1,085",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,33,0.0,0,"1,119",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,34,0.0,0,"1,120",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,35,0.0,0,"1,131",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,36,0.0,0,"1,185",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,37,0.0,0,"1,149",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,38,0.0,0,"1,131",> 100%,Massachusetts
+State,Massachusetts,All,2020-21,39,0.0,0,"1,192",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,40,0.0856164,1,"1,168",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,41,0.0,0,"1,215",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,42,0.0,0,"1,228",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,43,0.0,0,"1,237",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,44,0.0,0,"1,271",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,45,0.0795545,1,"1,257",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,46,0.0809717,1,"1,235",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,47,0.0,0,"1,247",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,48,0.0,0,"1,338",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,49,0.208623,3,"1,438",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,50,0.367918,5,"1,359",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,51,0.0723589,1,"1,382",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,52,0.0673401,1,"1,485",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,1,0.13369,2,"1,496",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,2,0.1875,3,"1,600",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,3,0.177305,3,"1,692",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,4,0.309215,5,"1,617",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,5,0.13369,2,"1,496",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,6,0.0688705,1,"1,452",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,7,0.0,0,"1,292",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,8,0.0840336,1,"1,190",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,9,0.0877193,1,"1,140",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,10,0.0,0,"1,200",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,11,0.271739,3,"1,104",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,12,0.176367,2,"1,134",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,13,0.172117,2,"1,162",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,14,0.283019,3,"1,060",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,15,0.439754,5,"1,137",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,16,0.188501,2,"1,061",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,17,0.784656,9,"1,147",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,18,0.256849,3,"1,168",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,19,0.8285,10,"1,207",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,20,0.431406,5,"1,159",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,21,0.612423,7,"1,143",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,22,0.255537,3,"1,174",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,23,0.0,0,"1,121",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,24,0.278293,3,"1,078",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,25,0.283286,3,"1,059",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,26,0.0,0,"1,187",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,27,0.0899281,1,"1,112",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,28,0.0,0,"1,120",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,29,0.0,0,"1,160",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,30,0.0,0,"1,096",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,31,0.0,0,"1,193",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,32,0.0,0,"1,130",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,33,0.0,0,"1,102",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,34,0.0,0,"1,114",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,35,0.0,0,"1,121",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,36,0.0,0,"1,099",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,37,0.0,0,"1,102",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,38,0.0,0,"1,167",> 100%,Massachusetts
+State,Massachusetts,All,2021-22,39,0.0,0,"1,156",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,40,0.0,0,"1,183",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,41,0.0,0,"1,236",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,42,0.165289,2,"1,210",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,43,0.0801925,1,"1,247",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,44,0.0799361,1,"1,251",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,45,0.0854701,1,"1,170",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,46,0.0903342,1,"1,107",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,47,0.166806,2,"1,199",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,48,0.864101,11,"1,273",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,49,1.06952,14,"1,309",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,50,1.83206,24,"1,310",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,51,2.54301,34,"1,337",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,52,2.22222,30,"1,350",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,1,2.05128,28,"1,365",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,2,1.53621,21,"1,367",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,3,1.21673,16,"1,315",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,4,0.709779,9,"1,268",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,5,0.325468,4,"1,229",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,6,0.230061,3,"1,304",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,7,0.324675,4,"1,232",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,8,0.405515,5,"1,233",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,9,0.723473,9,"1,244",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,10,0.0814996,1,"1,227",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,11,0.0833333,1,"1,200",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,12,0.086881,1,"1,151",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,13,0.261097,3,"1,149",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,14,0.090009,1,"1,111",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,15,0.0821693,1,"1,217",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,16,0.0,0,"1,132",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,17,0.0,0,"1,075",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,18,0.0,0,"1,147",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,19,0.180343,2,"1,109",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,20,0.0,0,"1,123",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,21,0.0942507,1,"1,061",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,22,0.186916,2,"1,070",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,23,0.0907441,1,"1,102",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,24,0.0,0,"1,142",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,25,0.0,0,"1,079",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,26,0.0,0,"1,107",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,27,0.0,0,"1,107",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,28,0.0,0,"1,080",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,29,0.0926784,1,"1,079",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,30,0.0,0,"1,063",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,31,0.0935454,1,"1,069",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,32,0.0,0,"1,122",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,33,0.0,0,"1,130",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,34,0.0,0,"1,127",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,35,0.0876424,1,"1,141",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,36,0.0,0,"1,171",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,37,0.0,0,"1,056",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,38,0.0,0,"1,140",> 100%,Massachusetts
+State,Massachusetts,All,2022-23,39,0.0,0,"1,123",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,40,0.168067,2,"1,190",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,41,0.085034,1,"1,176",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,42,0.0827815,1,"1,208",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,43,0.0881834,1,"1,134",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,44,0.0,0,"1,150",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,45,0.0,0,"1,256",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,46,0.0,0,"1,134",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,47,0.250627,3,"1,197",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,48,0.153257,2,"1,305",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,49,0.556881,7,"1,257",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,50,0.401929,5,"1,244",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,51,0.2331,3,"1,287",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,52,0.611154,8,"1,309",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,1,1.48554,19,"1,279",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,2,1.2003,16,"1,333",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,3,0.950119,12,"1,263",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,4,1.37405,18,"1,310",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,5,0.75643,10,"1,322",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,6,0.930233,12,"1,290",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,7,1.47179,18,"1,223",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,8,1.64931,19,"1,152",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,9,0.841043,10,"1,189",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,10,1.77215,21,"1,185",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,11,0.805153,10,"1,242",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,12,0.442087,5,"1,131",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,13,0.915141,11,"1,202",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,14,0.256849,3,"1,168",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,15,0.907591,11,"1,212",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,16,0.43592,5,"1,147",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,17,0.262009,3,"1,145",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,18,0.265487,3,"1,130",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,19,0.178094,2,"1,123",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,20,0.270514,3,"1,109",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,21,0.0891266,1,"1,122",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,22,0.0951475,1,"1,051",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,23,0.0919963,1,"1,087",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,24,0.0904977,1,"1,105",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,25,0.0,0,"1,100",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,26,0.0,0,"1,067",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,27,0.0901713,1,"1,109",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,28,0.0,0,"1,121",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,29,0.0951475,1,"1,051",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,30,0.0948767,1,"1,054",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,31,0.0,0,"1,050",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,32,0.0,0,"1,060",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,33,0.0,0,"1,043",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,34,0.0894454,1,"1,118",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,35,0.0,0,"1,069",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,36,0.0,0,"1,046",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,37,0.0913242,1,"1,095",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,38,0.0919118,1,"1,088",> 100%,Massachusetts
+State,Massachusetts,All,2023-24,39,0.0,0,"1,126",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,40,0.0,0,"1,076",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,41,0.0,0,"1,073",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,42,0.0,0,"1,118",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,43,0.0,0,"1,140",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,44,0.0873362,1,"1,145",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,45,0.0845309,1,"1,183",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,46,0.0853242,1,"1,172",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,47,0.08285,1,"1,207",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,48,0.0,0,"1,052",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,49,0.264085,3,"1,136",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,50,0.338696,4,"1,181",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,51,0.247934,3,"1,210",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,52,0.248756,3,"1,206",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,1,0.866824,11,"1,269",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,2,0.924499,12,"1,298",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,3,1.05501,14,"1,327",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,4,1.63818,23,"1,404",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,5,3.09963,42,"1,355",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,6,3.3284,45,"1,352",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,7,3.9884,55,"1,379",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,8,4.36447,57,"1,306",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,9,3.82948,53,"1,384",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,10,3.25397,41,"1,260",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,11,2.26721,28,"1,235",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,12,1.13537,13,"1,145",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,13,1.03676,11,"1,061",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,14,1.23023,14,"1,138",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,15,0.376294,4,"1,063",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,16,0.272232,3,"1,102",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,17,0.177462,2,"1,127",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,18,0.361011,4,"1,108",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,19,0.0,0,"1,029",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,20,0.186047,2,"1,075",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,21,0.0,0,"1,019",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,22,0.0,0,"1,078",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,23,0.0866551,1,"1,154",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,24,0.294118,3,"1,020",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,25,0.0,0,"1,079",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,26,0.0,0,"1,085",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,27,0.0,0,"1,017",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,28,0.0,0,"1,069",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,29,0.0,0,"1,052",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,30,0.0,0,"1,099",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,31,0.0,0,"1,040",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,32,0.0,0,"1,059",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,33,0.0,0,967,> 100%,Massachusetts
+State,Massachusetts,All,2024-25,34,0.0,0,"1,006",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,35,0.0965251,1,"1,036",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,36,0.0,0,"1,033",> 100%,Massachusetts
+State,Massachusetts,All,2024-25,37,0.0,0,927,> 100%,Massachusetts
+State,Massachusetts,All,2024-25,38,0.0,0,615,> 100%,Massachusetts
+State,New Hampshire,All,2020-21,40,0.0,0,233,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,41,0.0,0,262,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,42,0.0,0,258,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,43,0.0,0,232,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,44,0.0,0,258,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,45,0.0,0,267,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,46,0.0,0,288,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,47,0.0,0,260,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,48,0.0,0,281,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,49,0.0,0,318,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,50,0.0,0,312,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,51,0.340136,1,294,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,52,0.0,0,348,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,53,0.0,0,325,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,1,0.30303,1,330,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,2,0.0,0,361,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,3,0.0,0,310,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,4,0.0,0,290,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,5,0.0,0,294,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,6,0.0,0,266,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,7,0.0,0,267,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,8,0.0,0,245,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,9,0.0,0,251,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,10,0.0,0,248,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,11,0.0,0,244,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,12,0.0,0,248,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,13,0.0,0,226,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,14,0.0,0,233,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,15,0.0,0,229,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,16,0.0,0,264,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,17,0.0,0,260,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,18,0.0,0,251,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,19,0.0,0,237,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,20,0.0,0,264,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,21,0.0,0,237,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,22,0.0,0,249,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,23,0.0,0,262,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,24,0.0,0,245,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,25,0.0,0,242,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,26,0.0,0,253,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,27,0.0,0,249,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,28,0.0,0,241,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,29,0.0,0,242,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,30,0.0,0,232,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,31,0.0,0,260,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,32,0.0,0,257,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,33,0.0,0,253,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,34,0.0,0,242,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,35,0.0,0,252,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,36,0.0,0,264,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,37,0.0,0,282,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,38,0.0,0,273,> 100%,New Hampshire
+State,New Hampshire,All,2020-21,39,0.0,0,239,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,40,0.0,0,284,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,41,0.0,0,292,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,42,0.0,0,265,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,43,0.0,0,299,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,44,0.0,0,308,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,45,0.0,0,318,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,46,0.0,0,302,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,47,0.0,0,305,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,48,0.0,0,308,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,49,0.643087,2,311,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,50,0.0,0,331,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,51,0.0,0,356,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,52,0.285714,1,350,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,1,0.0,0,332,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,2,0.864553,3,347,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,3,0.0,0,347,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,4,0.864553,3,347,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,5,0.0,0,316,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,6,0.0,0,324,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,7,0.0,0,285,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,8,0.352113,1,284,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,9,0.0,0,280,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,10,0.0,0,246,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,11,0.0,0,278,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,12,0.0,0,306,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,13,0.0,0,247,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,14,0.0,0,259,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,15,0.0,0,266,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,16,0.790514,2,253,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,17,0.77821,2,257,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,18,0.398406,1,251,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,19,0.763359,2,262,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,20,0.406504,1,246,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,21,0.3861,1,259,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,22,0.0,0,259,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,23,0.0,0,283,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,24,0.361011,1,277,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,25,0.0,0,261,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,26,0.0,0,258,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,27,0.0,0,270,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,28,0.0,0,260,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,29,0.0,0,270,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,30,0.0,0,239,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,31,0.0,0,245,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,32,0.0,0,277,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,33,0.0,0,271,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,34,0.0,0,282,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,35,0.0,0,259,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,36,0.0,0,240,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,37,0.0,0,262,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,38,0.362319,1,276,> 100%,New Hampshire
+State,New Hampshire,All,2021-22,39,0.0,0,265,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,40,0.0,0,288,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,41,0.0,0,266,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,42,0.0,0,251,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,43,0.0,0,302,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,44,0.0,0,273,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,45,0.0,0,309,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,46,0.0,0,256,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,47,0.0,0,277,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,48,0.340136,1,294,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,49,0.334448,1,299,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,50,0.977199,3,307,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,51,0.917431,3,327,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,52,2.89855,8,276,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,1,3.14286,11,350,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,2,2.67559,8,299,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,3,0.0,0,328,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,4,1.30293,4,307,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,5,0.740741,2,270,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,6,0.0,0,289,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,7,0.333333,1,300,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,8,0.0,0,265,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,9,0.0,0,263,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,10,0.0,0,277,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,11,0.338983,1,295,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,12,0.0,0,280,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,13,0.0,0,260,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,14,0.0,0,284,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,15,0.0,0,242,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,16,0.0,0,280,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,17,0.380228,1,263,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,18,0.0,0,250,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,19,0.0,0,254,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,20,0.0,0,268,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,21,0.0,0,236,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,22,0.0,0,259,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,23,0.0,0,271,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,24,0.0,0,253,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,25,0.0,0,241,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,26,0.416667,1,240,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,27,0.0,0,283,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,28,0.0,0,260,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,29,0.0,0,245,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,30,0.0,0,250,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,31,0.0,0,241,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,32,0.0,0,286,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,33,0.0,0,259,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,34,0.0,0,234,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,35,0.0,0,247,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,36,0.0,0,272,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,37,0.0,0,240,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,38,0.0,0,277,> 100%,New Hampshire
+State,New Hampshire,All,2022-23,39,0.0,0,261,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,40,0.0,0,292,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,41,0.0,0,279,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,42,0.687285,2,291,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,43,0.0,0,276,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,44,0.0,0,254,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,45,0.0,0,264,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,46,0.0,0,281,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,47,0.0,0,282,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,48,0.353357,1,283,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,49,0.0,0,295,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,50,0.775194,2,258,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,51,0.0,0,288,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,52,1.3986,4,286,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,1,1.90476,6,315,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,2,1.5674,5,319,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,3,1.27796,4,313,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,4,1.27796,4,313,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,5,0.0,0,292,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,6,2.60223,7,269,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,7,0.373134,1,268,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,8,1.0453,3,287,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,9,1.19522,3,251,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,10,1.41343,4,283,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,11,0.78125,2,256,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,12,0.694444,2,288,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,13,0.384615,1,260,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,14,0.0,0,286,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,15,0.732601,2,273,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,16,0.387597,1,258,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,17,0.0,0,260,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,18,0.355872,1,281,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,19,0.0,0,277,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,20,0.0,0,257,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,21,0.0,0,261,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,22,0.3861,1,259,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,23,0.0,0,263,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,24,0.0,0,234,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,25,0.0,0,240,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,26,0.0,0,266,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,27,0.0,0,222,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,28,0.0,0,241,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,29,0.0,0,251,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,30,0.0,0,239,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,31,0.0,0,253,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,32,0.0,0,272,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,33,0.0,0,253,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,34,0.0,0,241,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,35,0.0,0,262,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,36,0.0,0,291,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,37,0.0,0,259,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,38,0.0,0,258,> 100%,New Hampshire
+State,New Hampshire,All,2023-24,39,0.0,0,284,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,40,0.0,0,222,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,41,0.0,0,277,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,42,0.0,0,268,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,43,0.0,0,283,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,44,0.0,0,261,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,45,0.0,0,273,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,46,0.0,0,285,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,47,0.0,0,252,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,48,0.0,0,235,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,49,0.383142,1,261,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,50,0.0,0,268,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,51,0.0,0,291,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,52,0.346021,1,289,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,1,1.36986,4,292,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,2,0.84507,3,355,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,3,0.711744,2,281,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,4,1.31148,4,305,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,5,3.02115,10,331,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,6,1.96078,6,306,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,7,2.48447,8,322,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,8,3.62538,12,331,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,9,3.367,10,297,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,10,1.79211,5,279,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,11,2.16606,6,277,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,12,1.03448,3,290,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,13,2.02703,6,296,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,14,0.416667,1,240,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,15,0.724638,2,276,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,16,0.436681,1,229,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,17,1.13208,3,265,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,18,0.0,0,263,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,19,0.0,0,252,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,20,0.0,0,264,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,21,0.401606,1,249,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,22,0.396825,1,252,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,23,0.0,0,235,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,24,0.0,0,273,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,25,0.0,0,243,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,26,0.0,0,253,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,27,0.0,0,235,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,28,0.0,0,243,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,29,0.0,0,262,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,30,0.0,0,265,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,31,0.0,0,256,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,32,0.0,0,249,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,33,0.0,0,228,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,34,0.0,0,250,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,35,0.0,0,219,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,36,0.0,0,220,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,37,0.0,0,226,> 100%,New Hampshire
+State,New Hampshire,All,2024-25,38,0.0,0,200,> 100%,New Hampshire
+State,Rhode Island,All,2020-21,40,0.0,0,207,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,41,0.0,0,210,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,42,0.0,0,200,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,43,0.0,0,194,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,44,0.0,0,201,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,45,0.0,0,228,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,46,0.0,0,227,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,47,0.0,0,224,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,48,0.0,0,259,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,49,0.0,0,281,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,50,0.0,0,318,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,51,0.0,0,331,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,52,0.0,0,297,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,53,0.358423,1,279,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,1,0.0,0,285,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,2,0.0,0,286,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,3,0.0,0,304,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,4,0.0,0,251,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,5,0.0,0,260,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,6,0.0,0,248,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,7,0.0,0,220,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,8,0.0,0,217,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,9,0.0,0,208,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,10,0.0,0,235,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,11,0.0,0,206,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,12,0.0,0,202,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,13,0.0,0,181,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,14,0.0,0,199,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,15,0.0,0,187,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,16,0.0,0,190,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,17,0.0,0,202,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,18,0.0,0,203,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,19,0.0,0,227,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,20,0.0,0,196,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,21,0.0,0,182,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,22,0.0,0,174,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,23,0.502513,1,199,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,24,0.0,0,163,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,25,0.0,0,189,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,26,0.0,0,183,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,27,0.0,0,177,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,28,0.0,0,185,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,29,0.0,0,178,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,30,0.0,0,178,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,31,0.0,0,219,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,32,0.0,0,188,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,33,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,34,0.0,0,210,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,35,0.0,0,199,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,36,0.0,0,204,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,37,0.0,0,195,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,38,0.0,0,219,> 100%,Rhode Island
+State,Rhode Island,All,2020-21,39,0.0,0,199,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,40,0.0,0,214,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,41,0.0,0,225,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,42,0.0,0,203,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,43,0.0,0,202,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,44,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,45,0.0,0,211,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,46,0.0,0,248,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,47,0.0,0,245,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,48,0.0,0,260,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,49,0.0,0,246,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,50,0.0,0,238,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,51,0.35461,1,282,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,52,0.364964,1,274,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,1,0.0,0,262,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,2,0.0,0,277,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,3,0.0,0,291,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,4,0.0,0,271,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,5,0.0,0,253,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,6,0.408163,1,245,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,7,0.0,0,208,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,8,0.0,0,232,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,9,0.0,0,213,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,10,0.0,0,196,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,11,0.0,0,203,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,12,0.0,0,187,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,13,0.571429,1,175,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,14,0.0,0,207,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,15,0.0,0,172,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,16,0.0,0,173,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,17,0.0,0,203,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,18,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,19,0.0,0,211,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,20,1.12994,2,177,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,21,0.568182,1,176,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,22,0.0,0,199,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,23,0.543478,1,184,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,24,0.534759,1,187,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,25,0.0,0,181,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,26,0.0,0,194,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,27,0.0,0,199,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,28,0.0,0,202,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,29,0.0,0,203,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,30,0.0,0,190,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,31,0.0,0,198,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,32,0.0,0,195,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,33,0.0,0,168,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,34,0.0,0,201,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,35,0.0,0,153,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,36,0.0,0,180,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,37,0.0,0,190,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,38,0.0,0,172,> 100%,Rhode Island
+State,Rhode Island,All,2021-22,39,0.0,0,183,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,40,0.0,0,204,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,41,0.0,0,223,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,42,0.0,0,202,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,43,0.0,0,206,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,44,0.0,0,201,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,45,0.0,0,211,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,46,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,47,0.0,0,240,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,48,1.07527,2,186,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,49,0.442478,1,226,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,50,1.97044,4,203,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,51,2.33645,5,214,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,52,1.36364,3,220,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,1,1.19048,3,252,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,2,2.64317,6,227,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,3,0.42735,1,234,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,4,1.41509,3,212,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,5,0.0,0,210,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,6,0.458716,1,218,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,7,0.0,0,214,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,8,0.0,0,196,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,9,0.0,0,197,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,10,0.0,0,196,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,11,0.0,0,215,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,12,0.0,0,212,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,13,0.0,0,195,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,14,0.0,0,197,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,15,0.0,0,238,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,16,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,17,0.0,0,204,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,18,0.0,0,192,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,19,0.0,0,166,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,20,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,21,0.0,0,185,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,22,0.0,0,190,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,23,0.0,0,189,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,24,0.0,0,191,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,25,0.0,0,177,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,26,0.0,0,190,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,27,0.0,0,185,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,28,0.571429,1,175,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,29,0.0,0,164,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,30,0.546448,1,183,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,31,0.0,0,176,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,32,0.0,0,191,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,33,0.0,0,163,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,34,0.0,0,146,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,35,0.0,0,180,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,36,0.0,0,193,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,37,0.0,0,192,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,38,0.0,0,185,> 100%,Rhode Island
+State,Rhode Island,All,2022-23,39,0.0,0,207,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,40,0.0,0,219,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,41,0.0,0,209,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,42,0.497512,1,201,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,43,0.0,0,220,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,44,0.0,0,191,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,45,0.0,0,202,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,46,0.0,0,228,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,47,0.0,0,216,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,48,0.0,0,193,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,49,0.452489,1,221,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,50,1.42857,3,210,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,51,0.819672,2,244,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,52,1.89573,4,211,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,1,1.91388,4,209,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,2,1.70213,4,235,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,3,2.75229,6,218,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,4,0.434783,1,230,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,5,0.0,0,213,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,6,2.52101,6,238,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,7,0.934579,2,214,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,8,0.0,0,208,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,9,3.16742,7,221,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,10,1.0582,2,189,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,11,0.574713,1,174,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,12,1.50754,3,199,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,13,0.0,0,188,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,14,0.970874,2,206,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,15,0.0,0,211,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,16,1.28205,2,156,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,17,0.492611,1,203,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,18,0.0,0,157,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,19,0.552486,1,181,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,20,0.0,0,195,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,21,0.0,0,177,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,22,0.0,0,188,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,23,0.0,0,189,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,24,0.0,0,200,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,25,0.0,0,184,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,26,0.0,0,175,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,27,0.0,0,195,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,28,0.0,0,175,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,29,0.0,0,220,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,30,0.0,0,190,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,31,0.0,0,204,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,32,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,33,0.0,0,188,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,34,0.0,0,187,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,35,0.0,0,193,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,36,0.0,0,207,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,37,0.0,0,182,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,38,0.0,0,179,> 100%,Rhode Island
+State,Rhode Island,All,2023-24,39,0.0,0,165,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,40,0.0,0,204,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,41,0.0,0,176,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,42,0.0,0,205,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,43,0.478469,1,209,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,44,0.0,0,184,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,45,0.0,0,176,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,46,0.0,0,176,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,47,0.469484,1,213,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,48,0.0,0,199,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,49,0.0,0,198,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,50,0.0,0,193,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,51,0.0,0,237,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,52,0.492611,1,203,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,1,0.888889,2,225,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,2,0.961538,2,208,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,3,1.7094,4,234,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,4,3.53982,8,226,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,5,2.86885,7,244,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,6,0.881057,2,227,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,7,3.2,8,250,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,8,3.68664,8,217,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,9,1.33333,3,225,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,10,2.29358,5,218,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,11,0.540541,1,185,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,12,0.502513,1,199,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,13,0.943396,2,212,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,14,1.05263,2,190,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,15,0.0,0,189,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,16,0.0,0,173,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,17,0.558659,1,179,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,18,0.0,0,176,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,19,0.0,0,169,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,20,0.512821,1,195,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,21,0.0,0,171,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,22,0.0,0,216,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,23,0.0,0,185,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,24,0.0,0,163,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,25,0.549451,1,182,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,26,0.0,0,203,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,27,0.0,0,178,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,28,0.0,0,173,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,29,0.0,0,165,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,30,0.0,0,179,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,31,0.537634,1,186,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,32,0.0,0,186,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,33,0.0,0,190,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,34,0.591716,1,169,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,35,0.0,0,165,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,36,0.0,0,178,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,37,0.0,0,135,> 100%,Rhode Island
+State,Rhode Island,All,2024-25,38,0.0,0,111,> 100%,Rhode Island
+State,Vermont,All,2020-21,40,0.0,0,107,> 100%,Vermont
+State,Vermont,All,2020-21,41,0.0,0,119,> 100%,Vermont
+State,Vermont,All,2020-21,42,0.0,0,100,> 100%,Vermont
+State,Vermont,All,2020-21,43,0.0,0,129,> 100%,Vermont
+State,Vermont,All,2020-21,44,0.0,0,116,> 100%,Vermont
+State,Vermont,All,2020-21,45,0.0,0,119,> 100%,Vermont
+State,Vermont,All,2020-21,46,0.0,0,131,> 100%,Vermont
+State,Vermont,All,2020-21,47,0.0,0,111,> 100%,Vermont
+State,Vermont,All,2020-21,48,0.0,0,128,> 100%,Vermont
+State,Vermont,All,2020-21,49,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2020-21,50,0.0,0,124,> 100%,Vermont
+State,Vermont,All,2020-21,51,0.0,0,128,> 100%,Vermont
+State,Vermont,All,2020-21,52,0.0,0,158,> 100%,Vermont
+State,Vermont,All,2020-21,53,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2020-21,1,0.0,0,117,> 100%,Vermont
+State,Vermont,All,2020-21,2,0.0,0,127,> 100%,Vermont
+State,Vermont,All,2020-21,3,0.0,0,128,> 100%,Vermont
+State,Vermont,All,2020-21,4,0.0,0,116,> 100%,Vermont
+State,Vermont,All,2020-21,5,0.0,0,144,> 100%,Vermont
+State,Vermont,All,2020-21,6,0.0,0,123,> 100%,Vermont
+State,Vermont,All,2020-21,7,0.0,0,146,> 100%,Vermont
+State,Vermont,All,2020-21,8,0.0,0,164,> 100%,Vermont
+State,Vermont,All,2020-21,9,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2020-21,10,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2020-21,11,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2020-21,12,0.0,0,99,> 100%,Vermont
+State,Vermont,All,2020-21,13,0.862069,1,116,> 100%,Vermont
+State,Vermont,All,2020-21,14,0.0,0,112,> 100%,Vermont
+State,Vermont,All,2020-21,15,0.0,0,112,> 100%,Vermont
+State,Vermont,All,2020-21,16,0.0,0,110,> 100%,Vermont
+State,Vermont,All,2020-21,17,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2020-21,18,0.0,0,112,> 100%,Vermont
+State,Vermont,All,2020-21,19,0.0,0,132,> 100%,Vermont
+State,Vermont,All,2020-21,20,0.0,0,122,> 100%,Vermont
+State,Vermont,All,2020-21,21,0.0,0,102,> 100%,Vermont
+State,Vermont,All,2020-21,22,0.0,0,87,> 100%,Vermont
+State,Vermont,All,2020-21,23,0.0,0,93,> 100%,Vermont
+State,Vermont,All,2020-21,24,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2020-21,25,0.0,0,115,> 100%,Vermont
+State,Vermont,All,2020-21,26,0.0,0,123,> 100%,Vermont
+State,Vermont,All,2020-21,27,0.0,0,120,> 100%,Vermont
+State,Vermont,All,2020-21,28,0.0,0,111,> 100%,Vermont
+State,Vermont,All,2020-21,29,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2020-21,30,0.0,0,120,> 100%,Vermont
+State,Vermont,All,2020-21,31,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2020-21,32,0.0,0,113,> 100%,Vermont
+State,Vermont,All,2020-21,33,0.0,0,128,> 100%,Vermont
+State,Vermont,All,2020-21,34,0.0,0,115,> 100%,Vermont
+State,Vermont,All,2020-21,35,0.0,0,121,> 100%,Vermont
+State,Vermont,All,2020-21,36,0.0,0,132,> 100%,Vermont
+State,Vermont,All,2020-21,37,0.0,0,161,> 100%,Vermont
+State,Vermont,All,2020-21,38,0.0,0,156,> 100%,Vermont
+State,Vermont,All,2020-21,39,0.0,0,141,> 100%,Vermont
+State,Vermont,All,2021-22,40,0.0,0,110,> 100%,Vermont
+State,Vermont,All,2021-22,41,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2021-22,42,0.0,0,146,> 100%,Vermont
+State,Vermont,All,2021-22,43,0.0,0,158,> 100%,Vermont
+State,Vermont,All,2021-22,44,0.0,0,141,> 100%,Vermont
+State,Vermont,All,2021-22,45,0.0,0,133,> 100%,Vermont
+State,Vermont,All,2021-22,46,0.0,0,144,> 100%,Vermont
+State,Vermont,All,2021-22,47,0.0,0,144,> 100%,Vermont
+State,Vermont,All,2021-22,48,0.0,0,143,> 100%,Vermont
+State,Vermont,All,2021-22,49,0.0,0,144,> 100%,Vermont
+State,Vermont,All,2021-22,50,0.0,0,151,> 100%,Vermont
+State,Vermont,All,2021-22,51,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2021-22,52,0.0,0,153,> 100%,Vermont
+State,Vermont,All,2021-22,1,0.0,0,126,> 100%,Vermont
+State,Vermont,All,2021-22,2,0.0,0,161,> 100%,Vermont
+State,Vermont,All,2021-22,3,0.0,0,150,> 100%,Vermont
+State,Vermont,All,2021-22,4,0.0,0,168,> 100%,Vermont
+State,Vermont,All,2021-22,5,0.0,0,161,> 100%,Vermont
+State,Vermont,All,2021-22,6,0.0,0,151,> 100%,Vermont
+State,Vermont,All,2021-22,7,0.0,0,149,> 100%,Vermont
+State,Vermont,All,2021-22,8,0.0,0,124,> 100%,Vermont
+State,Vermont,All,2021-22,9,0.0,0,138,> 100%,Vermont
+State,Vermont,All,2021-22,10,0.0,0,139,> 100%,Vermont
+State,Vermont,All,2021-22,11,0.0,0,126,> 100%,Vermont
+State,Vermont,All,2021-22,12,0.775194,1,129,> 100%,Vermont
+State,Vermont,All,2021-22,13,0.0,0,126,> 100%,Vermont
+State,Vermont,All,2021-22,14,0.0,0,121,> 100%,Vermont
+State,Vermont,All,2021-22,15,0.763359,1,131,> 100%,Vermont
+State,Vermont,All,2021-22,16,0.0,0,120,> 100%,Vermont
+State,Vermont,All,2021-22,17,0.0,0,126,> 100%,Vermont
+State,Vermont,All,2021-22,18,0.657895,1,152,> 100%,Vermont
+State,Vermont,All,2021-22,19,0.684932,1,146,> 100%,Vermont
+State,Vermont,All,2021-22,20,0.869565,1,115,> 100%,Vermont
+State,Vermont,All,2021-22,21,0.0,0,121,> 100%,Vermont
+State,Vermont,All,2021-22,22,0.0,0,129,> 100%,Vermont
+State,Vermont,All,2021-22,23,0.0,0,139,> 100%,Vermont
+State,Vermont,All,2021-22,24,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2021-22,25,0.0,0,152,> 100%,Vermont
+State,Vermont,All,2021-22,26,0.0,0,124,> 100%,Vermont
+State,Vermont,All,2021-22,27,0.0,0,122,> 100%,Vermont
+State,Vermont,All,2021-22,28,0.0,0,138,> 100%,Vermont
+State,Vermont,All,2021-22,29,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2021-22,30,0.0,0,131,> 100%,Vermont
+State,Vermont,All,2021-22,31,0.0,0,118,> 100%,Vermont
+State,Vermont,All,2021-22,32,0.0,0,132,> 100%,Vermont
+State,Vermont,All,2021-22,33,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2021-22,34,0.0,0,118,> 100%,Vermont
+State,Vermont,All,2021-22,35,0.0,0,87,> 100%,Vermont
+State,Vermont,All,2021-22,36,0.0,0,119,> 100%,Vermont
+State,Vermont,All,2021-22,37,0.0,0,127,> 100%,Vermont
+State,Vermont,All,2021-22,38,0.0,0,124,> 100%,Vermont
+State,Vermont,All,2021-22,39,0.0,0,111,> 100%,Vermont
+State,Vermont,All,2022-23,40,0.0,0,127,> 100%,Vermont
+State,Vermont,All,2022-23,41,0.0,0,138,> 100%,Vermont
+State,Vermont,All,2022-23,42,0.0,0,123,> 100%,Vermont
+State,Vermont,All,2022-23,43,0.0,0,144,> 100%,Vermont
+State,Vermont,All,2022-23,44,0.0,0,159,> 100%,Vermont
+State,Vermont,All,2022-23,45,0.0,0,127,> 100%,Vermont
+State,Vermont,All,2022-23,46,0.0,0,143,> 100%,Vermont
+State,Vermont,All,2022-23,47,0.0,0,147,> 100%,Vermont
+State,Vermont,All,2022-23,48,0.0,0,159,> 100%,Vermont
+State,Vermont,All,2022-23,49,1.6129,2,124,> 100%,Vermont
+State,Vermont,All,2022-23,50,2.12766,3,141,> 100%,Vermont
+State,Vermont,All,2022-23,51,5.29801,8,151,> 100%,Vermont
+State,Vermont,All,2022-23,52,2.75862,4,145,> 100%,Vermont
+State,Vermont,All,2022-23,1,3.33333,5,150,> 100%,Vermont
+State,Vermont,All,2022-23,2,4.51128,6,133,> 100%,Vermont
+State,Vermont,All,2022-23,3,0.628931,1,159,> 100%,Vermont
+State,Vermont,All,2022-23,4,1.73913,2,115,> 100%,Vermont
+State,Vermont,All,2022-23,5,0.684932,1,146,> 100%,Vermont
+State,Vermont,All,2022-23,6,0.0,0,115,> 100%,Vermont
+State,Vermont,All,2022-23,7,0.704225,1,142,> 100%,Vermont
+State,Vermont,All,2022-23,8,0.0,0,151,> 100%,Vermont
+State,Vermont,All,2022-23,9,0.0,0,124,> 100%,Vermont
+State,Vermont,All,2022-23,10,0.0,0,135,> 100%,Vermont
+State,Vermont,All,2022-23,11,0.0,0,139,> 100%,Vermont
+State,Vermont,All,2022-23,12,0.0,0,155,> 100%,Vermont
+State,Vermont,All,2022-23,13,0.740741,1,135,> 100%,Vermont
+State,Vermont,All,2022-23,14,0.0,0,131,> 100%,Vermont
+State,Vermont,All,2022-23,15,0.671141,1,149,> 100%,Vermont
+State,Vermont,All,2022-23,16,0.0,0,142,> 100%,Vermont
+State,Vermont,All,2022-23,17,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2022-23,18,0.0,0,127,> 100%,Vermont
+State,Vermont,All,2022-23,19,0.0,0,113,> 100%,Vermont
+State,Vermont,All,2022-23,20,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2022-23,21,0.0,0,107,> 100%,Vermont
+State,Vermont,All,2022-23,22,0.724638,1,138,> 100%,Vermont
+State,Vermont,All,2022-23,23,0.0,0,103,> 100%,Vermont
+State,Vermont,All,2022-23,24,0.0,0,120,> 100%,Vermont
+State,Vermont,All,2022-23,25,0.0,0,129,> 100%,Vermont
+State,Vermont,All,2022-23,26,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2022-23,27,0.0,0,131,> 100%,Vermont
+State,Vermont,All,2022-23,28,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2022-23,29,0.0,0,145,> 100%,Vermont
+State,Vermont,All,2022-23,30,0.0,0,132,> 100%,Vermont
+State,Vermont,All,2022-23,31,0.0,0,120,> 100%,Vermont
+State,Vermont,All,2022-23,32,0.0,0,140,> 100%,Vermont
+State,Vermont,All,2022-23,33,0.0,0,108,> 100%,Vermont
+State,Vermont,All,2022-23,34,0.0,0,122,> 100%,Vermont
+State,Vermont,All,2022-23,35,0.0,0,137,> 100%,Vermont
+State,Vermont,All,2022-23,36,0.0,0,123,> 100%,Vermont
+State,Vermont,All,2022-23,37,0.0,0,123,> 100%,Vermont
+State,Vermont,All,2022-23,38,0.840336,1,119,> 100%,Vermont
+State,Vermont,All,2022-23,39,0.0,0,147,> 100%,Vermont
+State,Vermont,All,2023-24,40,0.0,0,142,> 100%,Vermont
+State,Vermont,All,2023-24,41,0.0,0,108,> 100%,Vermont
+State,Vermont,All,2023-24,42,0.0,0,128,> 100%,Vermont
+State,Vermont,All,2023-24,43,0.917431,1,109,> 100%,Vermont
+State,Vermont,All,2023-24,44,0.0,0,123,> 100%,Vermont
+State,Vermont,All,2023-24,45,0.0,0,149,> 100%,Vermont
+State,Vermont,All,2023-24,46,0.0,0,143,> 100%,Vermont
+State,Vermont,All,2023-24,47,0.0,0,120,> 100%,Vermont
+State,Vermont,All,2023-24,48,0.0,0,124,> 100%,Vermont
+State,Vermont,All,2023-24,49,0.0,0,148,> 100%,Vermont
+State,Vermont,All,2023-24,50,0.0,0,110,> 100%,Vermont
+State,Vermont,All,2023-24,51,0.0,0,134,> 100%,Vermont
+State,Vermont,All,2023-24,52,3.10078,4,129,> 100%,Vermont
+State,Vermont,All,2023-24,1,1.21212,2,165,> 100%,Vermont
+State,Vermont,All,2023-24,2,2.11268,3,142,> 100%,Vermont
+State,Vermont,All,2023-24,3,0.671141,1,149,> 100%,Vermont
+State,Vermont,All,2023-24,4,2.52101,3,119,> 100%,Vermont
+State,Vermont,All,2023-24,5,0.793651,1,126,> 100%,Vermont
+State,Vermont,All,2023-24,6,0.0,0,143,> 100%,Vermont
+State,Vermont,All,2023-24,7,0.0,0,131,> 100%,Vermont
+State,Vermont,All,2023-24,8,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2023-24,9,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2023-24,10,1.42857,2,140,> 100%,Vermont
+State,Vermont,All,2023-24,11,0.0,0,126,> 100%,Vermont
+State,Vermont,All,2023-24,12,3.67647,5,136,> 100%,Vermont
+State,Vermont,All,2023-24,13,2.5,3,120,> 100%,Vermont
+State,Vermont,All,2023-24,14,0.746269,1,134,> 100%,Vermont
+State,Vermont,All,2023-24,15,0.763359,1,131,> 100%,Vermont
+State,Vermont,All,2023-24,16,1.69492,2,118,> 100%,Vermont
+State,Vermont,All,2023-24,17,0.847458,1,118,> 100%,Vermont
+State,Vermont,All,2023-24,18,0.0,0,112,> 100%,Vermont
+State,Vermont,All,2023-24,19,1.53846,2,130,> 100%,Vermont
+State,Vermont,All,2023-24,20,0.854701,1,117,> 100%,Vermont
+State,Vermont,All,2023-24,21,0.0,0,100,> 100%,Vermont
+State,Vermont,All,2023-24,22,0.0,0,133,> 100%,Vermont
+State,Vermont,All,2023-24,23,0.735294,1,136,> 100%,Vermont
+State,Vermont,All,2023-24,24,0.0,0,111,> 100%,Vermont
+State,Vermont,All,2023-24,25,0.819672,1,122,> 100%,Vermont
+State,Vermont,All,2023-24,26,0.0,0,120,> 100%,Vermont
+State,Vermont,All,2023-24,27,0.0,0,112,> 100%,Vermont
+State,Vermont,All,2023-24,28,0.0,0,116,> 100%,Vermont
+State,Vermont,All,2023-24,29,0.0,0,119,> 100%,Vermont
+State,Vermont,All,2023-24,30,0.0,0,110,> 100%,Vermont
+State,Vermont,All,2023-24,31,0.0,0,108,> 100%,Vermont
+State,Vermont,All,2023-24,32,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2023-24,33,0.0,0,112,> 100%,Vermont
+State,Vermont,All,2023-24,34,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2023-24,35,0.0,0,112,> 100%,Vermont
+State,Vermont,All,2023-24,36,0.0,0,103,> 100%,Vermont
+State,Vermont,All,2023-24,37,0.0,0,115,> 100%,Vermont
+State,Vermont,All,2023-24,38,0.0,0,117,> 100%,Vermont
+State,Vermont,All,2023-24,39,0.0,0,101,> 100%,Vermont
+State,Vermont,All,2024-25,40,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2024-25,41,0.0,0,113,> 100%,Vermont
+State,Vermont,All,2024-25,42,0.0,0,117,> 100%,Vermont
+State,Vermont,All,2024-25,43,0.0,0,127,> 100%,Vermont
+State,Vermont,All,2024-25,44,0.0,0,106,> 100%,Vermont
+State,Vermont,All,2024-25,45,0.0,0,118,> 100%,Vermont
+State,Vermont,All,2024-25,46,0.0,0,138,> 100%,Vermont
+State,Vermont,All,2024-25,47,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2024-25,48,0.0,0,136,> 100%,Vermont
+State,Vermont,All,2024-25,49,0.0,0,118,> 100%,Vermont
+State,Vermont,All,2024-25,50,0.0,0,125,> 100%,Vermont
+State,Vermont,All,2024-25,51,0.0,0,115,> 100%,Vermont
+State,Vermont,All,2024-25,52,0.714286,1,140,> 100%,Vermont
+State,Vermont,All,2024-25,1,0.729927,1,137,> 100%,Vermont
+State,Vermont,All,2024-25,2,2.08333,3,144,> 100%,Vermont
+State,Vermont,All,2024-25,3,0.0,0,151,> 100%,Vermont
+State,Vermont,All,2024-25,4,1.36986,2,146,> 100%,Vermont
+State,Vermont,All,2024-25,5,2.8777,4,139,> 100%,Vermont
+State,Vermont,All,2024-25,6,6.99301,10,143,> 100%,Vermont
+State,Vermont,All,2024-25,7,4.81928,8,166,> 100%,Vermont
+State,Vermont,All,2024-25,8,6.2069,9,145,> 100%,Vermont
+State,Vermont,All,2024-25,9,3.10078,4,129,> 100%,Vermont
+State,Vermont,All,2024-25,10,2.29008,3,131,> 100%,Vermont
+State,Vermont,All,2024-25,11,4.22535,6,142,> 100%,Vermont
+State,Vermont,All,2024-25,12,4.61538,6,130,> 100%,Vermont
+State,Vermont,All,2024-25,13,1.85185,2,108,> 100%,Vermont
+State,Vermont,All,2024-25,14,1.7094,2,117,> 100%,Vermont
+State,Vermont,All,2024-25,15,0.854701,1,117,> 100%,Vermont
+State,Vermont,All,2024-25,16,0.0,0,126,> 100%,Vermont
+State,Vermont,All,2024-25,17,0.0,0,123,> 100%,Vermont
+State,Vermont,All,2024-25,18,0.0,0,121,> 100%,Vermont
+State,Vermont,All,2024-25,19,0.0,0,118,> 100%,Vermont
+State,Vermont,All,2024-25,20,0.0,0,131,> 100%,Vermont
+State,Vermont,All,2024-25,21,0.0,0,108,> 100%,Vermont
+State,Vermont,All,2024-25,22,0.0,0,135,> 100%,Vermont
+State,Vermont,All,2024-25,23,0.0,0,114,> 100%,Vermont
+State,Vermont,All,2024-25,24,0.0,0,94,> 100%,Vermont
+State,Vermont,All,2024-25,25,0.0,0,117,> 100%,Vermont
+State,Vermont,All,2024-25,26,0.0,0,107,> 100%,Vermont
+State,Vermont,All,2024-25,27,0.0,0,106,> 100%,Vermont
+State,Vermont,All,2024-25,28,0.0,0,133,> 100%,Vermont
+State,Vermont,All,2024-25,29,0.0,0,117,> 100%,Vermont
+State,Vermont,All,2024-25,30,0.0,0,119,> 100%,Vermont
+State,Vermont,All,2024-25,31,0.0,0,132,> 100%,Vermont
+State,Vermont,All,2024-25,32,0.813008,1,123,> 100%,Vermont
+State,Vermont,All,2024-25,33,0.0,0,140,> 100%,Vermont
+State,Vermont,All,2024-25,34,0.0,0,117,> 100%,Vermont
+State,Vermont,All,2024-25,35,0.0,0,113,> 100%,Vermont
+State,Vermont,All,2024-25,36,0.0,0,107,> 100%,Vermont
+State,Vermont,All,2024-25,37,0.0,0,78,> 100%,Vermont
+State,Vermont,All,2024-25,38,0.0,0,76,> 100%,Vermont

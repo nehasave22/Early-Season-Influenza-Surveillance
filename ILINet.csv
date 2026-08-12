@@ -1,0 +1,1562 @@
+PERCENTAGE OF VISITS FOR INFLUENZA-LIKE-ILLNESS REPORTED BY SENTINEL PROVIDERS
+REGION TYPE,REGION,YEAR,WEEK,% WEIGHTED ILI,%UNWEIGHTED ILI,AGE 0-4,AGE 25-49,AGE 25-64,AGE 5-24,AGE 50-64,AGE 65,ILITOTAL,NUM. OF PROVIDERS,TOTAL PATIENTS
+States,Connecticut,2020,40,X,1.09379,X,X,X,X,X,X,407,70,37210
+States,Maine,2020,40,X,0.515914,X,X,X,X,X,X,65,42,12599
+States,Massachusetts,2020,40,X,0.665719,X,X,X,X,X,X,431,97,64742
+States,New Hampshire,2020,40,X,0.694816,X,X,X,X,X,X,13,11,1871
+States,Rhode Island,2020,40,X,0.320671,X,X,X,X,X,X,39,27,12162
+States,Vermont,2020,40,X,0.819441,X,X,X,X,X,X,29,11,3539
+States,Connecticut,2020,41,X,1.21996,X,X,X,X,X,X,466,71,38198
+States,Maine,2020,41,X,0.630762,X,X,X,X,X,X,91,54,14427
+States,Massachusetts,2020,41,X,0.825342,X,X,X,X,X,X,488,90,59127
+States,New Hampshire,2020,41,X,0.652884,X,X,X,X,X,X,12,11,1838
+States,Rhode Island,2020,41,X,0.608853,X,X,X,X,X,X,74,25,12154
+States,Vermont,2020,41,X,0.770952,X,X,X,X,X,X,31,12,4021
+States,Connecticut,2020,42,X,1.26188,X,X,X,X,X,X,470,70,37246
+States,Maine,2020,42,X,0.501782,X,X,X,X,X,X,69,53,13751
+States,Massachusetts,2020,42,X,0.649545,X,X,X,X,X,X,369,90,56809
+States,New Hampshire,2020,42,X,0.183824,X,X,X,X,X,X,3,9,1632
+States,Rhode Island,2020,42,X,0.663176,X,X,X,X,X,X,76,26,11460
+States,Vermont,2020,42,X,0.746454,X,X,X,X,X,X,30,13,4019
+States,Connecticut,2020,43,X,1.07629,X,X,X,X,X,X,476,70,44226
+States,Maine,2020,43,X,0.607947,X,X,X,X,X,X,84,53,13817
+States,Massachusetts,2020,43,X,0.7103,X,X,X,X,X,X,401,89,56455
+States,New Hampshire,2020,43,X,0.595238,X,X,X,X,X,X,12,11,2016
+States,Rhode Island,2020,43,X,0.516046,X,X,X,X,X,X,64,29,12402
+States,Vermont,2020,43,X,1.02891,X,X,X,X,X,X,42,14,4082
+States,Connecticut,2020,44,X,1.43492,X,X,X,X,X,X,549,73,38260
+States,Maine,2020,44,X,0.592571,X,X,X,X,X,X,82,53,13838
+States,Massachusetts,2020,44,X,0.823689,X,X,X,X,X,X,437,90,53054
+States,New Hampshire,2020,44,X,0.598504,X,X,X,X,X,X,12,11,2005
+States,Rhode Island,2020,44,X,0.51116,X,X,X,X,X,X,60,29,11738
+States,Vermont,2020,44,X,0.869565,X,X,X,X,X,X,31,13,3565
+States,Connecticut,2020,45,X,1.29836,X,X,X,X,X,X,545,73,41976
+States,Maine,2020,45,X,0.627554,X,X,X,X,X,X,86,53,13704
+States,Massachusetts,2020,45,X,0.955625,X,X,X,X,X,X,547,92,57240
+States,New Hampshire,2020,45,X,0.419287,X,X,X,X,X,X,8,11,1908
+States,Rhode Island,2020,45,X,0.831048,X,X,X,X,X,X,100,30,12033
+States,Vermont,2020,45,X,1.42379,X,X,X,X,X,X,34,11,2388
+States,Connecticut,2020,46,X,1.31175,X,X,X,X,X,X,581,73,44292
+States,Maine,2020,46,X,0.790861,X,X,X,X,X,X,108,52,13656
+States,Massachusetts,2020,46,X,0.96886,X,X,X,X,X,X,584,93,60277
+States,New Hampshire,2020,46,X,0.417755,X,X,X,X,X,X,8,11,1915
+States,Rhode Island,2020,46,X,0.842625,X,X,X,X,X,X,99,28,11749
+States,Vermont,2020,46,X,1.2008,X,X,X,X,X,X,36,12,2998
+States,Connecticut,2020,47,X,1.2923,X,X,X,X,X,X,545,73,42173
+States,Maine,2020,47,X,0.527215,X,X,X,X,X,X,71,53,13467
+States,Massachusetts,2020,47,X,0.974493,X,X,X,X,X,X,562,91,57671
+States,New Hampshire,2020,47,X,0.23175,X,X,X,X,X,X,4,11,1726
+States,Rhode Island,2020,47,X,0.680722,X,X,X,X,X,X,72,26,10577
+States,Vermont,2020,47,X,1.5507,X,X,X,X,X,X,39,12,2515
+States,Connecticut,2020,48,X,1.19934,X,X,X,X,X,X,438,69,36520
+States,Maine,2020,48,X,0.600462,X,X,X,X,X,X,65,53,10825
+States,Massachusetts,2020,48,X,1.178,X,X,X,X,X,X,600,91,50934
+States,New Hampshire,2020,48,X,0.0878735,X,X,X,X,X,X,1,11,1138
+States,Rhode Island,2020,48,X,0.946781,X,X,X,X,X,X,95,30,10034
+States,Vermont,2020,48,X,1.40845,X,X,X,X,X,X,31,12,2201
+States,Connecticut,2020,49,X,1.42471,X,X,X,X,X,X,538,74,37762
+States,Maine,2020,49,X,0.477042,X,X,X,X,X,X,56,52,11739
+States,Massachusetts,2020,49,X,1.09717,X,X,X,X,X,X,641,91,58423
+States,New Hampshire,2020,49,X,0.184957,X,X,X,X,X,X,3,11,1622
+States,Rhode Island,2020,49,X,0.73622,X,X,X,X,X,X,76,29,10323
+States,Vermont,2020,49,X,0.698174,X,X,X,X,X,X,26,11,3724
+States,Connecticut,2020,50,X,1.50344,X,X,X,X,X,X,537,75,35718
+States,Maine,2020,50,X,0.453317,X,X,X,X,X,X,52,52,11471
+States,Massachusetts,2020,50,X,1.04216,X,X,X,X,X,X,590,92,56613
+States,New Hampshire,2020,50,X,0.113636,X,X,X,X,X,X,2,11,1760
+States,Rhode Island,2020,50,X,0.65941,X,X,X,X,X,X,63,29,9554
+States,Vermont,2020,50,X,0.586601,X,X,X,X,X,X,19,11,3239
+States,Connecticut,2020,51,X,1.11529,X,X,X,X,X,X,377,72,33803
+States,Maine,2020,51,X,0.464165,X,X,X,X,X,X,59,52,12711
+States,Massachusetts,2020,51,X,1.05308,X,X,X,X,X,X,548,91,52038
+States,New Hampshire,2020,51,X,0.371287,X,X,X,X,X,X,6,11,1616
+States,Rhode Island,2020,51,X,0.595171,X,X,X,X,X,X,53,29,8905
+States,Vermont,2020,51,X,1.14555,X,X,X,X,X,X,34,11,2968
+States,Connecticut,2020,52,X,1.16131,X,X,X,X,X,X,393,71,33841
+States,Maine,2020,52,X,0.547834,X,X,X,X,X,X,54,51,9857
+States,Massachusetts,2020,52,X,1.098,X,X,X,X,X,X,552,91,50273
+States,New Hampshire,2020,52,X,0.261097,X,X,X,X,X,X,2,9,766
+States,Rhode Island,2020,52,X,0.543881,X,X,X,X,X,X,44,27,8090
+States,Vermont,2020,52,X,0.912548,X,X,X,X,X,X,24,10,2630
+States,Connecticut,2020,53,X,0.987038,X,X,X,X,X,X,348,70,35257
+States,Maine,2020,53,X,0.474547,X,X,X,X,X,X,55,52,11590
+States,Massachusetts,2020,53,X,1.09182,X,X,X,X,X,X,571,92,52298
+States,New Hampshire,2020,53,X,0.429799,X,X,X,X,X,X,3,9,698
+States,Rhode Island,2020,53,X,0.576701,X,X,X,X,X,X,50,28,8670
+States,Vermont,2020,53,X,1.12743,X,X,X,X,X,X,33,11,2927
+States,Connecticut,2021,1,X,1.06793,X,X,X,X,X,X,393,72,36800
+States,Maine,2021,1,X,0.431482,X,X,X,X,X,X,54,52,12515
+States,Massachusetts,2021,1,X,0.991023,X,X,X,X,X,X,563,92,56810
+States,New Hampshire,2021,1,X,0.235849,X,X,X,X,X,X,3,9,1272
+States,Rhode Island,2021,1,X,0.730594,X,X,X,X,X,X,72,28,9855
+States,Vermont,2021,1,X,0.904977,X,X,X,X,X,X,30,11,3315
+States,Connecticut,2021,2,X,1.02049,X,X,X,X,X,X,369,73,36159
+States,Maine,2021,2,X,0.438806,X,X,X,X,X,X,55,52,12534
+States,Massachusetts,2021,2,X,0.772562,X,X,X,X,X,X,421,93,54494
+States,New Hampshire,2021,2,X,0.0874126,X,X,X,X,X,X,1,9,1144
+States,Rhode Island,2021,2,X,0.466845,X,X,X,X,X,X,49,30,10496
+States,Vermont,2021,2,X,0.683371,X,X,X,X,X,X,21,11,3073
+States,Connecticut,2021,3,X,0.700385,X,X,X,X,X,X,253,69,36123
+States,Maine,2021,3,X,0.462008,X,X,X,X,X,X,56,52,12121
+States,Massachusetts,2021,3,X,0.75212,X,X,X,X,X,X,400,92,53183
+States,New Hampshire,2021,3,X,0,X,X,X,X,X,X,0,9,1068
+States,Rhode Island,2021,3,X,0.550299,X,X,X,X,X,X,57,30,10358
+States,Vermont,2021,3,X,0.541057,X,X,X,X,X,X,17,11,3142
+States,Connecticut,2021,4,X,0.678323,X,X,X,X,X,X,232,69,34202
+States,Maine,2021,4,X,0.346451,X,X,X,X,X,X,39,52,11257
+States,Massachusetts,2021,4,X,0.74451,X,X,X,X,X,X,398,92,53458
+States,New Hampshire,2021,4,X,0.820345,X,X,X,X,X,X,10,9,1219
+States,Rhode Island,2021,4,X,0.544059,X,X,X,X,X,X,56,29,10293
+States,Vermont,2021,4,X,0.729927,X,X,X,X,X,X,22,11,3014
+States,Connecticut,2021,5,X,0.530589,X,X,X,X,X,X,183,69,34490
+States,Maine,2021,5,X,0.41404,X,X,X,X,X,X,44,51,10627
+States,Massachusetts,2021,5,X,0.56494,X,X,X,X,X,X,298,91,52749
+States,New Hampshire,2021,5,X,0.145773,X,X,X,X,X,X,2,9,1372
+States,Rhode Island,2021,5,X,0.356833,X,X,X,X,X,X,37,28,10369
+States,Vermont,2021,5,X,0.733578,X,X,X,X,X,X,22,11,2999
+States,Connecticut,2021,6,X,0.511167,X,X,X,X,X,X,176,69,34431
+States,Maine,2021,6,X,0.109639,X,X,X,X,X,X,12,52,10945
+States,Massachusetts,2021,6,X,0.525871,X,X,X,X,X,X,280,91,53245
+States,New Hampshire,2021,6,X,0.335121,X,X,X,X,X,X,5,9,1492
+States,Rhode Island,2021,6,X,0.260191,X,X,X,X,X,X,27,29,10377
+States,Vermont,2021,6,X,0.633641,X,X,X,X,X,X,22,10,3472
+States,Connecticut,2021,7,X,0.459269,X,X,X,X,X,X,156,69,33967
+States,Maine,2021,7,X,0.323247,X,X,X,X,X,X,36,52,11137
+States,Massachusetts,2021,7,X,0.510005,X,X,X,X,X,X,262,92,51372
+States,New Hampshire,2021,7,X,0,X,X,X,X,X,X,0,9,1351
+States,Rhode Island,2021,7,X,0.393248,X,X,X,X,X,X,41,29,10426
+States,Vermont,2021,7,X,0.506706,X,X,X,X,X,X,17,11,3355
+States,Connecticut,2021,8,X,0.452641,X,X,X,X,X,X,161,69,35569
+States,Maine,2021,8,X,0.290299,X,X,X,X,X,X,36,52,12401
+States,Massachusetts,2021,8,X,0.460251,X,X,X,X,X,X,264,93,57360
+States,New Hampshire,2021,8,X,0.1657,X,X,X,X,X,X,2,9,1207
+States,Rhode Island,2021,8,X,0.366332,X,X,X,X,X,X,43,30,11738
+States,Vermont,2021,8,X,0.470173,X,X,X,X,X,X,16,10,3403
+States,Connecticut,2021,9,X,0.472971,X,X,X,X,X,X,170,69,35943
+States,Maine,2021,9,X,0.260088,X,X,X,X,X,X,33,52,12688
+States,Massachusetts,2021,9,X,0.503864,X,X,X,X,X,X,283,93,56166
+States,New Hampshire,2021,9,X,0.0721501,X,X,X,X,X,X,1,9,1386
+States,Rhode Island,2021,9,X,0.29034,X,X,X,X,X,X,33,30,11366
+States,Vermont,2021,9,X,0.522552,X,X,X,X,X,X,19,11,3636
+States,Connecticut,2021,10,X,0.725599,X,X,X,X,X,X,279,72,38451
+States,Maine,2021,10,X,0.324804,X,X,X,X,X,X,41,52,12623
+States,Massachusetts,2021,10,X,0.546581,X,X,X,X,X,X,314,89,57448
+States,New Hampshire,2021,10,X,0.13947,X,X,X,X,X,X,2,9,1434
+States,Rhode Island,2021,10,X,0.349744,X,X,X,X,X,X,39,30,11151
+States,Vermont,2021,10,X,0.600209,X,X,X,X,X,X,23,11,3832
+States,Connecticut,2021,11,X,0.619457,X,X,X,X,X,X,234,69,37775
+States,Maine,2021,11,X,0.256143,X,X,X,X,X,X,32,52,12493
+States,Massachusetts,2021,11,X,0.532256,X,X,X,X,X,X,307,93,57679
+States,New Hampshire,2021,11,X,0.204918,X,X,X,X,X,X,3,9,1464
+States,Rhode Island,2021,11,X,0.403744,X,X,X,X,X,X,44,29,10898
+States,Vermont,2021,11,X,0.354052,X,X,X,X,X,X,9,10,2542
+States,Connecticut,2021,12,X,0.644659,X,X,X,X,X,X,240,69,37229
+States,Maine,2021,12,X,0.314243,X,X,X,X,X,X,40,50,12729
+States,Massachusetts,2021,12,X,0.540346,X,X,X,X,X,X,330,93,61072
+States,New Hampshire,2021,12,X,0.0708717,X,X,X,X,X,X,1,9,1411
+States,Rhode Island,2021,12,X,0.354102,X,X,X,X,X,X,42,28,11861
+States,Vermont,2021,12,X,0.453212,X,X,X,X,X,X,17,11,3751
+States,Connecticut,2021,13,X,0.574398,X,X,X,X,X,X,231,69,40216
+States,Maine,2021,13,X,0.441342,X,X,X,X,X,X,55,50,12462
+States,Massachusetts,2021,13,X,0.611114,X,X,X,X,X,X,365,91,59727
+States,New Hampshire,2021,13,X,0.132714,X,X,X,X,X,X,2,9,1507
+States,Rhode Island,2021,13,X,0.223502,X,X,X,X,X,X,26,30,11633
+States,Vermont,2021,13,X,0.488732,X,X,X,X,X,X,18,11,3683
+States,Connecticut,2021,14,X,0.699552,X,X,X,X,X,X,312,69,44600
+States,Maine,2021,14,X,0.401575,X,X,X,X,X,X,52,50,12949
+States,Massachusetts,2021,14,X,0.633889,X,X,X,X,X,X,398,92,62787
+States,New Hampshire,2021,14,X,0.216138,X,X,X,X,X,X,3,9,1388
+States,Rhode Island,2021,14,X,0.345642,X,X,X,X,X,X,41,28,11862
+States,Vermont,2021,14,X,0.452489,X,X,X,X,X,X,18,11,3978
+States,Connecticut,2021,15,X,0.623616,X,X,X,X,X,X,262,69,42013
+States,Maine,2021,15,X,0.494034,X,X,X,X,X,X,65,50,13157
+States,Massachusetts,2021,15,X,0.544362,X,X,X,X,X,X,348,91,63928
+States,New Hampshire,2021,15,X,0.334448,X,X,X,X,X,X,5,9,1495
+States,Rhode Island,2021,15,X,0.28,X,X,X,X,X,X,35,30,12500
+States,Vermont,2021,15,X,0.61745,X,X,X,X,X,X,23,11,3725
+States,Connecticut,2021,16,X,0.630006,X,X,X,X,X,X,269,69,42698
+States,Maine,2021,16,X,0.32629,X,X,X,X,X,X,42,50,12872
+States,Massachusetts,2021,16,X,0.524562,X,X,X,X,X,X,318,92,60622
+States,New Hampshire,2021,16,X,0.295639,X,X,X,X,X,X,4,9,1353
+States,Rhode Island,2021,16,X,0.384521,X,X,X,X,X,X,47,29,12223
+States,Vermont,2021,16,X,0.339071,X,X,X,X,X,X,13,11,3834
+States,Connecticut,2021,17,X,0.620818,X,X,X,X,X,X,257,69,41397
+States,Maine,2021,17,X,0.457134,X,X,X,X,X,X,61,50,13344
+States,Massachusetts,2021,17,X,0.510864,X,X,X,X,X,X,328,92,64205
+States,New Hampshire,2021,17,X,0.405186,X,X,X,X,X,X,5,9,1234
+States,Rhode Island,2021,17,X,0.268366,X,X,X,X,X,X,32,28,11924
+States,Vermont,2021,17,X,0.552486,X,X,X,X,X,X,19,10,3439
+States,Connecticut,2021,18,X,0.634098,X,X,X,X,X,X,247,69,38953
+States,Maine,2021,18,X,0.372107,X,X,X,X,X,X,50,50,13437
+States,Massachusetts,2021,18,X,0.537107,X,X,X,X,X,X,345,91,64233
+States,New Hampshire,2021,18,X,0.283688,X,X,X,X,X,X,4,9,1410
+States,Rhode Island,2021,18,X,0.285931,X,X,X,X,X,X,34,30,11891
+States,Vermont,2021,18,X,0.634196,X,X,X,X,X,X,25,11,3942
+States,Connecticut,2021,19,X,0.732169,X,X,X,X,X,X,298,69,40701
+States,Maine,2021,19,X,0.280319,X,X,X,X,X,X,38,50,13556
+States,Massachusetts,2021,19,X,0.590751,X,X,X,X,X,X,384,91,65002
+States,New Hampshire,2021,19,X,0.213068,X,X,X,X,X,X,3,8,1408
+States,Rhode Island,2021,19,X,0.307283,X,X,X,X,X,X,37,28,12041
+States,Vermont,2021,19,X,0.537634,X,X,X,X,X,X,21,10,3906
+States,Connecticut,2021,20,X,0.907927,X,X,X,X,X,X,383,69,42184
+States,Maine,2021,20,X,0.312256,X,X,X,X,X,X,44,50,14091
+States,Massachusetts,2021,20,X,0.603959,X,X,X,X,X,X,411,91,68051
+States,New Hampshire,2021,20,X,0.0774593,X,X,X,X,X,X,1,8,1291
+States,Rhode Island,2021,20,X,0.298805,X,X,X,X,X,X,36,27,12048
+States,Vermont,2021,20,X,0.414634,X,X,X,X,X,X,17,10,4100
+States,Connecticut,2021,21,X,0.799842,X,X,X,X,X,X,324,68,40508
+States,Maine,2021,21,X,0.311915,X,X,X,X,X,X,45,50,14427
+States,Massachusetts,2021,21,X,0.587954,X,X,X,X,X,X,393,84,66842
+States,New Hampshire,2021,21,X,0.104167,X,X,X,X,X,X,1,8,960
+States,Rhode Island,2021,21,X,0.233372,X,X,X,X,X,X,28,28,11998
+States,Vermont,2021,21,X,0.493675,X,X,X,X,X,X,16,10,3241
+States,Connecticut,2021,22,X,0.844346,X,X,X,X,X,X,338,68,40031
+States,Maine,2021,22,X,0.415893,X,X,X,X,X,X,56,49,13465
+States,Massachusetts,2021,22,X,0.715868,X,X,X,X,X,X,462,83,64537
+States,New Hampshire,2021,22,X,0,X,X,X,X,X,X,0,7,691
+States,Rhode Island,2021,22,X,0.244643,X,X,X,X,X,X,29,29,11854
+States,Vermont,2021,22,X,0.655022,X,X,X,X,X,X,21,9,3206
+States,Connecticut,2021,23,X,0.741621,X,X,X,X,X,X,312,68,42070
+States,Maine,2021,23,X,0.408459,X,X,X,X,X,X,62,49,15179
+States,Massachusetts,2021,23,X,0.69532,X,X,X,X,X,X,491,81,70615
+States,New Hampshire,2021,23,X,0.102564,X,X,X,X,X,X,1,8,975
+States,Rhode Island,2021,23,X,0.330439,X,X,X,X,X,X,43,28,13013
+States,Vermont,2021,23,X,0.501253,X,X,X,X,X,X,18,9,3591
+States,Connecticut,2021,24,X,0.901165,X,X,X,X,X,X,369,68,40947
+States,Maine,2021,24,X,0.618625,X,X,X,X,X,X,94,50,15195
+States,Massachusetts,2021,24,X,0.77861,X,X,X,X,X,X,546,83,70125
+States,New Hampshire,2021,24,X,0,X,X,X,X,X,X,0,8,1103
+States,Rhode Island,2021,24,X,0.270835,X,X,X,X,X,X,35,30,12923
+States,Vermont,2021,24,X,0.753405,X,X,X,X,X,X,26,9,3451
+States,Connecticut,2021,25,X,0.834309,X,X,X,X,X,X,342,68,40992
+States,Maine,2021,25,X,0.635866,X,X,X,X,X,X,94,49,14783
+States,Massachusetts,2021,25,X,0.793913,X,X,X,X,X,X,552,82,69529
+States,New Hampshire,2021,25,X,0,X,X,X,X,X,X,0,8,983
+States,Rhode Island,2021,25,X,0.313885,X,X,X,X,X,X,34,27,10832
+States,Vermont,2021,25,X,0.660611,X,X,X,X,X,X,24,9,3633
+States,Connecticut,2021,26,X,0.742755,X,X,X,X,X,X,306,68,41198
+States,Maine,2021,26,X,0.632788,X,X,X,X,X,X,97,48,15329
+States,Massachusetts,2021,26,X,0.723231,X,X,X,X,X,X,503,83,69549
+States,New Hampshire,2021,26,X,0.212314,X,X,X,X,X,X,2,8,942
+States,Rhode Island,2021,26,X,0.381443,X,X,X,X,X,X,37,27,9700
+States,Vermont,2021,26,X,0.520833,X,X,X,X,X,X,20,9,3840
+States,Connecticut,2021,27,X,0.880235,X,X,X,X,X,X,363,68,41239
+States,Maine,2021,27,X,0.745712,X,X,X,X,X,X,110,48,14751
+States,Massachusetts,2021,27,X,0.855239,X,X,X,X,X,X,570,82,66648
+States,New Hampshire,2021,27,X,0,X,X,X,X,X,X,0,8,731
+States,Rhode Island,2021,27,X,0.373244,X,X,X,X,X,X,38,28,10181
+States,Vermont,2021,27,X,0.695187,X,X,X,X,X,X,26,9,3740
+States,Connecticut,2021,28,X,0.805708,X,X,X,X,X,X,332,68,41206
+States,Maine,2021,28,X,0.630874,X,X,X,X,X,X,98,48,15534
+States,Massachusetts,2021,28,X,0.786909,X,X,X,X,X,X,566,82,71927
+States,New Hampshire,2021,28,X,0.0980392,X,X,X,X,X,X,1,8,1020
+States,Rhode Island,2021,28,X,0.610973,X,X,X,X,X,X,49,28,8020
+States,Vermont,2021,28,X,0.687104,X,X,X,X,X,X,26,9,3784
+States,Connecticut,2021,29,X,0.999641,X,X,X,X,X,X,446,68,44616
+States,Maine,2021,29,X,0.551848,X,X,X,X,X,X,86,48,15584
+States,Massachusetts,2021,29,X,0.851023,X,X,X,X,X,X,625,84,73441
+States,New Hampshire,2021,29,X,0.0921659,X,X,X,X,X,X,1,8,1085
+States,Rhode Island,2021,29,X,0.622764,X,X,X,X,X,X,47,26,7547
+States,Vermont,2021,29,X,0.672405,X,X,X,X,X,X,25,9,3718
+States,Connecticut,2021,30,X,1.16424,X,X,X,X,X,X,531,68,45609
+States,Maine,2021,30,X,0.827515,X,X,X,X,X,X,128,48,15468
+States,Massachusetts,2021,30,X,0.986784,X,X,X,X,X,X,728,83,73775
+States,New Hampshire,2021,30,X,0,X,X,X,X,X,X,0,8,974
+States,Rhode Island,2021,30,X,0.470958,X,X,X,X,X,X,60,25,12740
+States,Vermont,2021,30,X,0.815439,X,X,X,X,X,X,30,9,3679
+States,Connecticut,2021,31,X,1.1726,X,X,X,X,X,X,538,68,45881
+States,Maine,2021,31,X,0.759205,X,X,X,X,X,X,120,48,15806
+States,Massachusetts,2021,31,X,1.04275,X,X,X,X,X,X,759,82,72788
+States,New Hampshire,2021,31,X,0,X,X,X,X,X,X,0,8,911
+States,Rhode Island,2021,31,X,0.403063,X,X,X,X,X,X,50,25,12405
+States,Vermont,2021,31,X,1.02721,X,X,X,X,X,X,37,9,3602
+States,Connecticut,2021,32,X,1.1873,X,X,X,X,X,X,560,68,47166
+States,Maine,2021,32,X,0.652837,X,X,X,X,X,X,107,48,16390
+States,Massachusetts,2021,32,X,1.03854,X,X,X,X,X,X,771,83,74239
+States,New Hampshire,2021,32,X,0,X,X,X,X,X,X,0,8,995
+States,Rhode Island,2021,32,X,0.479698,X,X,X,X,X,X,56,28,11674
+States,Vermont,2021,32,X,1.18627,X,X,X,X,X,X,47,9,3962
+States,Connecticut,2021,33,X,1.24733,X,X,X,X,X,X,584,68,46820
+States,Maine,2021,33,X,0.708953,X,X,X,X,X,X,113,47,15939
+States,Massachusetts,2021,33,X,1.03048,X,X,X,X,X,X,751,82,72879
+States,New Hampshire,2021,33,X,0,X,X,X,X,X,X,0,8,975
+States,Rhode Island,2021,33,X,0.566481,X,X,X,X,X,X,53,26,9356
+States,Vermont,2021,33,X,0.970649,X,X,X,X,X,X,42,10,4327
+States,Connecticut,2021,34,X,1.27553,X,X,X,X,X,X,582,68,45628
+States,Maine,2021,34,X,0.753864,X,X,X,X,X,X,120,46,15918
+States,Massachusetts,2021,34,X,1.01277,X,X,X,X,X,X,727,83,71783
+States,New Hampshire,2021,34,X,0,X,X,X,X,X,X,0,8,1078
+States,Rhode Island,2021,34,X,0.325474,X,X,X,X,X,X,41,28,12597
+States,Vermont,2021,34,X,1.4065,X,X,X,X,X,X,61,10,4337
+States,Connecticut,2021,35,X,1.13567,X,X,X,X,X,X,520,68,45788
+States,Maine,2021,35,X,1.03736,X,X,X,X,X,X,163,47,15713
+States,Massachusetts,2021,35,X,1.02415,X,X,X,X,X,X,742,83,72450
+States,New Hampshire,2021,35,X,0.0747384,X,X,X,X,X,X,1,8,1338
+States,Rhode Island,2021,35,X,0.345909,X,X,X,X,X,X,43,27,12431
+States,Vermont,2021,35,X,0.725275,X,X,X,X,X,X,33,10,4550
+States,Connecticut,2021,36,X,1.27285,X,X,X,X,X,X,601,68,47217
+States,Maine,2021,36,X,1.08821,X,X,X,X,X,X,170,47,15622
+States,Massachusetts,2021,36,X,1.23445,X,X,X,X,X,X,889,82,72016
+States,New Hampshire,2021,36,X,0.303721,X,X,X,X,X,X,4,8,1317
+States,Rhode Island,2021,36,X,0.256177,X,X,X,X,X,X,31,23,12101
+States,Vermont,2021,36,X,1.1486,X,X,X,X,X,X,48,10,4179
+States,Connecticut,2021,37,X,1.45508,X,X,X,X,X,X,701,68,48176
+States,Maine,2021,37,X,1.29136,X,X,X,X,X,X,192,46,14868
+States,Massachusetts,2021,37,X,1.17043,X,X,X,X,X,X,889,82,75955
+States,New Hampshire,2021,37,X,0.350263,X,X,X,X,X,X,6,8,1713
+States,Rhode Island,2021,37,X,0.42303,X,X,X,X,X,X,59,27,13947
+States,Vermont,2021,37,X,1.09709,X,X,X,X,X,X,40,10,3646
+States,Connecticut,2021,38,X,1.27961,X,X,X,X,X,X,618,68,48296
+States,Maine,2021,38,X,1.42171,X,X,X,X,X,X,213,47,14982
+States,Massachusetts,2021,38,X,1.2885,X,X,X,X,X,X,973,82,75514
+States,New Hampshire,2021,38,X,0,X,X,X,X,X,X,0,8,1579
+States,Rhode Island,2021,38,X,0.310963,X,X,X,X,X,X,43,26,13828
+States,Vermont,2021,38,X,1.01498,X,X,X,X,X,X,42,9,4138
+States,Connecticut,2021,39,X,1.49947,X,X,X,X,X,X,713,68,47550
+States,Maine,2021,39,X,1.15738,X,X,X,X,X,X,169,47,14602
+States,Massachusetts,2021,39,X,1.36196,X,X,X,X,X,X,1011,82,74231
+States,New Hampshire,2021,39,X,0,X,X,X,X,X,X,0,8,1484
+States,Rhode Island,2021,39,X,0.343335,X,X,X,X,X,X,46,26,13398
+States,Vermont,2021,39,X,0.879567,X,X,X,X,X,X,39,11,4434
+States,Connecticut,2021,40,X,1.59334,X,X,X,X,X,X,775,65,48640
+States,Maine,2021,40,X,1.22684,X,X,X,X,X,X,192,52,15650
+States,Massachusetts,2021,40,X,1.26973,X,X,X,X,X,X,955,86,75213
+States,New Hampshire,2021,40,X,0,X,X,X,X,X,X,0,8,1196
+States,Rhode Island,2021,40,X,0.378328,X,X,X,X,X,X,53,26,14009
+States,Vermont,2021,40,X,1.12666,X,X,X,X,X,X,62,13,5503
+States,Connecticut,2021,41,X,1.69796,X,X,X,X,X,X,832,67,49000
+States,Maine,2021,41,X,1.32055,X,X,X,X,X,X,208,52,15751
+States,Massachusetts,2021,41,X,1.21125,X,X,X,X,X,X,912,88,75294
+States,New Hampshire,2021,41,X,0.339559,X,X,X,X,X,X,6,9,1767
+States,Rhode Island,2021,41,X,0.42494,X,X,X,X,X,X,58,27,13649
+States,Vermont,2021,41,X,0.946548,X,X,X,X,X,X,51,14,5388
+States,Connecticut,2021,42,X,1.41355,X,X,X,X,X,X,676,65,47823
+States,Maine,2021,42,X,1.19209,X,X,X,X,X,X,185,52,15519
+States,Massachusetts,2021,42,X,1.11751,X,X,X,X,X,X,836,89,74809
+States,New Hampshire,2021,42,X,0.37234,X,X,X,X,X,X,7,9,1880
+States,Rhode Island,2021,42,X,0.336411,X,X,X,X,X,X,47,27,13971
+States,Vermont,2021,42,X,0.930321,X,X,X,X,X,X,49,13,5267
+States,Connecticut,2021,43,X,1.44405,X,X,X,X,X,X,661,65,45774
+States,Maine,2021,43,X,1.43434,X,X,X,X,X,X,213,52,14850
+States,Massachusetts,2021,43,X,1.08467,X,X,X,X,X,X,769,89,70897
+States,New Hampshire,2021,43,X,0.483325,X,X,X,X,X,X,10,11,2069
+States,Rhode Island,2021,43,X,0.774174,X,X,X,X,X,X,100,26,12917
+States,Vermont,2021,43,X,0.9328,X,X,X,X,X,X,49,13,5253
+States,Connecticut,2021,44,X,1.68757,X,X,X,X,X,X,794,66,47050
+States,Maine,2021,44,X,1.37958,X,X,X,X,X,X,212,52,15367
+States,Massachusetts,2021,44,X,1.20194,X,X,X,X,X,X,875,87,72799
+States,New Hampshire,2021,44,X,0.659134,X,X,X,X,X,X,14,11,2124
+States,Rhode Island,2021,44,X,2.43902,X,X,X,X,X,X,346,28,14186
+States,Vermont,2021,44,X,1.03306,X,X,X,X,X,X,55,14,5324
+States,Connecticut,2021,45,X,1.64615,X,X,X,X,X,X,773,66,46958
+States,Maine,2021,45,X,1.34598,X,X,X,X,X,X,203,52,15082
+States,Massachusetts,2021,45,X,1.42089,X,X,X,X,X,X,1028,89,72349
+States,New Hampshire,2021,45,X,0.583576,X,X,X,X,X,X,14,12,2399
+States,Rhode Island,2021,45,X,1.53271,X,X,X,X,X,X,209,29,13636
+States,Vermont,2021,45,X,1.2418,X,X,X,X,X,X,70,14,5637
+States,Connecticut,2021,46,X,1.64953,X,X,X,X,X,X,791,66,47953
+States,Maine,2021,46,X,1.44477,X,X,X,X,X,X,223,52,15435
+States,Massachusetts,2021,46,X,1.56633,X,X,X,X,X,X,1150,89,73420
+States,New Hampshire,2021,46,X,0.381841,X,X,X,X,X,X,9,11,2357
+States,Rhode Island,2021,46,X,2.87348,X,X,X,X,X,X,417,28,14512
+States,Vermont,2021,46,X,1.28423,X,X,X,X,X,X,68,14,5295
+States,Connecticut,2021,47,X,1.98943,X,X,X,X,X,X,888,68,44636
+States,Maine,2021,47,X,2.01712,X,X,X,X,X,X,245,40,12146
+States,Massachusetts,2021,47,X,2.00593,X,X,X,X,X,X,1258,87,62714
+States,New Hampshire,2021,47,X,0.530504,X,X,X,X,X,X,6,11,1131
+States,Rhode Island,2021,47,X,1.13422,X,X,X,X,X,X,132,28,11638
+States,Vermont,2021,47,X,1.20797,X,X,X,X,X,X,60,14,4967
+States,Connecticut,2021,48,X,2.33014,X,X,X,X,X,X,1200,69,51499
+States,Maine,2021,48,X,1.9305,X,X,X,X,X,X,285,51,14763
+States,Massachusetts,2021,48,X,2.53869,X,X,X,X,X,X,1898,89,74763
+States,New Hampshire,2021,48,X,0.927214,X,X,X,X,X,X,20,11,2157
+States,Rhode Island,2021,48,X,1.39695,X,X,X,X,X,X,183,27,13100
+States,Vermont,2021,48,X,1.15473,X,X,X,X,X,X,60,13,5196
+States,Connecticut,2021,49,X,2.5608,X,X,X,X,X,X,1352,71,52796
+States,Maine,2021,49,X,1.67746,X,X,X,X,X,X,228,51,13592
+States,Massachusetts,2021,49,X,2.86691,X,X,X,X,X,X,2079,89,72517
+States,New Hampshire,2021,49,X,2.10009,X,X,X,X,X,X,47,12,2238
+States,Rhode Island,2021,49,X,1.74942,X,X,X,X,X,X,235,29,13433
+States,Vermont,2021,49,X,1.34271,X,X,X,X,X,X,63,13,4692
+States,Connecticut,2021,50,X,2.53169,X,X,X,X,X,X,1324,66,52297
+States,Maine,2021,50,X,1.84996,X,X,X,X,X,X,253,51,13676
+States,Massachusetts,2021,50,X,2.81437,X,X,X,X,X,X,2049,87,72805
+States,New Hampshire,2021,50,X,1.31579,X,X,X,X,X,X,28,12,2128
+States,Rhode Island,2021,50,X,1.87231,X,X,X,X,X,X,244,27,13032
+States,Vermont,2021,50,X,1.26664,X,X,X,X,X,X,59,13,4658
+States,Connecticut,2021,51,X,3.02239,X,X,X,X,X,X,1550,66,51284
+States,Maine,2021,51,X,1.95299,X,X,X,X,X,X,226,51,11572
+States,Massachusetts,2021,51,X,3.46429,X,X,X,X,X,X,2230,81,64371
+States,New Hampshire,2021,51,X,0.542986,X,X,X,X,X,X,6,10,1105
+States,Rhode Island,2021,51,X,1.68684,X,X,X,X,X,X,177,26,10493
+States,Vermont,2021,51,X,1.40812,X,X,X,X,X,X,60,13,4261
+States,Connecticut,2021,52,X,4.15731,X,X,X,X,X,X,2444,65,58788
+States,Maine,2021,52,X,1.92861,X,X,X,X,X,X,275,51,14259
+States,Massachusetts,2021,52,X,4.39349,X,X,X,X,X,X,3150,81,71697
+States,New Hampshire,2021,52,X,0.856164,X,X,X,X,X,X,10,11,1168
+States,Rhode Island,2021,52,X,1.88611,X,X,X,X,X,X,210,24,11134
+States,Vermont,2021,52,X,1.25677,X,X,X,X,X,X,58,13,4615
+States,Connecticut,2022,1,X,3.07214,X,X,X,X,X,X,1591,66,51788
+States,Maine,2022,1,X,1.88548,X,X,X,X,X,X,271,51,14373
+States,Massachusetts,2022,1,X,3.19551,X,X,X,X,X,X,2317,82,72508
+States,New Hampshire,2022,1,X,0.589971,X,X,X,X,X,X,8,11,1356
+States,Rhode Island,2022,1,X,1.45687,X,X,X,X,X,X,178,28,12218
+States,Vermont,2022,1,X,1.58573,X,X,X,X,X,X,80,13,5045
+States,Connecticut,2022,2,X,2.02956,X,X,X,X,X,X,887,65,43704
+States,Maine,2022,2,X,1.72577,X,X,X,X,X,X,237,51,13733
+States,Massachusetts,2022,2,X,1.94832,X,X,X,X,X,X,1238,87,63542
+States,New Hampshire,2022,2,X,0.641026,X,X,X,X,X,X,9,11,1404
+States,Rhode Island,2022,2,X,1.12765,X,X,X,X,X,X,122,25,10819
+States,Vermont,2022,2,X,1.13636,X,X,X,X,X,X,53,13,4664
+States,Connecticut,2022,3,X,1.44726,X,X,X,X,X,X,583,67,40283
+States,Maine,2022,3,X,1.3551,X,X,X,X,X,X,176,51,12988
+States,Massachusetts,2022,3,X,1.2028,X,X,X,X,X,X,717,88,59611
+States,New Hampshire,2022,3,X,0.659522,X,X,X,X,X,X,8,7,1213
+States,Rhode Island,2022,3,X,1.12485,X,X,X,X,X,X,111,25,9868
+States,Vermont,2022,3,X,0.720721,X,X,X,X,X,X,32,14,4440
+States,Connecticut,2022,4,X,0.996826,X,X,X,X,X,X,358,64,35914
+States,Maine,2022,4,X,0.933535,X,X,X,X,X,X,117,51,12533
+States,Massachusetts,2022,4,X,0.833849,X,X,X,X,X,X,472,88,56605
+States,New Hampshire,2022,4,X,0.503597,X,X,X,X,X,X,7,10,1390
+States,Rhode Island,2022,4,X,0.867331,X,X,X,X,X,X,81,26,9339
+States,Vermont,2022,4,X,0.841424,X,X,X,X,X,X,39,14,4635
+States,Connecticut,2022,5,X,0.819448,X,X,X,X,X,X,300,64,36610
+States,Maine,2022,5,X,0.885945,X,X,X,X,X,X,103,50,11626
+States,Massachusetts,2022,5,X,0.74146,X,X,X,X,X,X,420,87,56645
+States,New Hampshire,2022,5,X,0.17762,X,X,X,X,X,X,1,7,563
+States,Rhode Island,2022,5,X,0.506222,X,X,X,X,X,X,48,24,9482
+States,Vermont,2022,5,X,0.765306,X,X,X,X,X,X,27,12,3528
+States,Connecticut,2022,6,X,0.704096,X,X,X,X,X,X,269,63,38205
+States,Maine,2022,6,X,0.819734,X,X,X,X,X,X,109,51,13297
+States,Massachusetts,2022,6,X,0.528629,X,X,X,X,X,X,332,89,62804
+States,New Hampshire,2022,6,X,0.15083,X,X,X,X,X,X,2,10,1326
+States,Rhode Island,2022,6,X,0.46353,X,X,X,X,X,X,53,28,11434
+States,Vermont,2022,6,X,0.534474,X,X,X,X,X,X,30,14,5613
+States,Connecticut,2022,7,X,0.692697,X,X,X,X,X,X,256,64,36957
+States,Maine,2022,7,X,0.602546,X,X,X,X,X,X,80,51,13277
+States,Massachusetts,2022,7,X,0.501902,X,X,X,X,X,X,310,89,61765
+States,New Hampshire,2022,7,X,0.228311,X,X,X,X,X,X,3,10,1314
+States,Rhode Island,2022,7,X,0.686073,X,X,X,X,X,X,70,24,10203
+States,Vermont,2022,7,X,0.408816,X,X,X,X,X,X,23,14,5626
+States,Connecticut,2022,8,X,0.848218,X,X,X,X,X,X,312,64,36783
+States,Maine,2022,8,X,0.646552,X,X,X,X,X,X,81,52,12528
+States,Massachusetts,2022,8,X,0.633875,X,X,X,X,X,X,354,90,55847
+States,New Hampshire,2022,8,X,0.168067,X,X,X,X,X,X,2,10,1190
+States,Rhode Island,2022,8,X,0.538983,X,X,X,X,X,X,58,26,10761
+States,Vermont,2022,8,X,0.480171,X,X,X,X,X,X,27,14,5623
+States,Connecticut,2022,9,X,0.771601,X,X,X,X,X,X,303,64,39269
+States,Maine,2022,9,X,0.641613,X,X,X,X,X,X,84,52,13092
+States,Massachusetts,2022,9,X,0.626887,X,X,X,X,X,X,409,88,65243
+States,New Hampshire,2022,9,X,0.244101,X,X,X,X,X,X,3,10,1229
+States,Rhode Island,2022,9,X,0.465975,X,X,X,X,X,X,53,25,11374
+States,Vermont,2022,9,X,0.504414,X,X,X,X,X,X,28,14,5551
+States,Connecticut,2022,10,X,1.09582,X,X,X,X,X,X,434,68,39605
+States,Maine,2022,10,X,0.627742,X,X,X,X,X,X,83,51,13222
+States,Massachusetts,2022,10,X,1.01285,X,X,X,X,X,X,658,86,64965
+States,New Hampshire,2022,10,X,0.306279,X,X,X,X,X,X,4,10,1306
+States,Rhode Island,2022,10,X,0.684988,X,X,X,X,X,X,83,26,12117
+States,Vermont,2022,10,X,0.618789,X,X,X,X,X,X,33,14,5333
+States,Connecticut,2022,11,X,1.17435,X,X,X,X,X,X,462,64,39341
+States,Maine,2022,11,X,0.814081,X,X,X,X,X,X,111,51,13635
+States,Massachusetts,2022,11,X,1.20161,X,X,X,X,X,X,804,84,66910
+States,New Hampshire,2022,11,X,0.38373,X,X,X,X,X,X,5,11,1303
+States,Rhode Island,2022,11,X,0.916724,X,X,X,X,X,X,107,25,11672
+States,Vermont,2022,11,X,0.598151,X,X,X,X,X,X,33,14,5517
+States,Connecticut,2022,12,X,1.19717,X,X,X,X,X,X,492,64,41097
+States,Maine,2022,12,X,1.46418,X,X,X,X,X,X,205,51,14001
+States,Massachusetts,2022,12,X,1.54148,X,X,X,X,X,X,1069,88,69349
+States,New Hampshire,2022,12,X,2.58162,X,X,X,X,X,X,34,9,1317
+States,Rhode Island,2022,12,X,0.995685,X,X,X,X,X,X,120,24,12052
+States,Vermont,2022,12,X,0.73554,X,X,X,X,X,X,44,14,5982
+States,Connecticut,2022,13,X,1.72178,X,X,X,X,X,X,717,64,41643
+States,Maine,2022,13,X,1.28542,X,X,X,X,X,X,181,51,14081
+States,Massachusetts,2022,13,X,2.11857,X,X,X,X,X,X,1492,88,70425
+States,New Hampshire,2022,13,X,2.98329,X,X,X,X,X,X,50,10,1676
+States,Rhode Island,2022,13,X,1.1293,X,X,X,X,X,X,138,25,12220
+States,Vermont,2022,13,X,0.628117,X,X,X,X,X,X,34,13,5413
+States,Connecticut,2022,14,X,1.76068,X,X,X,X,X,X,775,66,44017
+States,Maine,2022,14,X,1.77628,X,X,X,X,X,X,259,51,14581
+States,Massachusetts,2022,14,X,2.8313,X,X,X,X,X,X,2044,88,72193
+States,New Hampshire,2022,14,X,1.67046,X,X,X,X,X,X,22,10,1317
+States,Rhode Island,2022,14,X,1.53351,X,X,X,X,X,X,200,26,13042
+States,Vermont,2022,14,X,1.36054,X,X,X,X,X,X,82,14,6027
+States,Connecticut,2022,15,X,1.99665,X,X,X,X,X,X,870,66,43573
+States,Maine,2022,15,X,1.90541,X,X,X,X,X,X,282,51,14800
+States,Massachusetts,2022,15,X,3.43025,X,X,X,X,X,X,2493,86,72677
+States,New Hampshire,2022,15,X,2.28097,X,X,X,X,X,X,44,11,1929
+States,Rhode Island,2022,15,X,1.54659,X,X,X,X,X,X,202,23,13061
+States,Vermont,2022,15,X,1.31839,X,X,X,X,X,X,80,14,6068
+States,Connecticut,2022,16,X,1.86729,X,X,X,X,X,X,811,66,43432
+States,Maine,2022,16,X,2.07291,X,X,X,X,X,X,290,51,13990
+States,Massachusetts,2022,16,X,3.30314,X,X,X,X,X,X,2192,88,66361
+States,New Hampshire,2022,16,X,1.22358,X,X,X,X,X,X,22,11,1798
+States,Rhode Island,2022,16,X,1.26542,X,X,X,X,X,X,161,25,12723
+States,Vermont,2022,16,X,0.972222,X,X,X,X,X,X,56,14,5760
+States,Connecticut,2022,17,X,1.96448,X,X,X,X,X,X,885,66,45050
+States,Maine,2022,17,X,2.42509,X,X,X,X,X,X,365,51,15051
+States,Massachusetts,2022,17,X,2.82196,X,X,X,X,X,X,2065,88,73176
+States,New Hampshire,2022,17,X,0.834939,X,X,X,X,X,X,13,11,1557
+States,Rhode Island,2022,17,X,1.27365,X,X,X,X,X,X,171,23,13426
+States,Vermont,2022,17,X,0.673043,X,X,X,X,X,X,38,12,5646
+States,Connecticut,2022,18,X,2.39355,X,X,X,X,X,X,1090,65,45539
+States,Maine,2022,18,X,2.25788,X,X,X,X,X,X,356,51,15767
+States,Massachusetts,2022,18,X,3.25263,X,X,X,X,X,X,2406,87,73971
+States,New Hampshire,2022,18,X,0.686499,X,X,X,X,X,X,12,11,1748
+States,Rhode Island,2022,18,X,1.91312,X,X,X,X,X,X,255,23,13329
+States,Vermont,2022,18,X,0.819818,X,X,X,X,X,X,46,12,5611
+States,Connecticut,2022,19,X,2.32706,X,X,X,X,X,X,1098,65,47184
+States,Maine,2022,19,X,2.70101,X,X,X,X,X,X,430,50,15920
+States,Massachusetts,2022,19,X,3.36681,X,X,X,X,X,X,2561,85,76066
+States,New Hampshire,2022,19,X,0.862069,X,X,X,X,X,X,15,11,1740
+States,Rhode Island,2022,19,X,2.61256,X,X,X,X,X,X,188,21,7196
+States,Vermont,2022,19,X,0.680404,X,X,X,X,X,X,35,11,5144
+States,Connecticut,2022,20,X,2.11366,X,X,X,X,X,X,996,65,47122
+States,Maine,2022,20,X,2.423,X,X,X,X,X,X,391,51,16137
+States,Massachusetts,2022,20,X,2.61888,X,X,X,X,X,X,1911,81,72970
+States,New Hampshire,2022,20,X,0.567465,X,X,X,X,X,X,9,11,1586
+States,Rhode Island,2022,20,X,1.5075,X,X,X,X,X,X,203,24,13466
+States,Vermont,2022,20,X,0.711188,X,X,X,X,X,X,41,11,5765
+States,Connecticut,2022,21,X,1.7654,X,X,X,X,X,X,793,65,44919
+States,Maine,2022,21,X,1.89102,X,X,X,X,X,X,304,50,16076
+States,Massachusetts,2022,21,X,2.04848,X,X,X,X,X,X,1445,77,70540
+States,New Hampshire,2022,21,X,0.437063,X,X,X,X,X,X,5,10,1144
+States,Rhode Island,2022,21,X,1.27608,X,X,X,X,X,X,167,25,13087
+States,Vermont,2022,21,X,0.450938,X,X,X,X,X,X,25,11,5544
+States,Connecticut,2022,22,X,1.71377,X,X,X,X,X,X,758,65,44230
+States,Maine,2022,22,X,1.39178,X,X,X,X,X,X,207,47,14873
+States,Massachusetts,2022,22,X,1.61906,X,X,X,X,X,X,1073,75,66273
+States,New Hampshire,2022,22,X,0.111483,X,X,X,X,X,X,1,10,897
+States,Rhode Island,2022,22,X,0.812004,X,X,X,X,X,X,92,24,11330
+States,Vermont,2022,22,X,0.520021,X,X,X,X,X,X,30,12,5769
+States,Connecticut,2022,23,X,1.52718,X,X,X,X,X,X,677,65,44330
+States,Maine,2022,23,X,1.33476,X,X,X,X,X,X,199,46,14909
+States,Massachusetts,2022,23,X,1.33855,X,X,X,X,X,X,930,74,69478
+States,New Hampshire,2022,23,X,0,X,X,X,X,X,X,0,10,1110
+States,Rhode Island,2022,23,X,0.636683,X,X,X,X,X,X,78,25,12251
+States,Vermont,2022,23,X,0.656261,X,X,X,X,X,X,37,12,5638
+States,Connecticut,2022,24,X,1.3977,X,X,X,X,X,X,606,65,43357
+States,Maine,2022,24,X,1.02551,X,X,X,X,X,X,158,47,15407
+States,Massachusetts,2022,24,X,1.20256,X,X,X,X,X,X,841,74,69934
+States,New Hampshire,2022,24,X,0.0863558,X,X,X,X,X,X,1,10,1158
+States,Rhode Island,2022,24,X,0.717905,X,X,X,X,X,X,85,24,11840
+States,Vermont,2022,24,X,0.750469,X,X,X,X,X,X,40,11,5330
+States,Connecticut,2022,25,X,1.48157,X,X,X,X,X,X,643,65,43400
+States,Maine,2022,25,X,0.912885,X,X,X,X,X,X,140,47,15336
+States,Massachusetts,2022,25,X,1.0713,X,X,X,X,X,X,731,75,68235
+States,New Hampshire,2022,25,X,0.0946074,X,X,X,X,X,X,1,9,1057
+States,Rhode Island,2022,25,X,0.666667,X,X,X,X,X,X,82,25,12300
+States,Vermont,2022,25,X,0.494673,X,X,X,X,X,X,26,11,5256
+States,Connecticut,2022,26,X,1.38061,X,X,X,X,X,X,609,65,44111
+States,Maine,2022,26,X,0.758906,X,X,X,X,X,X,121,47,15944
+States,Massachusetts,2022,26,X,1.00039,X,X,X,X,X,X,695,74,69473
+States,New Hampshire,2022,26,X,0.129199,X,X,X,X,X,X,1,9,774
+States,Rhode Island,2022,26,X,0.544465,X,X,X,X,X,X,69,25,12673
+States,Vermont,2022,26,X,0.409696,X,X,X,X,X,X,24,12,5858
+States,Connecticut,2022,27,X,1.20881,X,X,X,X,X,X,537,65,44424
+States,Maine,2022,27,X,0.669311,X,X,X,X,X,X,108,47,16136
+States,Massachusetts,2022,27,X,0.981253,X,X,X,X,X,X,659,74,67159
+States,New Hampshire,2022,27,X,0.559441,X,X,X,X,X,X,4,10,715
+States,Rhode Island,2022,27,X,0.466678,X,X,X,X,X,X,57,23,12214
+States,Vermont,2022,27,X,0.370175,X,X,X,X,X,X,21,12,5673
+States,Connecticut,2022,28,X,1.03949,X,X,X,X,X,X,462,65,44445
+States,Maine,2022,28,X,0.732991,X,X,X,X,X,X,117,46,15962
+States,Massachusetts,2022,28,X,0.75175,X,X,X,X,X,X,523,74,69571
+States,New Hampshire,2022,28,X,0,X,X,X,X,X,X,0,9,745
+States,Rhode Island,2022,28,X,0.414112,X,X,X,X,X,X,52,24,12557
+States,Vermont,2022,28,X,0.266223,X,X,X,X,X,X,16,12,6010
+States,Connecticut,2022,29,X,1.13435,X,X,X,X,X,X,506,65,44607
+States,Maine,2022,29,X,0.545421,X,X,X,X,X,X,90,47,16501
+States,Massachusetts,2022,29,X,0.814192,X,X,X,X,X,X,559,73,68657
+States,New Hampshire,2022,29,X,0.0965251,X,X,X,X,X,X,1,10,1036
+States,Rhode Island,2022,29,X,0.489037,X,X,X,X,X,X,60,25,12269
+States,Vermont,2022,29,X,0.433553,X,X,X,X,X,X,23,11,5305
+States,Connecticut,2022,30,X,1.19154,X,X,X,X,X,X,535,64,44900
+States,Maine,2022,30,X,0.745949,X,X,X,X,X,X,122,47,16355
+States,Massachusetts,2022,30,X,0.81028,X,X,X,X,X,X,565,74,69729
+States,New Hampshire,2022,30,X,0.0949668,X,X,X,X,X,X,1,10,1053
+States,Rhode Island,2022,30,X,0.506784,X,X,X,X,X,X,62,24,12234
+States,Vermont,2022,30,X,0.310138,X,X,X,X,X,X,16,11,5159
+States,Connecticut,2022,31,X,1.29192,X,X,X,X,X,X,574,64,44430
+States,Maine,2022,31,X,0.619708,X,X,X,X,X,X,101,47,16298
+States,Massachusetts,2022,31,X,0.771434,X,X,X,X,X,X,536,74,69481
+States,New Hampshire,2022,31,X,0.263852,X,X,X,X,X,X,2,9,758
+States,Rhode Island,2022,31,X,0.453551,X,X,X,X,X,X,56,24,12347
+States,Vermont,2022,31,X,0.540906,X,X,X,X,X,X,16,8,2958
+States,Connecticut,2022,32,X,1.19152,X,X,X,X,X,X,528,64,44313
+States,Maine,2022,32,X,0.63058,X,X,X,X,X,X,101,46,16017
+States,Massachusetts,2022,32,X,0.800972,X,X,X,X,X,X,554,74,69166
+States,New Hampshire,2022,32,X,0,X,X,X,X,X,X,0,9,649
+States,Rhode Island,2022,32,X,0.401296,X,X,X,X,X,X,52,26,12958
+States,Vermont,2022,32,X,0.27653,X,X,X,X,X,X,8,8,2893
+States,Connecticut,2022,33,X,1.1457,X,X,X,X,X,X,492,64,42943
+States,Maine,2022,33,X,0.733091,X,X,X,X,X,X,115,46,15687
+States,Massachusetts,2022,33,X,0.816388,X,X,X,X,X,X,544,72,66635
+States,New Hampshire,2022,33,X,0,X,X,X,X,X,X,0,10,1023
+States,Rhode Island,2022,33,X,0.341838,X,X,X,X,X,X,41,24,11994
+States,Vermont,2022,33,X,0.497678,X,X,X,X,X,X,15,11,3014
+States,Connecticut,2022,34,X,1.1417,X,X,X,X,X,X,496,64,43444
+States,Maine,2022,34,X,0.678934,X,X,X,X,X,X,107,46,15760
+States,Massachusetts,2022,34,X,0.819348,X,X,X,X,X,X,559,74,68225
+States,New Hampshire,2022,34,X,0.101729,X,X,X,X,X,X,1,9,983
+States,Rhode Island,2022,34,X,0.532634,X,X,X,X,X,X,63,23,11828
+States,Vermont,2022,34,X,0.524679,X,X,X,X,X,X,27,11,5146
+States,Connecticut,2022,35,X,1.07331,X,X,X,X,X,X,465,64,43324
+States,Maine,2022,35,X,0.702668,X,X,X,X,X,X,108,46,15370
+States,Massachusetts,2022,35,X,0.769004,X,X,X,X,X,X,521,75,67750
+States,New Hampshire,2022,35,X,0,X,X,X,X,X,X,0,9,991
+States,Rhode Island,2022,35,X,0.577988,X,X,X,X,X,X,72,23,12457
+States,Vermont,2022,35,X,0.47384,X,X,X,X,X,X,24,11,5065
+States,Connecticut,2022,36,X,1.34696,X,X,X,X,X,X,601,64,44619
+States,Maine,2022,36,X,0.95729,X,X,X,X,X,X,143,45,14938
+States,Massachusetts,2022,36,X,0.914233,X,X,X,X,X,X,611,78,66832
+States,New Hampshire,2022,36,X,0.116144,X,X,X,X,X,X,1,8,861
+States,Rhode Island,2022,36,X,0.396922,X,X,X,X,X,X,49,22,12345
+States,Vermont,2022,36,X,0.503119,X,X,X,X,X,X,25,11,4969
+States,Connecticut,2022,37,X,1.6883,X,X,X,X,X,X,791,64,46852
+States,Maine,2022,37,X,1.06822,X,X,X,X,X,X,171,45,16008
+States,Massachusetts,2022,37,X,1.12976,X,X,X,X,X,X,828,77,73290
+States,New Hampshire,2022,37,X,0.257069,X,X,X,X,X,X,3,8,1167
+States,Rhode Island,2022,37,X,0.861625,X,X,X,X,X,X,117,24,13579
+States,Vermont,2022,37,X,0.684411,X,X,X,X,X,X,36,11,5260
+States,Connecticut,2022,38,X,1.72177,X,X,X,X,X,X,791,64,45941
+States,Maine,2022,38,X,1.24443,X,X,X,X,X,X,187,46,15027
+States,Massachusetts,2022,38,X,1.23265,X,X,X,X,X,X,1016,84,82424
+States,New Hampshire,2022,38,X,0,X,X,X,X,X,X,0,10,1528
+States,Rhode Island,2022,38,X,1.00488,X,X,X,X,X,X,138,24,13733
+States,Vermont,2022,38,X,0.786132,X,X,X,X,X,X,39,11,4961
+States,Connecticut,2022,39,X,1.83094,X,X,X,X,X,X,830,64,45332
+States,Maine,2022,39,X,1.08338,X,X,X,X,X,X,168,46,15507
+States,Massachusetts,2022,39,X,1.39094,X,X,X,X,X,X,1113,84,80018
+States,New Hampshire,2022,39,X,0.420926,X,X,X,X,X,X,7,10,1663
+States,Rhode Island,2022,39,X,1.03688,X,X,X,X,X,X,140,24,13502
+States,Vermont,2022,39,X,0.860861,X,X,X,X,X,X,43,11,4995
+States,Connecticut,2022,40,X,2.05072,X,X,X,X,X,X,925,70,45106
+States,Maine,2022,40,X,1.19048,X,X,X,X,X,X,181,53,15204
+States,Massachusetts,2022,40,X,1.5803,X,X,X,X,X,X,1269,92,80301
+States,New Hampshire,2022,40,X,0.488998,X,X,X,X,X,X,6,9,1227
+States,Rhode Island,2022,40,X,1.05615,X,X,X,X,X,X,142,24,13445
+States,Vermont,2022,40,X,0.876897,X,X,X,X,X,X,52,14,5930
+States,Connecticut,2022,41,X,2.25469,X,X,X,X,X,X,1040,70,46126
+States,Maine,2022,41,X,1.33211,X,X,X,X,X,X,203,53,15239
+States,Massachusetts,2022,41,X,1.72671,X,X,X,X,X,X,1412,94,81774
+States,New Hampshire,2022,41,X,0.398936,X,X,X,X,X,X,6,10,1504
+States,Rhode Island,2022,41,X,0.798493,X,X,X,X,X,X,106,22,13275
+States,Vermont,2022,41,X,0.52279,X,X,X,X,X,X,32,13,6121
+States,Connecticut,2022,42,X,2.54442,X,X,X,X,X,X,1190,70,46769
+States,Maine,2022,42,X,1.51275,X,X,X,X,X,X,239,54,15799
+States,Massachusetts,2022,42,X,1.68775,X,X,X,X,X,X,1402,95,83069
+States,New Hampshire,2022,42,X,0.608273,X,X,X,X,X,X,10,10,1644
+States,Rhode Island,2022,42,X,0.91673,X,X,X,X,X,X,132,24,14399
+States,Vermont,2022,42,X,0.823913,X,X,X,X,X,X,43,13,5219
+States,Connecticut,2022,43,X,3.46733,X,X,X,X,X,X,1657,70,47789
+States,Maine,2022,43,X,1.47667,X,X,X,X,X,X,232,54,15711
+States,Massachusetts,2022,43,X,2.07313,X,X,X,X,X,X,1732,95,83545
+States,New Hampshire,2022,43,X,0.619408,X,X,X,X,X,X,9,10,1453
+States,Rhode Island,2022,43,X,1.24974,X,X,X,X,X,X,181,24,14483
+States,Vermont,2022,43,X,1.08007,X,X,X,X,X,X,58,13,5370
+States,Connecticut,2022,44,X,4.33738,X,X,X,X,X,X,2130,70,49108
+States,Maine,2022,44,X,2.09673,X,X,X,X,X,X,339,53,16168
+States,Massachusetts,2022,44,X,2.64377,X,X,X,X,X,X,2260,95,85484
+States,New Hampshire,2022,44,X,0.770599,X,X,X,X,X,X,13,10,1687
+States,Rhode Island,2022,44,X,1.64374,X,X,X,X,X,X,245,25,14905
+States,Vermont,2022,44,X,1.15859,X,X,X,X,X,X,61,13,5265
+States,Connecticut,2022,45,X,4.34486,X,X,X,X,X,X,2165,70,49829
+States,Maine,2022,45,X,2.54628,X,X,X,X,X,X,414,53,16259
+States,Massachusetts,2022,45,X,2.65212,X,X,X,X,X,X,2256,95,85064
+States,New Hampshire,2022,45,X,0.428135,X,X,X,X,X,X,7,10,1635
+States,Rhode Island,2022,45,X,1.69317,X,X,X,X,X,X,246,25,14529
+States,Vermont,2022,45,X,1.58263,X,X,X,X,X,X,86,13,5434
+States,Connecticut,2022,46,X,4.67524,X,X,X,X,X,X,2168,70,46372
+States,Maine,2022,46,X,2.37026,X,X,X,X,X,X,380,53,16032
+States,Massachusetts,2022,46,X,2.77051,X,X,X,X,X,X,2254,95,81357
+States,New Hampshire,2022,46,X,0.364964,X,X,X,X,X,X,6,10,1644
+States,Rhode Island,2022,46,X,2.03111,X,X,X,X,X,X,282,25,13884
+States,Vermont,2022,46,X,1.29083,X,X,X,X,X,X,66,13,5113
+States,Connecticut,2022,47,X,7.03994,X,X,X,X,X,X,3303,70,46918
+States,Maine,2022,47,X,4.2112,X,X,X,X,X,X,591,51,14034
+States,Massachusetts,2022,47,X,4.58742,X,X,X,X,X,X,3200,95,69756
+States,New Hampshire,2022,47,X,0.899888,X,X,X,X,X,X,8,10,889
+States,Rhode Island,2022,47,X,3.45425,X,X,X,X,X,X,399,24,11551
+States,Vermont,2022,47,X,2.21533,X,X,X,X,X,X,100,12,4514
+States,Connecticut,2022,48,X,8.25718,X,X,X,X,X,X,4364,70,52851
+States,Maine,2022,48,X,5.61174,X,X,X,X,X,X,899,52,16020
+States,Massachusetts,2022,48,X,6.31883,X,X,X,X,X,X,5451,95,86266
+States,New Hampshire,2022,48,X,1.42857,X,X,X,X,X,X,22,9,1540
+States,Rhode Island,2022,48,X,5.44247,X,X,X,X,X,X,770,23,14148
+States,Vermont,2022,48,X,2.62866,X,X,X,X,X,X,142,13,5402
+States,Connecticut,2022,49,X,7.52155,X,X,X,X,X,X,3778,70,50229
+States,Maine,2022,49,X,7.92808,X,X,X,X,X,X,1239,52,15628
+States,Massachusetts,2022,49,X,7.89965,X,X,X,X,X,X,6685,95,84624
+States,New Hampshire,2022,49,X,2.11538,X,X,X,X,X,X,33,10,1560
+States,Rhode Island,2022,49,X,6.88287,X,X,X,X,X,X,1006,25,14616
+States,Vermont,2022,49,X,4.30243,X,X,X,X,X,X,239,14,5555
+States,Connecticut,2022,50,X,6.4247,X,X,X,X,X,X,2972,70,46259
+States,Maine,2022,50,X,9.69729,X,X,X,X,X,X,1480,50,15262
+States,Massachusetts,2022,50,X,8.72322,X,X,X,X,X,X,7292,95,83593
+States,New Hampshire,2022,50,X,2.12766,X,X,X,X,X,X,32,10,1504
+States,Rhode Island,2022,50,X,6.8582,X,X,X,X,X,X,962,25,14027
+States,Vermont,2022,50,X,4.54803,X,X,X,X,X,X,241,14,5299
+States,Connecticut,2022,51,X,5.75337,X,X,X,X,X,X,2498,70,43418
+States,Maine,2022,51,X,8.36395,X,X,X,X,X,X,1252,51,14969
+States,Massachusetts,2022,51,X,8.89624,X,X,X,X,X,X,6988,95,78550
+States,New Hampshire,2022,51,X,2.16777,X,X,X,X,X,X,23,10,1061
+States,Rhode Island,2022,51,X,6.97303,X,X,X,X,X,X,830,24,11903
+States,Vermont,2022,51,X,7.35488,X,X,X,X,X,X,446,15,6064
+States,Connecticut,2022,52,X,5.13445,X,X,X,X,X,X,2276,70,44328
+States,Maine,2022,52,X,7.24122,X,X,X,X,X,X,1099,51,15177
+States,Massachusetts,2022,52,X,7.95073,X,X,X,X,X,X,5893,95,74119
+States,New Hampshire,2022,52,X,1.93798,X,X,X,X,X,X,15,10,774
+States,Rhode Island,2022,52,X,5.15167,X,X,X,X,X,X,591,24,11472
+States,Vermont,2022,52,X,3.47796,X,X,X,X,X,X,202,14,5808
+States,Connecticut,2023,1,X,3.74509,X,X,X,X,X,X,1706,70,45553
+States,Maine,2023,1,X,4.09706,X,X,X,X,X,X,618,52,15084
+States,Massachusetts,2023,1,X,4.71774,X,X,X,X,X,X,3698,95,78385
+States,New Hampshire,2023,1,X,1.71858,X,X,X,X,X,X,16,10,931
+States,Rhode Island,2023,1,X,2.77649,X,X,X,X,X,X,300,22,10805
+States,Vermont,2023,1,X,2.43452,X,X,X,X,X,X,145,15,5956
+States,Connecticut,2023,2,X,2.681,X,X,X,X,X,X,1122,70,41850
+States,Maine,2023,2,X,2.52568,X,X,X,X,X,X,354,50,14016
+States,Massachusetts,2023,2,X,2.75916,X,X,X,X,X,X,2120,94,76835
+States,New Hampshire,2023,2,X,0.870647,X,X,X,X,X,X,7,9,804
+States,Rhode Island,2023,2,X,1.8132,X,X,X,X,X,X,192,23,10589
+States,Vermont,2023,2,X,1.38462,X,X,X,X,X,X,81,15,5850
+States,Connecticut,2023,3,X,2.16632,X,X,X,X,X,X,887,70,40945
+States,Maine,2023,3,X,1.69248,X,X,X,X,X,X,224,52,13235
+States,Massachusetts,2023,3,X,2.12983,X,X,X,X,X,X,1526,95,71649
+States,New Hampshire,2023,3,X,0.998185,X,X,X,X,X,X,11,10,1102
+States,Rhode Island,2023,3,X,1.25356,X,X,X,X,X,X,141,23,11248
+States,Vermont,2023,3,X,0.825611,X,X,X,X,X,X,49,14,5935
+States,Connecticut,2023,4,X,2.07025,X,X,X,X,X,X,847,70,40913
+States,Maine,2023,4,X,1.24941,X,X,X,X,X,X,158,51,12646
+States,Massachusetts,2023,4,X,1.90216,X,X,X,X,X,X,1429,95,75125
+States,New Hampshire,2023,4,X,0.944206,X,X,X,X,X,X,11,10,1165
+States,Rhode Island,2023,4,X,1.24422,X,X,X,X,X,X,148,23,11895
+States,Vermont,2023,4,X,0.796675,X,X,X,X,X,X,46,15,5774
+States,Connecticut,2023,5,X,2.01604,X,X,X,X,X,X,817,70,40525
+States,Maine,2023,5,X,1.0318,X,X,X,X,X,X,134,51,12987
+States,Massachusetts,2023,5,X,1.70274,X,X,X,X,X,X,1246,95,73176
+States,New Hampshire,2023,5,X,0.456323,X,X,X,X,X,X,7,10,1534
+States,Rhode Island,2023,5,X,1.13976,X,X,X,X,X,X,126,23,11055
+States,Vermont,2023,5,X,0.632794,X,X,X,X,X,X,34,15,5373
+States,Connecticut,2023,6,X,1.87773,X,X,X,X,X,X,825,70,43936
+States,Maine,2023,6,X,1.16939,X,X,X,X,X,X,169,51,14452
+States,Massachusetts,2023,6,X,1.72143,X,X,X,X,X,X,1335,95,77552
+States,New Hampshire,2023,6,X,0.86741,X,X,X,X,X,X,14,10,1614
+States,Rhode Island,2023,6,X,1.28528,X,X,X,X,X,X,158,24,12293
+States,Vermont,2023,6,X,0.785615,X,X,X,X,X,X,45,14,5728
+States,Connecticut,2023,7,X,2.01489,X,X,X,X,X,X,882,69,43774
+States,Maine,2023,7,X,1.01725,X,X,X,X,X,X,148,51,14549
+States,Massachusetts,2023,7,X,1.86398,X,X,X,X,X,X,1472,93,78971
+States,New Hampshire,2023,7,X,1.46374,X,X,X,X,X,X,22,10,1503
+States,Rhode Island,2023,7,X,1.29032,X,X,X,X,X,X,154,21,11935
+States,Vermont,2023,7,X,0.699056,X,X,X,X,X,X,40,13,5722
+States,Connecticut,2023,8,X,1.98594,X,X,X,X,X,X,856,70,43103
+States,Maine,2023,8,X,1.28834,X,X,X,X,X,X,176,51,13661
+States,Massachusetts,2023,8,X,1.64238,X,X,X,X,X,X,1162,95,70751
+States,New Hampshire,2023,8,X,1.60502,X,X,X,X,X,X,23,10,1433
+States,Rhode Island,2023,8,X,0.934656,X,X,X,X,X,X,114,23,12197
+States,Vermont,2023,8,X,0.814089,X,X,X,X,X,X,49,15,6019
+States,Connecticut,2023,9,X,1.81277,X,X,X,X,X,X,755,70,41649
+States,Maine,2023,9,X,1.22031,X,X,X,X,X,X,167,51,13685
+States,Massachusetts,2023,9,X,1.44468,X,X,X,X,X,X,1084,94,75034
+States,New Hampshire,2023,9,X,0.915332,X,X,X,X,X,X,12,10,1311
+States,Rhode Island,2023,9,X,0.94703,X,X,X,X,X,X,118,24,12460
+States,Vermont,2023,9,X,0.780966,X,X,X,X,X,X,43,13,5506
+States,Connecticut,2023,10,X,1.77337,X,X,X,X,X,X,749,69,42236
+States,Maine,2023,10,X,1.01442,X,X,X,X,X,X,152,51,14984
+States,Massachusetts,2023,10,X,1.58898,X,X,X,X,X,X,1217,95,76590
+States,New Hampshire,2023,10,X,1.30226,X,X,X,X,X,X,19,10,1459
+States,Rhode Island,2023,10,X,1.0425,X,X,X,X,X,X,130,23,12470
+States,Vermont,2023,10,X,0.562984,X,X,X,X,X,X,32,13,5684
+States,Connecticut,2023,11,X,1.85977,X,X,X,X,X,X,757,70,40704
+States,Maine,2023,11,X,1.22202,X,X,X,X,X,X,125,51,10229
+States,Massachusetts,2023,11,X,1.50897,X,X,X,X,X,X,1125,95,74554
+States,New Hampshire,2023,11,X,0.707339,X,X,X,X,X,X,8,10,1131
+States,Rhode Island,2023,11,X,1.0189,X,X,X,X,X,X,124,24,12170
+States,Vermont,2023,11,X,0.587479,X,X,X,X,X,X,32,14,5447
+States,Connecticut,2023,12,X,1.83548,X,X,X,X,X,X,797,70,43422
+States,Maine,2023,12,X,1.13366,X,X,X,X,X,X,143,39,12614
+States,Massachusetts,2023,12,X,1.64735,X,X,X,X,X,X,1305,95,79218
+States,New Hampshire,2023,12,X,0.582147,X,X,X,X,X,X,9,10,1546
+States,Rhode Island,2023,12,X,1.08439,X,X,X,X,X,X,138,24,12726
+States,Vermont,2023,12,X,0.739437,X,X,X,X,X,X,42,14,5680
+States,Connecticut,2023,13,X,1.78641,X,X,X,X,X,X,778,70,43551
+States,Maine,2023,13,X,1.16532,X,X,X,X,X,X,166,51,14245
+States,Massachusetts,2023,13,X,1.6838,X,X,X,X,X,X,1330,95,78988
+States,New Hampshire,2023,13,X,0.725953,X,X,X,X,X,X,8,9,1102
+States,Rhode Island,2023,13,X,1.10493,X,X,X,X,X,X,143,24,12942
+States,Vermont,2023,13,X,0.654288,X,X,X,X,X,X,37,14,5655
+States,Connecticut,2023,14,X,1.64045,X,X,X,X,X,X,706,70,43037
+States,Maine,2023,14,X,1.06367,X,X,X,X,X,X,145,47,13632
+States,Massachusetts,2023,14,X,1.59207,X,X,X,X,X,X,1251,95,78577
+States,New Hampshire,2023,14,X,1.26783,X,X,X,X,X,X,16,9,1262
+States,Rhode Island,2023,14,X,0.963855,X,X,X,X,X,X,128,23,13280
+States,Vermont,2023,14,X,0.595991,X,X,X,X,X,X,33,14,5537
+States,Connecticut,2023,15,X,1.66394,X,X,X,X,X,X,712,70,42790
+States,Maine,2023,15,X,1.04241,X,X,X,X,X,X,147,46,14102
+States,Massachusetts,2023,15,X,1.563,X,X,X,X,X,X,1275,94,81574
+States,New Hampshire,2023,15,X,0.802139,X,X,X,X,X,X,9,9,1122
+States,Rhode Island,2023,15,X,0.852962,X,X,X,X,X,X,109,23,12779
+States,Vermont,2023,15,X,0.522149,X,X,X,X,X,X,31,14,5937
+States,Connecticut,2023,16,X,1.35805,X,X,X,X,X,X,597,70,43960
+States,Maine,2023,16,X,0.979747,X,X,X,X,X,X,134,47,13677
+States,Massachusetts,2023,16,X,1.31584,X,X,X,X,X,X,973,95,73945
+States,New Hampshire,2023,16,X,0.323625,X,X,X,X,X,X,5,10,1545
+States,Rhode Island,2023,16,X,0.607272,X,X,X,X,X,X,82,23,13503
+States,Vermont,2023,16,X,0.414007,X,X,X,X,X,X,24,13,5797
+States,Connecticut,2023,17,X,1.34196,X,X,X,X,X,X,562,70,41879
+States,Maine,2023,17,X,0.73825,X,X,X,X,X,X,101,47,13681
+States,Massachusetts,2023,17,X,1.23866,X,X,X,X,X,X,960,94,77503
+States,New Hampshire,2023,17,X,0.236035,X,X,X,X,X,X,3,10,1271
+States,Rhode Island,2023,17,X,0.909163,X,X,X,X,X,X,114,23,12539
+States,Vermont,2023,17,X,0.55991,X,X,X,X,X,X,30,13,5358
+States,Connecticut,2023,18,X,1.41107,X,X,X,X,X,X,599,70,42450
+States,Maine,2023,18,X,0.725531,X,X,X,X,X,X,100,47,13783
+States,Massachusetts,2023,18,X,1.2215,X,X,X,X,X,X,954,94,78101
+States,New Hampshire,2023,18,X,0.552486,X,X,X,X,X,X,6,9,1086
+States,Rhode Island,2023,18,X,0.905162,X,X,X,X,X,X,111,24,12263
+States,Vermont,2023,18,X,0.443498,X,X,X,X,X,X,25,13,5637
+States,Connecticut,2023,19,X,1.31349,X,X,X,X,X,X,579,70,44081
+States,Maine,2023,19,X,0.801444,X,X,X,X,X,X,111,47,13850
+States,Massachusetts,2023,19,X,1.34974,X,X,X,X,X,X,1110,95,82238
+States,New Hampshire,2023,19,X,0.426621,X,X,X,X,X,X,5,9,1172
+States,Rhode Island,2023,19,X,0.74796,X,X,X,X,X,X,99,22,13236
+States,Vermont,2023,19,X,0.510025,X,X,X,X,X,X,29,12,5686
+States,Connecticut,2023,20,X,1.30393,X,X,X,X,X,X,564,70,43254
+States,Maine,2023,20,X,0.518026,X,X,X,X,X,X,74,47,14285
+States,Massachusetts,2023,20,X,1.28767,X,X,X,X,X,X,1081,95,83950
+States,New Hampshire,2023,20,X,0.704225,X,X,X,X,X,X,7,8,994
+States,Rhode Island,2023,20,X,0.76428,X,X,X,X,X,X,95,22,12430
+States,Vermont,2023,20,X,0.462304,X,X,X,X,X,X,26,12,5624
+States,Connecticut,2023,21,X,1.16287,X,X,X,X,X,X,507,70,43599
+States,Maine,2023,21,X,0.650232,X,X,X,X,X,X,91,47,13995
+States,Massachusetts,2023,21,X,1.27233,X,X,X,X,X,X,1066,93,83783
+States,New Hampshire,2023,21,X,0.1221,X,X,X,X,X,X,1,9,819
+States,Rhode Island,2023,21,X,0.619599,X,X,X,X,X,X,76,23,12266
+States,Vermont,2023,21,X,0.363951,X,X,X,X,X,X,21,12,5770
+States,Connecticut,2023,22,X,1.27753,X,X,X,X,X,X,551,70,43130
+States,Maine,2023,22,X,0.821898,X,X,X,X,X,X,112,47,13627
+States,Massachusetts,2023,22,X,1.25974,X,X,X,X,X,X,991,94,78667
+States,New Hampshire,2023,22,X,0.170068,X,X,X,X,X,X,1,8,588
+States,Rhode Island,2023,22,X,0.645655,X,X,X,X,X,X,76,23,11771
+States,Vermont,2023,22,X,0.378137,X,X,X,X,X,X,22,11,5818
+States,Connecticut,2023,23,X,0.998251,X,X,X,X,X,X,428,70,42875
+States,Maine,2023,23,X,0.771399,X,X,X,X,X,X,104,46,13482
+States,Massachusetts,2023,23,X,1.15233,X,X,X,X,X,X,940,92,81574
+States,New Hampshire,2023,23,X,0.123001,X,X,X,X,X,X,1,8,813
+States,Rhode Island,2023,23,X,0.831228,X,X,X,X,X,X,102,23,12271
+States,Vermont,2023,23,X,0.294883,X,X,X,X,X,X,17,12,5765
+States,Connecticut,2023,24,X,1.05246,X,X,X,X,X,X,443,70,42092
+States,Maine,2023,24,X,0.704125,X,X,X,X,X,X,99,47,14060
+States,Massachusetts,2023,24,X,1.06524,X,X,X,X,X,X,886,92,83174
+States,New Hampshire,2023,24,X,0.561272,X,X,X,X,X,X,6,9,1069
+States,Rhode Island,2023,24,X,0.803603,X,X,X,X,X,X,91,22,11324
+States,Vermont,2023,24,X,0.37024,X,X,X,X,X,X,21,12,5672
+States,Connecticut,2023,25,X,0.91626,X,X,X,X,X,X,366,70,39945
+States,Maine,2023,25,X,0.717768,X,X,X,X,X,X,106,47,14768
+States,Massachusetts,2023,25,X,1.05105,X,X,X,X,X,X,825,90,78493
+States,New Hampshire,2023,25,X,0.203459,X,X,X,X,X,X,2,9,983
+States,Rhode Island,2023,25,X,0.553427,X,X,X,X,X,X,65,22,11745
+States,Vermont,2023,25,X,0.469974,X,X,X,X,X,X,27,12,5745
+States,Connecticut,2023,26,X,0.888612,X,X,X,X,X,X,357,70,40175
+States,Maine,2023,26,X,0.674931,X,X,X,X,X,X,98,47,14520
+States,Massachusetts,2023,26,X,0.832835,X,X,X,X,X,X,682,90,81889
+States,New Hampshire,2023,26,X,0,X,X,X,X,X,X,0,9,1058
+States,Rhode Island,2023,26,X,0.51257,X,X,X,X,X,X,63,21,12291
+States,Vermont,2023,26,X,0.332336,X,X,X,X,X,X,20,12,6018
+States,Connecticut,2023,27,X,0.795263,X,X,X,X,X,X,321,70,40364
+States,Maine,2023,27,X,0.643942,X,X,X,X,X,X,92,47,14287
+States,Massachusetts,2023,27,X,0.793419,X,X,X,X,X,X,598,91,75370
+States,New Hampshire,2023,27,X,0.281294,X,X,X,X,X,X,2,9,711
+States,Rhode Island,2023,27,X,0.610428,X,X,X,X,X,X,72,22,11795
+States,Vermont,2023,27,X,0.384763,X,X,X,X,X,X,20,11,5198
+States,Connecticut,2023,28,X,0.709152,X,X,X,X,X,X,296,70,41740
+States,Maine,2023,28,X,0.489243,X,X,X,X,X,X,73,47,14921
+States,Massachusetts,2023,28,X,0.779157,X,X,X,X,X,X,631,90,80985
+States,New Hampshire,2023,28,X,0.1443,X,X,X,X,X,X,1,8,693
+States,Rhode Island,2023,28,X,0.437005,X,X,X,X,X,X,53,21,12128
+States,Vermont,2023,28,X,0.398482,X,X,X,X,X,X,21,11,5270
+States,Connecticut,2023,29,X,0.780126,X,X,X,X,X,X,320,70,41019
+States,Maine,2023,29,X,0.538886,X,X,X,X,X,X,81,47,15031
+States,Massachusetts,2023,29,X,0.740125,X,X,X,X,X,X,597,90,80662
+States,New Hampshire,2023,29,X,0.131926,X,X,X,X,X,X,1,8,758
+States,Rhode Island,2023,29,X,0.54511,X,X,X,X,X,X,69,22,12658
+States,Vermont,2023,29,X,0.46225,X,X,X,X,X,X,24,11,5192
+States,Connecticut,2023,30,X,0.80193,X,X,X,X,X,X,329,70,41026
+States,Maine,2023,30,X,0.561097,X,X,X,X,X,X,90,47,16040
+States,Massachusetts,2023,30,X,0.766041,X,X,X,X,X,X,617,90,80544
+States,New Hampshire,2023,30,X,0.106157,X,X,X,X,X,X,1,9,942
+States,Rhode Island,2023,30,X,0.713436,X,X,X,X,X,X,90,22,12615
+States,Vermont,2023,30,X,0.285551,X,X,X,X,X,X,15,11,5253
+States,Connecticut,2023,31,X,0.845592,X,X,X,X,X,X,338,70,39972
+States,Maine,2023,31,X,0.537565,X,X,X,X,X,X,83,47,15440
+States,Massachusetts,2023,31,X,0.75546,X,X,X,X,X,X,606,89,80216
+States,New Hampshire,2023,31,X,0.212089,X,X,X,X,X,X,2,9,943
+States,Rhode Island,2023,31,X,0.372408,X,X,X,X,X,X,44,22,11815
+States,Vermont,2023,31,X,0.315457,X,X,X,X,X,X,16,11,5072
+States,Connecticut,2023,32,X,0.938955,X,X,X,X,X,X,365,70,38873
+States,Maine,2023,32,X,0.65802,X,X,X,X,X,X,104,47,15805
+States,Massachusetts,2023,32,X,0.826837,X,X,X,X,X,X,665,89,80427
+States,New Hampshire,2023,32,X,0.543478,X,X,X,X,X,X,4,8,736
+States,Rhode Island,2023,32,X,0.518707,X,X,X,X,X,X,61,22,11760
+States,Vermont,2023,32,X,0.322764,X,X,X,X,X,X,17,11,5267
+States,Connecticut,2023,33,X,0.957383,X,X,X,X,X,X,370,70,38647
+States,Maine,2023,33,X,0.491291,X,X,X,X,X,X,77,47,15673
+States,Massachusetts,2023,33,X,0.761852,X,X,X,X,X,X,602,88,79018
+States,New Hampshire,2023,33,X,0,X,X,X,X,X,X,0,8,674
+States,Rhode Island,2023,33,X,0.619112,X,X,X,X,X,X,69,21,11145
+States,Vermont,2023,33,X,0.436102,X,X,X,X,X,X,23,11,5274
+States,Connecticut,2023,34,X,0.93236,X,X,X,X,X,X,369,69,39577
+States,Maine,2023,34,X,0.635992,X,X,X,X,X,X,98,47,15409
+States,Massachusetts,2023,34,X,0.868732,X,X,X,X,X,X,680,89,78275
+States,New Hampshire,2023,34,X,0.0997009,X,X,X,X,X,X,1,9,1003
+States,Rhode Island,2023,34,X,0.55268,X,X,X,X,X,X,63,21,11399
+States,Vermont,2023,34,X,0.308345,X,X,X,X,X,X,16,11,5189
+States,Connecticut,2023,35,X,1.02527,X,X,X,X,X,X,411,69,40087
+States,Maine,2023,35,X,0.467638,X,X,X,X,X,X,69,46,14755
+States,Massachusetts,2023,35,X,0.819288,X,X,X,X,X,X,647,89,78971
+States,New Hampshire,2023,35,X,0.314465,X,X,X,X,X,X,4,9,1272
+States,Rhode Island,2023,35,X,0.599129,X,X,X,X,X,X,66,20,11016
+States,Vermont,2023,35,X,0.211376,X,X,X,X,X,X,11,11,5204
+States,Connecticut,2023,36,X,1.27562,X,X,X,X,X,X,534,69,41862
+States,Maine,2023,36,X,0.544041,X,X,X,X,X,X,84,46,15440
+States,Massachusetts,2023,36,X,0.966937,X,X,X,X,X,X,763,91,78909
+States,New Hampshire,2023,36,X,0.529101,X,X,X,X,X,X,6,9,1134
+States,Rhode Island,2023,36,X,0.487337,X,X,X,X,X,X,61,22,12517
+States,Vermont,2023,36,X,0.516224,X,X,X,X,X,X,28,11,5424
+States,Connecticut,2023,37,X,1.37493,X,X,X,X,X,X,591,69,42984
+States,Maine,2023,37,X,0.684664,X,X,X,X,X,X,105,47,15336
+States,Massachusetts,2023,37,X,1.03588,X,X,X,X,X,X,849,92,81959
+States,New Hampshire,2023,37,X,0.365965,X,X,X,X,X,X,4,8,1093
+States,Rhode Island,2023,37,X,0.560423,X,X,X,X,X,X,71,21,12669
+States,Vermont,2023,37,X,0.173377,X,X,X,X,X,X,9,11,5191
+States,Connecticut,2023,38,X,1.71513,X,X,X,X,X,X,735,69,42854
+States,Maine,2023,38,X,0.77748,X,X,X,X,X,X,116,46,14920
+States,Massachusetts,2023,38,X,1.20382,X,X,X,X,X,X,990,92,82238
+States,New Hampshire,2023,38,X,0.773994,X,X,X,X,X,X,10,9,1292
+States,Rhode Island,2023,38,X,1.16288,X,X,X,X,X,X,156,21,13415
+States,Vermont,2023,38,X,0.538358,X,X,X,X,X,X,28,11,5201
+States,Connecticut,2023,39,X,1.69364,X,X,X,X,X,X,698,69,41213
+States,Maine,2023,39,X,0.894947,X,X,X,X,X,X,130,45,14526
+States,Massachusetts,2023,39,X,1.2868,X,X,X,X,X,X,1029,91,79966
+States,New Hampshire,2023,39,X,0.550585,X,X,X,X,X,X,8,9,1453
+States,Rhode Island,2023,39,X,1.03185,X,X,X,X,X,X,138,21,13374
+States,Vermont,2023,39,X,0.663027,X,X,X,X,X,X,34,11,5128
+States,Connecticut,2023,40,X,1.7989,X,X,X,X,X,X,787,69,43749
+States,Maine,2023,40,X,0.752304,X,X,X,X,X,X,120,53,15951
+States,Massachusetts,2023,40,X,1.34589,X,X,X,X,X,X,1208,105,89755
+States,New Hampshire,2023,40,X,0.332188,X,X,X,X,X,X,29,21,8730
+States,Rhode Island,2023,40,X,1.05621,X,X,X,X,X,X,149,24,14107
+States,Vermont,2023,40,X,0.597882,X,X,X,X,X,X,35,11,5854
+States,Connecticut,2023,41,X,1.6177,X,X,X,X,X,X,685,69,42344
+States,Maine,2023,41,X,0.991231,X,X,X,X,X,X,156,53,15738
+States,Massachusetts,2023,41,X,1.29241,X,X,X,X,X,X,1124,104,86969
+States,New Hampshire,2023,41,X,0.348028,X,X,X,X,X,X,30,22,8620
+States,Rhode Island,2023,41,X,1.00802,X,X,X,X,X,X,132,23,13095
+States,Vermont,2023,41,X,0.633009,X,X,X,X,X,X,41,15,6477
+States,Connecticut,2023,42,X,1.69583,X,X,X,X,X,X,719,69,42398
+States,Maine,2023,42,X,0.726548,X,X,X,X,X,X,113,52,15553
+States,Massachusetts,2023,42,X,1.47521,X,X,X,X,X,X,1292,105,87581
+States,New Hampshire,2023,42,X,0.432496,X,X,X,X,X,X,37,21,8555
+States,Rhode Island,2023,42,X,1.02588,X,X,X,X,X,X,132,22,12867
+States,Vermont,2023,42,X,0.858034,X,X,X,X,X,X,55,16,6410
+States,Connecticut,2023,43,X,1.88214,X,X,X,X,X,X,809,69,42983
+States,Maine,2023,43,X,0.906063,X,X,X,X,X,X,136,53,15010
+States,Massachusetts,2023,43,X,1.42261,X,X,X,X,X,X,1275,103,89624
+States,New Hampshire,2023,43,X,0.446275,X,X,X,X,X,X,39,23,8739
+States,Rhode Island,2023,43,X,1.12159,X,X,X,X,X,X,157,24,13998
+States,Vermont,2023,43,X,0.748013,X,X,X,X,X,X,48,16,6417
+States,Connecticut,2023,44,X,2.06798,X,X,X,X,X,X,870,69,42070
+States,Maine,2023,44,X,0.845128,X,X,X,X,X,X,123,52,14554
+States,Massachusetts,2023,44,X,1.72117,X,X,X,X,X,X,1489,104,86511
+States,New Hampshire,2023,44,X,0.514426,X,X,X,X,X,X,46,23,8942
+States,Rhode Island,2023,44,X,1.18422,X,X,X,X,X,X,169,24,14271
+States,Vermont,2023,44,X,0.762979,X,X,X,X,X,X,46,16,6029
+States,Connecticut,2023,45,X,2.37309,X,X,X,X,X,X,1027,69,43277
+States,Maine,2023,45,X,0.912779,X,X,X,X,X,X,135,52,14790
+States,Massachusetts,2023,45,X,1.85425,X,X,X,X,X,X,1615,104,87097
+States,New Hampshire,2023,45,X,0.563024,X,X,X,X,X,X,49,23,8703
+States,Rhode Island,2023,45,X,1.342,X,X,X,X,X,X,192,25,14307
+States,Vermont,2023,45,X,1.04199,X,X,X,X,X,X,67,16,6430
+States,Connecticut,2023,46,X,2.66253,X,X,X,X,X,X,1184,69,44469
+States,Maine,2023,46,X,1.19936,X,X,X,X,X,X,180,52,15008
+States,Massachusetts,2023,46,X,2.05182,X,X,X,X,X,X,1793,100,87386
+States,New Hampshire,2023,46,X,0.730404,X,X,X,X,X,X,67,23,9173
+States,Rhode Island,2023,46,X,1.19949,X,X,X,X,X,X,171,25,14256
+States,Vermont,2023,46,X,0.938815,X,X,X,X,X,X,58,15,6178
+States,Connecticut,2023,47,X,2.95687,X,X,X,X,X,X,1236,69,41801
+States,Maine,2023,47,X,1.58815,X,X,X,X,X,X,208,51,13097
+States,Massachusetts,2023,47,X,2.51809,X,X,X,X,X,X,1928,104,76566
+States,New Hampshire,2023,47,X,0.762786,X,X,X,X,X,X,61,23,7997
+States,Rhode Island,2023,47,X,1.1917,X,X,X,X,X,X,139,23,11664
+States,Vermont,2023,47,X,1.07488,X,X,X,X,X,X,59,15,5489
+States,Connecticut,2023,48,X,3.17254,X,X,X,X,X,X,1466,69,46209
+States,Maine,2023,48,X,1.64249,X,X,X,X,X,X,248,51,15099
+States,Massachusetts,2023,48,X,2.7232,X,X,X,X,X,X,2481,104,91106
+States,New Hampshire,2023,48,X,1.12715,X,X,X,X,X,X,107,22,9493
+States,Rhode Island,2023,48,X,1.63403,X,X,X,X,X,X,232,24,14198
+States,Vermont,2023,48,X,1.17691,X,X,X,X,X,X,63,13,5353
+States,Connecticut,2023,49,X,2.86087,X,X,X,X,X,X,1294,69,45231
+States,Maine,2023,49,X,1.53153,X,X,X,X,X,X,221,51,14430
+States,Massachusetts,2023,49,X,3.0661,X,X,X,X,X,X,2759,103,89984
+States,New Hampshire,2023,49,X,1.84711,X,X,X,X,X,X,173,23,9366
+States,Rhode Island,2023,49,X,1.83919,X,X,X,X,X,X,261,24,14191
+States,Vermont,2023,49,X,1.33854,X,X,X,X,X,X,72,13,5379
+States,Connecticut,2023,50,X,3.36118,X,X,X,X,X,X,1513,69,45014
+States,Maine,2023,50,X,1.96117,X,X,X,X,X,X,299,51,15246
+States,Massachusetts,2023,50,X,3.90909,X,X,X,X,X,X,3543,104,90635
+States,New Hampshire,2023,50,X,2.48421,X,X,X,X,X,X,232,22,9339
+States,Rhode Island,2023,50,X,2.52059,X,X,X,X,X,X,358,23,14203
+States,Vermont,2023,50,X,1.12691,X,X,X,X,X,X,65,15,5768
+States,Connecticut,2023,51,X,3.83017,X,X,X,X,X,X,1733,69,45246
+States,Maine,2023,51,X,2.94445,X,X,X,X,X,X,423,51,14366
+States,Massachusetts,2023,51,X,5.03662,X,X,X,X,X,X,4394,104,87241
+States,New Hampshire,2023,51,X,3.63771,X,X,X,X,X,X,343,22,9429
+States,Rhode Island,2023,51,X,3.24503,X,X,X,X,X,X,403,23,12419
+States,Vermont,2023,51,X,1.35135,X,X,X,X,X,X,82,15,6068
+States,Connecticut,2023,52,X,4.99659,X,X,X,X,X,X,2268,69,45391
+States,Maine,2023,52,X,3.43784,X,X,X,X,X,X,500,51,14544
+States,Massachusetts,2023,52,X,6.44775,X,X,X,X,X,X,5282,104,81920
+States,New Hampshire,2023,52,X,4.14201,X,X,X,X,X,X,378,23,9126
+States,Rhode Island,2023,52,X,3.56128,X,X,X,X,X,X,426,24,11962
+States,Vermont,2023,52,X,1.97078,X,X,X,X,X,X,116,14,5886
+States,Connecticut,2024,1,X,3.96393,X,X,X,X,X,X,1776,69,44804
+States,Maine,2024,1,X,2.97081,X,X,X,X,X,X,460,50,15484
+States,Massachusetts,2024,1,X,5.18626,X,X,X,X,X,X,4462,105,86035
+States,New Hampshire,2024,1,X,2.99853,X,X,X,X,X,X,286,23,9538
+States,Rhode Island,2024,1,X,3.09299,X,X,X,X,X,X,314,20,10152
+States,Vermont,2024,1,X,1.56201,X,X,X,X,X,X,99,15,6338
+States,Connecticut,2024,2,X,3.3643,X,X,X,X,X,X,1405,69,41762
+States,Maine,2024,2,X,2.62324,X,X,X,X,X,X,381,51,14524
+States,Massachusetts,2024,2,X,4.46419,X,X,X,X,X,X,3848,105,86197
+States,New Hampshire,2024,2,X,3.08022,X,X,X,X,X,X,273,23,8863
+States,Rhode Island,2024,2,X,2.59306,X,X,X,X,X,X,287,23,11068
+States,Vermont,2024,2,X,1.63062,X,X,X,X,X,X,98,15,6010
+States,Connecticut,2024,3,X,3.22261,X,X,X,X,X,X,1270,69,39409
+States,Maine,2024,3,X,2.83747,X,X,X,X,X,X,412,52,14520
+States,Massachusetts,2024,3,X,3.8875,X,X,X,X,X,X,3132,105,80566
+States,New Hampshire,2024,3,X,2.96395,X,X,X,X,X,X,245,23,8266
+States,Rhode Island,2024,3,X,2.37274,X,X,X,X,X,X,275,24,11590
+States,Vermont,2024,3,X,1.30976,X,X,X,X,X,X,80,14,6108
+States,Connecticut,2024,4,X,3.07689,X,X,X,X,X,X,1281,69,41633
+States,Maine,2024,4,X,2.50549,X,X,X,X,X,X,365,52,14568
+States,Massachusetts,2024,4,X,3.74614,X,X,X,X,X,X,1749,104,46688
+States,New Hampshire,2024,4,X,2.5416,X,X,X,X,X,X,223,23,8774
+States,Rhode Island,2024,4,X,2.61427,X,X,X,X,X,X,322,22,12317
+States,Vermont,2024,4,X,1.16005,X,X,X,X,X,X,64,14,5517
+States,Connecticut,2024,5,X,3.04252,X,X,X,X,X,X,1290,69,42399
+States,Maine,2024,5,X,2.75175,X,X,X,X,X,X,420,52,15263
+States,Massachusetts,2024,5,X,4.22667,X,X,X,X,X,X,3625,105,85765
+States,New Hampshire,2024,5,X,2.86404,X,X,X,X,X,X,261,23,9113
+States,Rhode Island,2024,5,X,3.33005,X,X,X,X,X,X,406,21,12192
+States,Vermont,2024,5,X,2.14672,X,X,X,X,X,X,139,15,6475
+States,Connecticut,2024,6,X,3.06891,X,X,X,X,X,X,1332,69,43403
+States,Maine,2024,6,X,3.1892,X,X,X,X,X,X,475,52,14894
+States,Massachusetts,2024,6,X,4.55044,X,X,X,X,X,X,3984,103,87552
+States,New Hampshire,2024,6,X,2.79586,X,X,X,X,X,X,262,23,9371
+States,Rhode Island,2024,6,X,3.72587,X,X,X,X,X,X,467,20,12534
+States,Vermont,2024,6,X,1.45849,X,X,X,X,X,X,94,14,6445
+States,Connecticut,2024,7,X,3.01175,X,X,X,X,X,X,1264,69,41969
+States,Maine,2024,7,X,3.25097,X,X,X,X,X,X,496,52,15257
+States,Massachusetts,2024,7,X,4.49449,X,X,X,X,X,X,3375,104,75092
+States,New Hampshire,2024,7,X,2.76719,X,X,X,X,X,X,254,23,9179
+States,Rhode Island,2024,7,X,3.36511,X,X,X,X,X,X,413,21,12273
+States,Vermont,2024,7,X,1.09115,X,X,X,X,X,X,65,14,5957
+States,Connecticut,2024,8,X,2.94594,X,X,X,X,X,X,1273,69,43212
+States,Maine,2024,8,X,3.38994,X,X,X,X,X,X,509,52,15015
+States,Massachusetts,2024,8,X,4.62668,X,X,X,X,X,X,3770,105,81484
+States,New Hampshire,2024,8,X,2.64693,X,X,X,X,X,X,245,22,9256
+States,Rhode Island,2024,8,X,3.39049,X,X,X,X,X,X,439,22,12948
+States,Vermont,2024,8,X,1.05093,X,X,X,X,X,X,65,14,6185
+States,Connecticut,2024,9,X,2.89708,X,X,X,X,X,X,1252,69,43216
+States,Maine,2024,9,X,2.67464,X,X,X,X,X,X,407,52,15217
+States,Massachusetts,2024,9,X,4.22522,X,X,X,X,X,X,3680,105,87096
+States,New Hampshire,2024,9,X,3.0359,X,X,X,X,X,X,263,23,8663
+States,Rhode Island,2024,9,X,3.06805,X,X,X,X,X,X,431,22,14048
+States,Vermont,2024,9,X,1.61998,X,X,X,X,X,X,96,14,5926
+States,Connecticut,2024,10,X,2.97934,X,X,X,X,X,X,1265,69,42459
+States,Maine,2024,10,X,2.39486,X,X,X,X,X,X,369,52,15408
+States,Massachusetts,2024,10,X,3.84944,X,X,X,X,X,X,3291,105,85493
+States,New Hampshire,2024,10,X,2.31579,X,X,X,X,X,X,198,22,8550
+States,Rhode Island,2024,10,X,4.01185,X,X,X,X,X,X,555,22,13834
+States,Vermont,2024,10,X,1.29976,X,X,X,X,X,X,80,14,6155
+States,Connecticut,2024,11,X,2.47014,X,X,X,X,X,X,1034,69,41860
+States,Maine,2024,11,X,2.02073,X,X,X,X,X,X,308,51,15242
+States,Massachusetts,2024,11,X,3.35394,X,X,X,X,X,X,2897,105,86376
+States,New Hampshire,2024,11,X,1.7017,X,X,X,X,X,X,153,23,8991
+States,Rhode Island,2024,11,X,2.08365,X,X,X,X,X,X,277,22,13294
+States,Vermont,2024,11,X,0.846453,X,X,X,X,X,X,50,14,5907
+States,Connecticut,2024,12,X,2.14738,X,X,X,X,X,X,906,69,42191
+States,Maine,2024,12,X,1.89232,X,X,X,X,X,X,278,51,14691
+States,Massachusetts,2024,12,X,3.26665,X,X,X,X,X,X,2812,105,86082
+States,New Hampshire,2024,12,X,1.60362,X,X,X,X,X,X,131,22,8169
+States,Rhode Island,2024,12,X,1.97013,X,X,X,X,X,X,277,22,14060
+States,Vermont,2024,12,X,0.79094,X,X,X,X,X,X,44,13,5563
+States,Connecticut,2024,13,X,2.46686,X,X,X,X,X,X,1042,69,42240
+States,Maine,2024,13,X,1.98369,X,X,X,X,X,X,287,47,14468
+States,Massachusetts,2024,13,X,3.29987,X,X,X,X,X,X,2843,105,86155
+States,New Hampshire,2024,13,X,1.65545,X,X,X,X,X,X,150,23,9061
+States,Rhode Island,2024,13,X,2.19821,X,X,X,X,X,X,299,22,13602
+States,Vermont,2024,13,X,0.769625,X,X,X,X,X,X,45,13,5847
+States,Connecticut,2024,14,X,2.28925,X,X,X,X,X,X,973,69,42503
+States,Maine,2024,14,X,2.01616,X,X,X,X,X,X,272,47,13491
+States,Massachusetts,2024,14,X,3.17707,X,X,X,X,X,X,2719,105,85582
+States,New Hampshire,2024,14,X,1.68518,X,X,X,X,X,X,132,22,7833
+States,Rhode Island,2024,14,X,1.98265,X,X,X,X,X,X,272,21,13719
+States,Vermont,2024,14,X,0.822785,X,X,X,X,X,X,39,13,4740
+States,Connecticut,2024,15,X,2.18151,X,X,X,X,X,X,912,69,41806
+States,Maine,2024,15,X,1.66712,X,X,X,X,X,X,247,47,14816
+States,Massachusetts,2024,15,X,2.86417,X,X,X,X,X,X,2514,104,87774
+States,New Hampshire,2024,15,X,1.69284,X,X,X,X,X,X,152,23,8979
+States,Rhode Island,2024,15,X,1.70723,X,X,X,X,X,X,235,21,13765
+States,Vermont,2024,15,X,0.760658,X,X,X,X,X,X,43,13,5653
+States,Connecticut,2024,16,X,1.86577,X,X,X,X,X,X,782,69,41913
+States,Maine,2024,16,X,1.4945,X,X,X,X,X,X,216,46,14453
+States,Massachusetts,2024,16,X,2.1926,X,X,X,X,X,X,1791,103,81684
+States,New Hampshire,2024,16,X,1.38233,X,X,X,X,X,X,123,23,8898
+States,Rhode Island,2024,16,X,1.77339,X,X,X,X,X,X,221,20,12462
+States,Vermont,2024,16,X,0.976631,X,X,X,X,X,X,56,13,5734
+States,Connecticut,2024,17,X,1.78571,X,X,X,X,X,X,743,69,41608
+States,Maine,2024,17,X,1.18467,X,X,X,X,X,X,175,47,14772
+States,Massachusetts,2024,17,X,1.73889,X,X,X,X,X,X,1486,103,85457
+States,New Hampshire,2024,17,X,1.37716,X,X,X,X,X,X,106,22,7697
+States,Rhode Island,2024,17,X,1.14304,X,X,X,X,X,X,144,20,12598
+States,Vermont,2024,17,X,0.603622,X,X,X,X,X,X,33,12,5467
+States,Connecticut,2024,18,X,1.50986,X,X,X,X,X,X,627,69,41527
+States,Maine,2024,18,X,1.20065,X,X,X,X,X,X,177,47,14742
+States,Massachusetts,2024,18,X,1.75418,X,X,X,X,X,X,1498,102,85396
+States,New Hampshire,2024,18,X,1.05071,X,X,X,X,X,X,92,23,8756
+States,Rhode Island,2024,18,X,1.15037,X,X,X,X,X,X,154,21,13387
+States,Vermont,2024,18,X,0.54326,X,X,X,X,X,X,27,13,4970
+States,Connecticut,2024,19,X,1.44802,X,X,X,X,X,X,600,69,41436
+States,Maine,2024,19,X,1.17007,X,X,X,X,X,X,170,46,14529
+States,Massachusetts,2024,19,X,1.49506,X,X,X,X,X,X,1291,104,86351
+States,New Hampshire,2024,19,X,1.14395,X,X,X,X,X,X,96,22,8392
+States,Rhode Island,2024,19,X,1.06732,X,X,X,X,X,X,143,21,13398
+States,Vermont,2024,19,X,0.388624,X,X,X,X,X,X,22,12,5661
+States,Connecticut,2024,20,X,1.46545,X,X,X,X,X,X,600,69,40943
+States,Maine,2024,20,X,1.19864,X,X,X,X,X,X,187,47,15601
+States,Massachusetts,2024,20,X,1.36295,X,X,X,X,X,X,1183,104,86797
+States,New Hampshire,2024,20,X,0.764179,X,X,X,X,X,X,64,22,8375
+States,Rhode Island,2024,20,X,1.13944,X,X,X,X,X,X,139,20,12199
+States,Vermont,2024,20,X,0.511735,X,X,X,X,X,X,29,12,5667
+States,Connecticut,2024,21,X,1.30123,X,X,X,X,X,X,554,69,42575
+States,Maine,2024,21,X,0.890825,X,X,X,X,X,X,137,47,15379
+States,Massachusetts,2024,21,X,1.28629,X,X,X,X,X,X,1125,101,87461
+States,New Hampshire,2024,21,X,0.625738,X,X,X,X,X,X,53,22,8470
+States,Rhode Island,2024,21,X,0.959346,X,X,X,X,X,X,122,20,12717
+States,Vermont,2024,21,X,0.429114,X,X,X,X,X,X,26,12,6059
+States,Connecticut,2024,22,X,1.16842,X,X,X,X,X,X,497,69,42536
+States,Maine,2024,22,X,0.703762,X,X,X,X,X,X,107,47,15204
+States,Massachusetts,2024,22,X,1.15929,X,X,X,X,X,X,963,101,83068
+States,New Hampshire,2024,22,X,0.775671,X,X,X,X,X,X,63,22,8122
+States,Rhode Island,2024,22,X,0.849555,X,X,X,X,X,X,103,20,12124
+States,Vermont,2024,22,X,0.399135,X,X,X,X,X,X,24,12,6013
+States,Connecticut,2024,23,X,1.15064,X,X,X,X,X,X,489,69,42498
+States,Maine,2024,23,X,0.708224,X,X,X,X,X,X,111,46,15673
+States,Massachusetts,2024,23,X,1.02936,X,X,X,X,X,X,881,100,85587
+States,New Hampshire,2024,23,X,0.743087,X,X,X,X,X,X,61,22,8209
+States,Rhode Island,2024,23,X,0.627183,X,X,X,X,X,X,79,21,12596
+States,Vermont,2024,23,X,0.254151,X,X,X,X,X,X,15,12,5902
+States,Connecticut,2024,24,X,1.10886,X,X,X,X,X,X,454,69,40943
+States,Maine,2024,24,X,0.665504,X,X,X,X,X,X,103,46,15477
+States,Massachusetts,2024,24,X,1.03882,X,X,X,X,X,X,886,98,85289
+States,New Hampshire,2024,24,X,0.607488,X,X,X,X,X,X,49,21,8066
+States,Rhode Island,2024,24,X,0.601863,X,X,X,X,X,X,73,21,12129
+States,Vermont,2024,24,X,0.379441,X,X,X,X,X,X,22,12,5798
+States,Connecticut,2024,25,X,1.09593,X,X,X,X,X,X,446,69,40696
+States,Maine,2024,25,X,0.75358,X,X,X,X,X,X,120,47,15924
+States,Massachusetts,2024,25,X,0.931646,X,X,X,X,X,X,757,100,81254
+States,New Hampshire,2024,25,X,0.362272,X,X,X,X,X,X,28,20,7729
+States,Rhode Island,2024,25,X,0.506192,X,X,X,X,X,X,56,19,11063
+States,Vermont,2024,25,X,0.277949,X,X,X,X,X,X,18,12,6476
+States,Connecticut,2024,26,X,0.903006,X,X,X,X,X,X,371,69,41085
+States,Maine,2024,26,X,0.555417,X,X,X,X,X,X,89,47,16024
+States,Massachusetts,2024,26,X,0.938934,X,X,X,X,X,X,808,101,86055
+States,New Hampshire,2024,26,X,0.631704,X,X,X,X,X,X,53,21,8390
+States,Rhode Island,2024,26,X,0.572552,X,X,X,X,X,X,67,19,11702
+States,Vermont,2024,26,X,0.322887,X,X,X,X,X,X,17,12,5265
+States,Connecticut,2024,27,X,0.930091,X,X,X,X,X,X,368,69,39566
+States,Maine,2024,27,X,0.673743,X,X,X,X,X,X,106,47,15733
+States,Massachusetts,2024,27,X,0.936679,X,X,X,X,X,X,738,99,78789
+States,New Hampshire,2024,27,X,0.466289,X,X,X,X,X,X,37,21,7935
+States,Rhode Island,2024,27,X,0.662442,X,X,X,X,X,X,69,18,10416
+States,Vermont,2024,27,X,0.547383,X,X,X,X,X,X,32,12,5846
+States,Connecticut,2024,28,X,0.936856,X,X,X,X,X,X,400,69,42696
+States,Maine,2024,28,X,0.634123,X,X,X,X,X,X,106,47,16716
+States,Massachusetts,2024,28,X,0.877583,X,X,X,X,X,X,770,96,87741
+States,New Hampshire,2024,28,X,0.553332,X,X,X,X,X,X,47,21,8494
+States,Rhode Island,2024,28,X,0.612827,X,X,X,X,X,X,73,18,11912
+States,Vermont,2024,28,X,0.408965,X,X,X,X,X,X,25,12,6113
+States,Connecticut,2024,29,X,1.03549,X,X,X,X,X,X,433,69,41816
+States,Maine,2024,29,X,0.687511,X,X,X,X,X,X,115,47,16727
+States,Massachusetts,2024,29,X,0.88084,X,X,X,X,X,X,767,98,87076
+States,New Hampshire,2024,29,X,0.560993,X,X,X,X,X,X,47,21,8378
+States,Rhode Island,2024,29,X,0.625581,X,X,X,X,X,X,74,18,11829
+States,Vermont,2024,29,X,0.217173,X,X,X,X,X,X,13,12,5986
+States,Connecticut,2024,30,X,1.12515,X,X,X,X,X,X,463,69,41150
+States,Maine,2024,30,X,0.681453,X,X,X,X,X,X,106,45,15555
+States,Massachusetts,2024,30,X,0.877142,X,X,X,X,X,X,759,98,86531
+States,New Hampshire,2024,30,X,0.506861,X,X,X,X,X,X,41,21,8089
+States,Rhode Island,2024,30,X,0.675958,X,X,X,X,X,X,81,19,11983
+States,Vermont,2024,30,X,0.319973,X,X,X,X,X,X,19,12,5938
+States,Connecticut,2024,31,X,1.11848,X,X,X,X,X,X,464,69,41485
+States,Maine,2024,31,X,0.741611,X,X,X,X,X,X,120,46,16181
+States,Massachusetts,2024,31,X,0.933889,X,X,X,X,X,X,796,97,85235
+States,New Hampshire,2024,31,X,0.689978,X,X,X,X,X,X,59,22,8551
+States,Rhode Island,2024,31,X,0.562545,X,X,X,X,X,X,55,19,9777
+States,Vermont,2024,31,X,0.244658,X,X,X,X,X,X,15,12,6131
+States,Connecticut,2024,32,X,1.14686,X,X,X,X,X,X,473,69,41243
+States,Maine,2024,32,X,0.719023,X,X,X,X,X,X,116,46,16133
+States,Massachusetts,2024,32,X,0.919635,X,X,X,X,X,X,777,97,84490
+States,New Hampshire,2024,32,X,0.635386,X,X,X,X,X,X,52,21,8184
+States,Rhode Island,2024,32,X,0.581805,X,X,X,X,X,X,66,18,11344
+States,Vermont,2024,32,X,0.33428,X,X,X,X,X,X,20,12,5983
+States,Connecticut,2024,33,X,1.19578,X,X,X,X,X,X,494,69,41312
+States,Maine,2024,33,X,0.789065,X,X,X,X,X,X,127,46,16095
+States,Massachusetts,2024,33,X,0.933514,X,X,X,X,X,X,786,99,84198
+States,New Hampshire,2024,33,X,0.546856,X,X,X,X,X,X,44,21,8046
+States,Rhode Island,2024,33,X,0.765591,X,X,X,X,X,X,89,19,11625
+States,Vermont,2024,33,X,0.36208,X,X,X,X,X,X,22,12,6076
+States,Connecticut,2024,34,X,1.23626,X,X,X,X,X,X,505,69,40849
+States,Maine,2024,34,X,0.896012,X,X,X,X,X,X,142,47,15848
+States,Massachusetts,2024,34,X,1.01879,X,X,X,X,X,X,842,98,82647
+States,New Hampshire,2024,34,X,0.744602,X,X,X,X,X,X,60,21,8058
+States,Rhode Island,2024,34,X,0.595447,X,X,X,X,X,X,68,19,11420
+States,Vermont,2024,34,X,0.282158,X,X,X,X,X,X,17,12,6025
+States,Connecticut,2024,35,X,1.31161,X,X,X,X,X,X,558,69,42543
+States,Maine,2024,35,X,0.786344,X,X,X,X,X,X,123,46,15642
+States,Massachusetts,2024,35,X,1.0206,X,X,X,X,X,X,885,107,86714
+States,New Hampshire,2024,35,X,0.596944,X,X,X,X,X,X,50,22,8376
+States,Rhode Island,2024,35,X,0.737726,X,X,X,X,X,X,87,19,11793
+States,Vermont,2024,35,X,0.341297,X,X,X,X,X,X,21,12,6153
+States,Connecticut,2024,36,X,1.38132,X,X,X,X,X,X,588,69,42568
+States,Maine,2024,36,X,0.855329,X,X,X,X,X,X,128,46,14965
+States,Massachusetts,2024,36,X,1.13464,X,X,X,X,X,X,949,110,83639
+States,New Hampshire,2024,36,X,0.958313,X,X,X,X,X,X,80,22,8348
+States,Rhode Island,2024,36,X,0.755396,X,X,X,X,X,X,84,17,11120
+States,Vermont,2024,36,X,0.433406,X,X,X,X,X,X,26,12,5999
+States,Connecticut,2024,37,X,1.63713,X,X,X,X,X,X,726,69,44346
+States,Maine,2024,37,X,1.10086,X,X,X,X,X,X,167,45,15170
+States,Massachusetts,2024,37,X,1.30964,X,X,X,X,X,X,1172,109,89490
+States,New Hampshire,2024,37,X,0.74519,X,X,X,X,X,X,67,23,8991
+States,Rhode Island,2024,37,X,0.867077,X,X,X,X,X,X,100,16,11533
+States,Vermont,2024,37,X,0.445692,X,X,X,X,X,X,27,12,6058
+States,Connecticut,2024,38,X,2.00544,X,X,X,X,X,X,900,69,44878
+States,Maine,2024,38,X,1.14028,X,X,X,X,X,X,182,46,15961
+States,Massachusetts,2024,38,X,1.44152,X,X,X,X,X,X,1310,110,90876
+States,New Hampshire,2024,38,X,0.918379,X,X,X,X,X,X,80,22,8711
+States,Rhode Island,2024,38,X,1.28407,X,X,X,X,X,X,163,18,12694
+States,Vermont,2024,38,X,0.568269,X,X,X,X,X,X,37,12,6511
+States,Connecticut,2024,39,X,1.70219,X,X,X,X,X,X,742,69,43591
+States,Maine,2024,39,X,1.06631,X,X,X,X,X,X,160,46,15005
+States,Massachusetts,2024,39,X,1.39413,X,X,X,X,X,X,1242,111,89088
+States,New Hampshire,2024,39,X,0.868571,X,X,X,X,X,X,76,22,8750
+States,Rhode Island,2024,39,X,1.37618,X,X,X,X,X,X,167,18,12135
+States,Vermont,2024,39,X,0.575264,X,X,X,X,X,X,36,12,6258
+States,Connecticut,2024,40,X,1.88059,X,X,X,X,X,X,818,69,43497
+States,Maine,2024,40,X,1.02055,X,X,X,X,X,X,151,46,14796
+States,Massachusetts,2024,40,X,1.52107,X,X,X,X,X,X,1362,111,89542
+States,New Hampshire,2024,40,X,0.90008,X,X,X,X,X,X,79,22,8777
+States,Rhode Island,2024,40,X,1.16763,X,X,X,X,X,X,146,21,12504
+States,Vermont,2024,40,X,0.721569,X,X,X,X,X,X,46,13,6375
+States,Connecticut,2024,41,X,1.90427,X,X,X,X,X,X,812,69,42641
+States,Maine,2024,41,X,1.22961,X,X,X,X,X,X,193,47,15696
+States,Massachusetts,2024,41,X,1.54731,X,X,X,X,X,X,1374,111,88799
+States,New Hampshire,2024,41,X,1.10652,X,X,X,X,X,X,91,22,8224
+States,Rhode Island,2024,41,X,1.39933,X,X,X,X,X,X,175,22,12506
+States,Vermont,2024,41,X,0.569383,X,X,X,X,X,X,35,14,6147
+States,Connecticut,2024,42,X,2.26611,X,X,X,X,X,X,942,69,41569
+States,Maine,2024,42,X,1.42652,X,X,X,X,X,X,219,47,15352
+States,Massachusetts,2024,42,X,1.77981,X,X,X,X,X,X,1533,111,86133
+States,New Hampshire,2024,42,X,1.10701,X,X,X,X,X,X,99,23,8943
+States,Rhode Island,2024,42,X,1.47725,X,X,X,X,X,X,186,21,12591
+States,Vermont,2024,42,X,0.919336,X,X,X,X,X,X,62,15,6744
+States,Connecticut,2024,43,X,2.30841,X,X,X,X,X,X,1019,69,44143
+States,Maine,2024,43,X,1.56231,X,X,X,X,X,X,257,47,16450
+States,Massachusetts,2024,43,X,1.80932,X,X,X,X,X,X,1674,111,92521
+States,New Hampshire,2024,43,X,1.29898,X,X,X,X,X,X,122,23,9392
+States,Rhode Island,2024,43,X,1.48125,X,X,X,X,X,X,188,21,12692
+States,Vermont,2024,43,X,0.903955,X,X,X,X,X,X,64,15,7080
+States,Connecticut,2024,44,X,2.20031,X,X,X,X,X,X,935,69,42494
+States,Maine,2024,44,X,1.70224,X,X,X,X,X,X,252,46,14804
+States,Massachusetts,2024,44,X,1.84684,X,X,X,X,X,X,1651,110,89396
+States,New Hampshire,2024,44,X,1.20923,X,X,X,X,X,X,109,23,9014
+States,Rhode Island,2024,44,X,1.38209,X,X,X,X,X,X,178,21,12879
+States,Vermont,2024,44,X,0.950192,X,X,X,X,X,X,62,15,6525
+States,Connecticut,2024,45,X,2.25824,X,X,X,X,X,X,974,69,43131
+States,Maine,2024,45,X,1.58396,X,X,X,X,X,X,248,47,15657
+States,Massachusetts,2024,45,X,1.88648,X,X,X,X,X,X,1696,109,89903
+States,New Hampshire,2024,45,X,1.12613,X,X,X,X,X,X,105,23,9324
+States,Rhode Island,2024,45,X,1.24732,X,X,X,X,X,X,163,22,13068
+States,Vermont,2024,45,X,0.97189,X,X,X,X,X,X,65,15,6688
+States,Connecticut,2024,46,X,2.34793,X,X,X,X,X,X,982,69,41824
+States,Maine,2024,46,X,1.40131,X,X,X,X,X,X,210,47,14986
+States,Massachusetts,2024,46,X,1.86358,X,X,X,X,X,X,1624,110,87144
+States,New Hampshire,2024,46,X,1.25815,X,X,X,X,X,X,110,22,8743
+States,Rhode Island,2024,46,X,1.4279,X,X,X,X,X,X,182,22,12746
+States,Vermont,2024,46,X,0.930871,X,X,X,X,X,X,61,15,6553
+States,Connecticut,2024,47,X,2.4721,X,X,X,X,X,X,1021,68,41301
+States,Maine,2024,47,X,1.60663,X,X,X,X,X,X,219,36,13631
+States,Massachusetts,2024,47,X,1.9852,X,X,X,X,X,X,1795,110,90419
+States,New Hampshire,2024,47,X,1.44344,X,X,X,X,X,X,129,22,8937
+States,Rhode Island,2024,47,X,1.17118,X,X,X,X,X,X,151,20,12893
+States,Vermont,2024,47,X,0.928695,X,X,X,X,X,X,59,15,6353
+States,Connecticut,2024,48,X,2.61409,X,X,X,X,X,X,1015,69,38828
+States,Maine,2024,48,X,1.37313,X,X,X,X,X,X,184,47,13400
+States,Massachusetts,2024,48,X,2.32103,X,X,X,X,X,X,1768,109,76173
+States,New Hampshire,2024,48,X,1.45663,X,X,X,X,X,X,112,22,7689
+States,Rhode Island,2024,48,X,1.31846,X,X,X,X,X,X,143,22,10846
+States,Vermont,2024,48,X,0.819978,X,X,X,X,X,X,44,14,5366
+States,Connecticut,2024,49,X,2.60327,X,X,X,X,X,X,1077,69,41371
+States,Maine,2024,49,X,1.60833,X,X,X,X,X,X,204,36,12684
+States,Massachusetts,2024,49,X,2.3878,X,X,X,X,X,X,2117,110,88659
+States,New Hampshire,2024,49,X,1.45409,X,X,X,X,X,X,127,23,8734
+States,Rhode Island,2024,49,X,1.62762,X,X,X,X,X,X,214,22,13148
+States,Vermont,2024,49,X,0.794165,X,X,X,X,X,X,49,15,6170
+States,Connecticut,2024,50,X,2.77804,X,X,X,X,X,X,1164,69,41900
+States,Maine,2024,50,X,1.44634,X,X,X,X,X,X,207,47,14312
+States,Massachusetts,2024,50,X,2.76253,X,X,X,X,X,X,2491,110,90171
+States,New Hampshire,2024,50,X,1.69184,X,X,X,X,X,X,149,23,8807
+States,Rhode Island,2024,50,X,1.60478,X,X,X,X,X,X,204,20,12712
+States,Vermont,2024,50,X,0.79096,X,X,X,X,X,X,49,15,6195
+States,Connecticut,2024,51,X,3.24376,X,X,X,X,X,X,1364,69,42050
+States,Maine,2024,51,X,1.53191,X,X,X,X,X,X,234,47,15275
+States,Massachusetts,2024,51,X,3.49398,X,X,X,X,X,X,3142,109,89926
+States,New Hampshire,2024,51,X,2.50356,X,X,X,X,X,X,211,21,8428
+States,Rhode Island,2024,51,X,1.79824,X,X,X,X,X,X,241,21,13402
+States,Vermont,2024,51,X,1.19459,X,X,X,X,X,X,76,15,6362
+States,Connecticut,2024,52,X,3.9124,X,X,X,X,X,X,1624,69,41509
+States,Maine,2024,52,X,2.65513,X,X,X,X,X,X,356,47,13408
+States,Massachusetts,2024,52,X,5.30214,X,X,X,X,X,X,4188,109,78987
+States,New Hampshire,2024,52,X,4.87465,X,X,X,X,X,X,420,23,8616
+States,Rhode Island,2024,52,X,2.53683,X,X,X,X,X,X,291,21,11471
+States,Vermont,2024,52,X,1.72295,X,X,X,X,X,X,100,15,5804
+States,Connecticut,2025,1,X,4.71799,X,X,X,X,X,X,2164,69,45867
+States,Maine,2025,1,X,3.20662,X,X,X,X,X,X,496,47,15468
+States,Massachusetts,2025,1,X,5.89754,X,X,X,X,X,X,5209,109,88325
+States,New Hampshire,2025,1,X,4.45887,X,X,X,X,X,X,419,22,9397
+States,Rhode Island,2025,1,X,2.99774,X,X,X,X,X,X,385,21,12843
+States,Vermont,2025,1,X,1.77497,X,X,X,X,X,X,115,15,6479
+States,Connecticut,2025,2,X,4.64319,X,X,X,X,X,X,1991,69,42880
+States,Maine,2025,2,X,2.91044,X,X,X,X,X,X,454,47,15599
+States,Massachusetts,2025,2,X,5.30515,X,X,X,X,X,X,4841,108,91251
+States,New Hampshire,2025,2,X,4.36468,X,X,X,X,X,X,394,23,9027
+States,Rhode Island,2025,2,X,3.07949,X,X,X,X,X,X,406,20,13184
+States,Vermont,2025,2,X,1.83312,X,X,X,X,X,X,116,14,6328
+States,Connecticut,2025,3,X,5.07894,X,X,X,X,X,X,2178,69,42883
+States,Maine,2025,3,X,3.6117,X,X,X,X,X,X,567,47,15699
+States,Massachusetts,2025,3,X,7.14139,X,X,X,X,X,X,6594,109,92335
+States,New Hampshire,2025,3,X,6.29218,X,X,X,X,X,X,578,23,9186
+States,Rhode Island,2025,3,X,4.20811,X,X,X,X,X,X,550,22,13070
+States,Vermont,2025,3,X,2.66883,X,X,X,X,X,X,181,14,6782
+States,Connecticut,2025,4,X,5.84875,X,X,X,X,X,X,2478,69,42368
+States,Maine,2025,4,X,4.88272,X,X,X,X,X,X,739,47,15135
+States,Massachusetts,2025,4,X,9.18334,X,X,X,X,X,X,8201,112,89303
+States,New Hampshire,2025,4,X,8.47092,X,X,X,X,X,X,785,23,9267
+States,Rhode Island,2025,4,X,5.22355,X,X,X,X,X,X,701,21,13420
+States,Vermont,2025,4,X,4.20814,X,X,X,X,X,X,279,15,6630
+States,Connecticut,2025,5,X,6.41451,X,X,X,X,X,X,2961,69,46161
+States,Maine,2025,5,X,5.73148,X,X,X,X,X,X,905,48,15790
+States,Massachusetts,2025,5,X,10.806,X,X,X,X,X,X,10467,114,96863
+States,New Hampshire,2025,5,X,10.2981,X,X,X,X,X,X,1033,23,10031
+States,Rhode Island,2025,5,X,7.1365,X,X,X,X,X,X,1043,21,14615
+States,Vermont,2025,5,X,5.13005,X,X,X,X,X,X,357,15,6959
+States,Connecticut,2025,6,X,6.8028,X,X,X,X,X,X,3065,69,45055
+States,Maine,2025,6,X,6.71819,X,X,X,X,X,X,1017,47,15138
+States,Massachusetts,2025,6,X,11.7971,X,X,X,X,X,X,11101,111,94099
+States,New Hampshire,2025,6,X,10.8133,X,X,X,X,X,X,1069,23,9886
+States,Rhode Island,2025,6,X,6.89244,X,X,X,X,X,X,924,20,13406
+States,Vermont,2025,6,X,4.55405,X,X,X,X,X,X,313,15,6873
+States,Connecticut,2025,7,X,6.19063,X,X,X,X,X,X,2633,69,42532
+States,Maine,2025,7,X,8.77977,X,X,X,X,X,X,1257,48,14317
+States,Massachusetts,2025,7,X,10.4485,X,X,X,X,X,X,9546,112,91362
+States,New Hampshire,2025,7,X,9.9653,X,X,X,X,X,X,919,23,9222
+States,Rhode Island,2025,7,X,6.78004,X,X,X,X,X,X,913,22,13466
+States,Vermont,2025,7,X,5.20213,X,X,X,X,X,X,332,15,6382
+States,Connecticut,2025,8,X,5.00705,X,X,X,X,X,X,2059,69,41122
+States,Maine,2025,8,X,8.06857,X,X,X,X,X,X,1219,47,15108
+States,Massachusetts,2025,8,X,8.32798,X,X,X,X,X,X,7003,112,84090
+States,New Hampshire,2025,8,X,8.84113,X,X,X,X,X,X,798,23,9026
+States,Rhode Island,2025,8,X,5.01803,X,X,X,X,X,X,654,22,13033
+States,Vermont,2025,8,X,4.13464,X,X,X,X,X,X,269,15,6506
+States,Connecticut,2025,9,X,3.96984,X,X,X,X,X,X,1653,69,41639
+States,Maine,2025,9,X,6.29832,X,X,X,X,X,X,1002,47,15909
+States,Massachusetts,2025,9,X,6.28848,X,X,X,X,X,X,5668,111,90133
+States,New Hampshire,2025,9,X,6.63797,X,X,X,X,X,X,586,23,8828
+States,Rhode Island,2025,9,X,3.98574,X,X,X,X,X,X,503,22,12620
+States,Vermont,2025,9,X,2.70487,X,X,X,X,X,X,169,12,6248
+States,Connecticut,2025,10,X,3.73197,X,X,X,X,X,X,1457,69,39041
+States,Maine,2025,10,X,5.77899,X,X,X,X,X,X,888,47,15366
+States,Massachusetts,2025,10,X,4.86787,X,X,X,X,X,X,4154,110,85335
+States,New Hampshire,2025,10,X,4.67186,X,X,X,X,X,X,420,23,8990
+States,Rhode Island,2025,10,X,3.08459,X,X,X,X,X,X,396,21,12838
+States,Vermont,2025,10,X,2.74642,X,X,X,X,X,X,163,13,5935
+States,Connecticut,2025,11,X,3.53263,X,X,X,X,X,X,1408,69,39857
+States,Maine,2025,11,X,4.5248,X,X,X,X,X,X,707,47,15625
+States,Massachusetts,2025,11,X,3.96026,X,X,X,X,X,X,3420,111,86358
+States,New Hampshire,2025,11,X,4.06375,X,X,X,X,X,X,357,23,8785
+States,Rhode Island,2025,11,X,3.10599,X,X,X,X,X,X,383,22,12331
+States,Vermont,2025,11,X,2.26532,X,X,X,X,X,X,139,13,6136
+States,Connecticut,2025,12,X,3.14497,X,X,X,X,X,X,1206,69,38347
+States,Maine,2025,12,X,3.90877,X,X,X,X,X,X,593,47,15171
+States,Massachusetts,2025,12,X,3.19604,X,X,X,X,X,X,2736,112,85606
+States,New Hampshire,2025,12,X,2.97888,X,X,X,X,X,X,237,22,7956
+States,Rhode Island,2025,12,X,2.67638,X,X,X,X,X,X,338,21,12629
+States,Vermont,2025,12,X,2.28708,X,X,X,X,X,X,134,13,5859
+States,Connecticut,2025,13,X,2.88036,X,X,X,X,X,X,1166,69,40481
+States,Maine,2025,13,X,3.49137,X,X,X,X,X,X,514,47,14722
+States,Massachusetts,2025,13,X,2.86161,X,X,X,X,X,X,2417,112,84463
+States,New Hampshire,2025,13,X,2.23044,X,X,X,X,X,X,181,22,8115
+States,Rhode Island,2025,13,X,2.69386,X,X,X,X,X,X,346,22,12844
+States,Vermont,2025,13,X,2.27948,X,X,X,X,X,X,138,14,6054
+States,Connecticut,2025,14,X,2.67777,X,X,X,X,X,X,1077,69,40220
+States,Maine,2025,14,X,3.00292,X,X,X,X,X,X,432,47,14386
+States,Massachusetts,2025,14,X,2.70807,X,X,X,X,X,X,2304,112,85079
+States,New Hampshire,2025,14,X,1.86771,X,X,X,X,X,X,157,23,8406
+States,Rhode Island,2025,14,X,2.68,X,X,X,X,X,X,335,21,12500
+States,Vermont,2025,14,X,2.12055,X,X,X,X,X,X,127,14,5989
+States,Connecticut,2025,15,X,2.38718,X,X,X,X,X,X,959,69,40173
+States,Maine,2025,15,X,2.57591,X,X,X,X,X,X,386,47,14985
+States,Massachusetts,2025,15,X,2.47985,X,X,X,X,X,X,2098,111,84602
+States,New Hampshire,2025,15,X,1.70076,X,X,X,X,X,X,143,23,8408
+States,Rhode Island,2025,15,X,2.64501,X,X,X,X,X,X,368,22,13913
+States,Vermont,2025,15,X,1.98821,X,X,X,X,X,X,118,14,5935
+States,Connecticut,2025,16,X,2.24189,X,X,X,X,X,X,879,69,39208
+States,Maine,2025,16,X,1.95999,X,X,X,X,X,X,292,47,14898
+States,Massachusetts,2025,16,X,2.22533,X,X,X,X,X,X,1927,110,86594
+States,New Hampshire,2025,16,X,1.77528,X,X,X,X,X,X,155,23,8731
+States,Rhode Island,2025,16,X,3.12207,X,X,X,X,X,X,399,22,12780
+States,Vermont,2025,16,X,1.71382,X,X,X,X,X,X,106,13,6185
+States,Connecticut,2025,17,X,1.70603,X,X,X,X,X,X,692,69,40562
+States,Maine,2025,17,X,1.47108,X,X,X,X,X,X,219,47,14887
+States,Massachusetts,2025,17,X,1.92169,X,X,X,X,X,X,1575,111,81959
+States,New Hampshire,2025,17,X,1.77284,X,X,X,X,X,X,150,22,8461
+States,Rhode Island,2025,17,X,1.99649,X,X,X,X,X,X,239,20,11971
+States,Vermont,2025,17,X,1.49077,X,X,X,X,X,X,88,13,5903
+States,Connecticut,2025,18,X,1.55563,X,X,X,X,X,X,637,69,40948
+States,Maine,2025,18,X,1.05179,X,X,X,X,X,X,158,47,15022
+States,Massachusetts,2025,18,X,1.47659,X,X,X,X,X,X,1288,111,87228
+States,New Hampshire,2025,18,X,1.14408,X,X,X,X,X,X,96,23,8391
+States,Rhode Island,2025,18,X,1.93035,X,X,X,X,X,X,245,20,12692
+States,Vermont,2025,18,X,1.48936,X,X,X,X,X,X,91,13,6110
+States,Connecticut,2025,19,X,1.45833,X,X,X,X,X,X,579,69,39703
+States,Maine,2025,19,X,0.856106,X,X,X,X,X,X,125,46,14601
+States,Massachusetts,2025,19,X,1.24194,X,X,X,X,X,X,1063,111,85592
+States,New Hampshire,2025,19,X,0.762553,X,X,X,X,X,X,65,23,8524
+States,Rhode Island,2025,19,X,1.85026,X,X,X,X,X,X,237,21,12809
+States,Vermont,2025,19,X,1.82506,X,X,X,X,X,X,111,13,6082
+States,Connecticut,2025,20,X,1.36653,X,X,X,X,X,X,551,69,40321
+States,Maine,2025,20,X,0.876628,X,X,X,X,X,X,136,47,15514
+States,Massachusetts,2025,20,X,1.22228,X,X,X,X,X,X,1056,110,86396
+States,New Hampshire,2025,20,X,0.663586,X,X,X,X,X,X,56,22,8439
+States,Rhode Island,2025,20,X,1.2987,X,X,X,X,X,X,164,21,12628
+States,Vermont,2025,20,X,1.32907,X,X,X,X,X,X,79,13,5944
+States,Connecticut,2025,21,X,1.3333,X,X,X,X,X,X,530,69,39751
+States,Maine,2025,21,X,0.778085,X,X,X,X,X,X,121,47,15551
+States,Massachusetts,2025,21,X,1.19203,X,X,X,X,X,X,1022,110,85736
+States,New Hampshire,2025,21,X,0.788835,X,X,X,X,X,X,65,22,8240
+States,Rhode Island,2025,21,X,1.13939,X,X,X,X,X,X,137,21,12024
+States,Vermont,2025,21,X,1.10421,X,X,X,X,X,X,64,13,5796
+States,Connecticut,2025,22,X,1.51743,X,X,X,X,X,X,615,69,40529
+States,Maine,2025,22,X,0.811481,X,X,X,X,X,X,121,47,14911
+States,Massachusetts,2025,22,X,1.28412,X,X,X,X,X,X,1083,109,84338
+States,New Hampshire,2025,22,X,0.836013,X,X,X,X,X,X,65,22,7775
+States,Rhode Island,2025,22,X,1.08917,X,X,X,X,X,X,123,21,11293
+States,Vermont,2025,22,X,1.05947,X,X,X,X,X,X,62,13,5852
+States,Connecticut,2025,23,X,1.26089,X,X,X,X,X,X,508,69,40289
+States,Maine,2025,23,X,0.812833,X,X,X,X,X,X,113,47,13902
+States,Massachusetts,2025,23,X,1.05698,X,X,X,X,X,X,923,107,87324
+States,New Hampshire,2025,23,X,0.461598,X,X,X,X,X,X,36,22,7799
+States,Rhode Island,2025,23,X,0.935579,X,X,X,X,X,X,105,20,11223
+States,Vermont,2025,23,X,0.834834,X,X,X,X,X,X,51,13,6109
+States,Connecticut,2025,24,X,1.19888,X,X,X,X,X,X,472,69,39370
+States,Maine,2025,24,X,0.645066,X,X,X,X,X,X,87,46,13487
+States,Massachusetts,2025,24,X,0.985862,X,X,X,X,X,X,850,106,86219
+States,New Hampshire,2025,24,X,0.438077,X,X,X,X,X,X,37,22,8446
+States,Rhode Island,2025,24,X,0.77101,X,X,X,X,X,X,80,19,10376
+States,Vermont,2025,24,X,1.11205,X,X,X,X,X,X,66,13,5935
+States,Connecticut,2025,25,X,1.18607,X,X,X,X,X,X,461,69,38868
+States,Maine,2025,25,X,0.697162,X,X,X,X,X,X,98,47,14057
+States,Massachusetts,2025,25,X,0.989315,X,X,X,X,X,X,825,106,83391
+States,New Hampshire,2025,25,X,0.451897,X,X,X,X,X,X,38,22,8409
+States,Rhode Island,2025,25,X,0.610288,X,X,X,X,X,X,63,20,10323
+States,Vermont,2025,25,X,0.933152,X,X,X,X,X,X,55,13,5894
+States,Connecticut,2025,26,X,1.05013,X,X,X,X,X,X,420,69,39995
+States,Maine,2025,26,X,0.536844,X,X,X,X,X,X,73,45,13598
+States,Massachusetts,2025,26,X,0.879053,X,X,X,X,X,X,771,108,87708
+States,New Hampshire,2025,26,X,0.37803,X,X,X,X,X,X,34,23,8994
+States,Rhode Island,2025,26,X,0.447887,X,X,X,X,X,X,48,19,10717
+States,Vermont,2025,26,X,0.870565,X,X,X,X,X,X,53,13,6088
+States,Connecticut,2025,27,X,0.876263,X,X,X,X,X,X,339,69,38687
+States,Maine,2025,27,X,0.717254,X,X,X,X,X,X,107,46,14918
+States,Massachusetts,2025,27,X,0.805729,X,X,X,X,X,X,665,106,82534
+States,New Hampshire,2025,27,X,0.477927,X,X,X,X,X,X,38,22,7951
+States,Rhode Island,2025,27,X,0.647188,X,X,X,X,X,X,68,19,10507
+States,Vermont,2025,27,X,0.806885,X,X,X,X,X,X,45,12,5577
+States,Connecticut,2025,28,X,0.886891,X,X,X,X,X,X,361,69,40704
+States,Maine,2025,28,X,0.424764,X,X,X,X,X,X,73,46,17186
+States,Massachusetts,2025,28,X,0.764486,X,X,X,X,X,X,678,106,88687
+States,New Hampshire,2025,28,X,0.376117,X,X,X,X,X,X,32,22,8508
+States,Rhode Island,2025,28,X,0.536803,X,X,X,X,X,X,59,19,10991
+States,Vermont,2025,28,X,0.721412,X,X,X,X,X,X,47,13,6515
+States,Connecticut,2025,29,X,0.785039,X,X,X,X,X,X,314,69,39998
+States,Maine,2025,29,X,0.396825,X,X,X,X,X,X,67,46,16884
+States,Massachusetts,2025,29,X,0.723194,X,X,X,X,X,X,639,106,88358
+States,New Hampshire,2025,29,X,0.386437,X,X,X,X,X,X,31,21,8022
+States,Rhode Island,2025,29,X,0.451607,X,X,X,X,X,X,51,19,11293
+States,Vermont,2025,29,X,0.843355,X,X,X,X,X,X,54,13,6403
+States,Connecticut,2025,30,X,0.823417,X,X,X,X,X,X,328,69,39834
+States,Maine,2025,30,X,0.37055,X,X,X,X,X,X,61,46,16462
+States,Massachusetts,2025,30,X,0.699773,X,X,X,X,X,X,611,105,87314
+States,New Hampshire,2025,30,X,0.286747,X,X,X,X,X,X,23,20,8021
+States,Rhode Island,2025,30,X,0.508675,X,X,X,X,X,X,56,19,11009
+States,Vermont,2025,30,X,0.560897,X,X,X,X,X,X,35,13,6240
+States,Connecticut,2025,31,X,0.822415,X,X,X,X,X,X,322,69,39153
+States,Maine,2025,31,X,0.500366,X,X,X,X,X,X,82,46,16388
+States,Massachusetts,2025,31,X,0.623492,X,X,X,X,X,X,535,106,85807
+States,New Hampshire,2025,31,X,0.271432,X,X,X,X,X,X,24,22,8842
+States,Rhode Island,2025,31,X,0.539163,X,X,X,X,X,X,55,16,10201
+States,Vermont,2025,31,X,0.882786,X,X,X,X,X,X,54,12,6117
+States,Connecticut,2025,32,X,0.865569,X,X,X,X,X,X,339,69,39165
+States,Maine,2025,32,X,0.454804,X,X,X,X,X,X,72,46,15831
+States,Massachusetts,2025,32,X,0.642739,X,X,X,X,X,X,553,105,86038
+States,New Hampshire,2025,32,X,0.35506,X,X,X,X,X,X,28,21,7886
+States,Rhode Island,2025,32,X,0.459559,X,X,X,X,X,X,50,17,10880
+States,Vermont,2025,32,X,0.569661,X,X,X,X,X,X,35,13,6144
+States,Connecticut,2025,33,X,0.875985,X,X,X,X,X,X,350,69,39955
+States,Maine,2025,33,X,0.444917,X,X,X,X,X,X,67,46,15059
+States,Massachusetts,2025,33,X,0.657179,X,X,X,X,X,X,574,107,87343
+States,New Hampshire,2025,33,X,0.374894,X,X,X,X,X,X,31,22,8269
+States,Rhode Island,2025,33,X,0.402396,X,X,X,X,X,X,45,18,11183
+States,Vermont,2025,33,X,0.600942,X,X,X,X,X,X,37,12,6157
+States,Connecticut,2025,34,X,0.864985,X,X,X,X,X,X,335,69,38729
+States,Maine,2025,34,X,0.465936,X,X,X,X,X,X,74,46,15882
+States,Massachusetts,2025,34,X,0.658768,X,X,X,X,X,X,556,107,84400
+States,New Hampshire,2025,34,X,0.383047,X,X,X,X,X,X,31,22,8093
+States,Rhode Island,2025,34,X,0.787106,X,X,X,X,X,X,84,17,10672
+States,Vermont,2025,34,X,0.682335,X,X,X,X,X,X,36,11,5276
+States,Connecticut,2025,35,X,0.925347,X,X,X,X,X,X,370,69,39985
+States,Maine,2025,35,X,0.41648,X,X,X,X,X,X,65,46,15607
+States,Massachusetts,2025,35,X,0.943278,X,X,X,X,X,X,753,110,79828
+States,New Hampshire,2025,35,X,0.455362,X,X,X,X,X,X,38,22,8345
+States,Rhode Island,2025,35,X,0.687893,X,X,X,X,X,X,70,18,10176
+States,Vermont,2025,35,X,0.684045,X,X,X,X,X,X,37,12,5409
+States,Connecticut,2025,36,X,1.24718,X,X,X,X,X,X,503,69,40331
+States,Maine,2025,36,X,0.437666,X,X,X,X,X,X,66,46,15080
+States,Massachusetts,2025,36,X,0.890072,X,X,X,X,X,X,779,111,87521
+States,New Hampshire,2025,36,X,0.348149,X,X,X,X,X,X,30,22,8617
+States,Rhode Island,2025,36,X,0.849806,X,X,X,X,X,X,92,18,10826
+States,Vermont,2025,36,X,0.900073,X,X,X,X,X,X,49,12,5444
+States,Connecticut,2025,37,X,1.48719,X,X,X,X,X,X,590,68,39672
+States,Maine,2025,37,X,0.464751,X,X,X,X,X,X,71,46,15277
+States,Massachusetts,2025,37,X,0.970015,X,X,X,X,X,X,844,111,87009
+States,New Hampshire,2025,37,X,0.475172,X,X,X,X,X,X,40,22,8418
+States,Rhode Island,2025,37,X,1.15051,X,X,X,X,X,X,122,16,10604
+States,Vermont,2025,37,X,1.12742,X,X,X,X,X,X,63,12,5588
+States,Connecticut,2025,38,X,1.60784,X,X,X,X,X,X,655,68,40738
+States,Maine,2025,38,X,0.870294,X,X,X,X,X,X,135,46,15512
+States,Massachusetts,2025,38,X,1.14182,X,X,X,X,X,X,1004,109,87930
+States,New Hampshire,2025,38,X,0.438493,X,X,X,X,X,X,37,20,8438
+States,Rhode Island,2025,38,X,2.08297,X,X,X,X,X,X,241,17,11570
+States,Vermont,2025,38,X,0.929825,X,X,X,X,X,X,53,12,5700
